@@ -1,30 +1,35 @@
+// ybotman.com/src/components/Header.js
 import React from "react"
 import PropTypes from "prop-types"
-import { AppBar, Toolbar, Typography, Button } from "@mui/material"
+import { AppBar, Toolbar } from "@mui/material"
 
 function Header({ siteTitle }) {
   return (
-    <AppBar position="static">
-      <Toolbar>
-        <Typography variant="h6" sx={{ flexGrow: 1 }}>
-          {siteTitle}
-        </Typography>
-        <Button color="inherit" href="/">
-          Home
-        </Button>
-        <Button color="inherit" href="/blog">
-          Blog
-        </Button>
-        <Button color="inherit" href="/tags">
-          Tags
-        </Button>
+    <AppBar
+      position="static"
+      sx={{
+        backgroundColor: "transparent",
+        boxShadow: "none",
+      }}
+    >
+      <Toolbar sx={{ minHeight: "auto", padding: 0 }}>
+        {/* The wide header image */}
+        <img
+          src="/images/TAOOT2.jpeg"
+          alt={siteTitle}
+          style={{ width: "100%", display: "block" }}
+        />
       </Toolbar>
     </AppBar>
   )
 }
 
 Header.propTypes = {
-  siteTitle: PropTypes.string.isRequired,
+  siteTitle: PropTypes.string,
+}
+
+Header.defaultProps = {
+  siteTitle: "YbotMan Blog", // or any fallback
 }
 
 export default Header
