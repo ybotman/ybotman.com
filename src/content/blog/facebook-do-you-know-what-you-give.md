@@ -3,6 +3,7 @@ title: "FaceBook: Do You Know What You Give?"
 date: "2024-07-26"
 slug: "facebook-do-you-know-what-you-give"
 categories: ["a-bad-idea", "knowledge", "social-media", "you-should-know"]
+featuredImg: "/images/Giving Up Data FB.jpg"
 ---
 
 <!-- wp:paragraph -->

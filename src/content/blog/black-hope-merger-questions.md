@@ -1,8 +1,9 @@
 ---
-title: "Black hope merger questions"
+title: "Black hole merger questions"
 date: "2020-03-01"
 slug: "black-hope-merger-questions"
 categories: ["astrophysics", "i-have-questions", "i-want-to-know"]
+featuredImg: "/images/BlackHolesMrging.webp"
 ---
 
 <!-- wp:paragraph -->

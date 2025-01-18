@@ -3,7 +3,8 @@ title: "Dogs are amazing"
 date: "2019-11-22"
 slug: "dogs"
 categories: ["knowledge", "thinking", "you-should-know"]
-featuredImg: "/images/dogs-are-amazing-featured.png"
+featuredImg: "/images/HappyDogs.webp"
+
 ---
 
 <!-- wp:image {"id":129} -->
