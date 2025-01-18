@@ -34,14 +34,15 @@ export default function HomePage({ data }) {
 
 export const pageQuery = graphql`
   query HomePageQuery {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      nodes {
-        excerpt(pruneLength: 150)
-        frontmatter {
-          slug
-          title
-          date(formatString: "MMMM DD, YYYY")
-          featuredImg
+    allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
+    nodes {
+      excerpt(pruneLength: 150)
+      frontmatter {
+        slug
+        title
+        date(formatString: "MMMM DD, YYYY")
+        featuredImg
+        tags
         }
       }
     }
