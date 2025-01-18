@@ -1,0 +1,368 @@
+total 0
+drwxr-xr-x@  9 tobybalsley  staff  288 Jan 18 01:01 .
+drwxr-xr-x@ 22 tobybalsley  staff  704 Jan 18 00:22 ..
+drwxr-xr-x@ 10 tobybalsley  staff  320 Jan 18 00:58 components
+drwxr-xr-x@  4 tobybalsley  staff  128 Jan 17 21:05 content
+-rw-r--r--@  1 tobybalsley  staff    0 Jan 18 01:01 files
+drwxr-xr-x@  4 tobybalsley  staff  128 Jan 17 14:27 images
+drwxr-xr-x@  8 tobybalsley  staff  256 Jan 18 00:50 pages
+drwxr-xr-x@  3 tobybalsley  staff   96 Jan 17 23:58 templates
+drwxr-xr-x@  5 tobybalsley  staff  160 Jan 17 14:43 utils
+
+./components:
+total 64
+drwxr-xr-x@ 10 tobybalsley  staff   320 Jan 18 00:58 .
+drwxr-xr-x@  9 tobybalsley  staff   288 Jan 18 01:01 ..
+-rw-r--r--@  1 tobybalsley  staff   540 Jan 18 00:22 DarkModeToggle.js
+-rw-r--r--@  1 tobybalsley  staff   338 Jan 18 00:22 Footer.js
+-rw-r--r--@  1 tobybalsley  staff   679 Jan 18 00:22 Header.js
+-rw-r--r--@  1 tobybalsley  staff  3953 Jan 17 14:27 Layout.css
+-rw-r--r--@  1 tobybalsley  staff   361 Jan 18 00:22 Layout.js
+-rw-r--r--@  1 tobybalsley  staff  1136 Jan 18 00:22 PostCard.js
+-rw-r--r--@  1 tobybalsley  staff   537 Jan 18 00:22 Seo2.js
+-rw-r--r--@  1 tobybalsley  staff   853 Jan 17 14:27 index.module.css
+
+./content:
+total 16
+drwxr-xr-x@   4 tobybalsley  staff   128 Jan 17 21:05 .
+drwxr-xr-x@   9 tobybalsley  staff   288 Jan 18 01:01 ..
+-rw-r--r--@   1 tobybalsley  staff  6148 Jan 17 21:05 .DS_Store
+drwxr-xr-x@ 112 tobybalsley  staff  3584 Jan 17 21:05 blog
+
+./content/blog:
+total 1184
+drwxr-xr-x@ 112 tobybalsley  staff   3584 Jan 17 21:05 .
+drwxr-xr-x@   4 tobybalsley  staff    128 Jan 17 21:05 ..
+-rw-r--r--@   1 tobybalsley  staff   8009 Jan 18 00:22 1952-robert-heileins-predictions-of-2000.md
+-rw-r--r--@   1 tobybalsley  staff  15362 Jan 17 15:29 6-levels-of-car-automation.md
+-rw-r--r--@   1 tobybalsley  staff    184 Jan 18 00:22 a-person-is-good-it-takes-people-to-be-bad.md
+-rw-r--r--@   1 tobybalsley  staff    190 Jan 17 15:29 about-rhythm-vs-pitch.md
+-rw-r--r--@   1 tobybalsley  staff    165 Jan 18 00:22 alibaba-baidu-tencent.md
+-rw-r--r--@   1 tobybalsley  staff    557 Jan 17 15:29 all-greenhouse-gas-source-and-what-to-do.md
+-rw-r--r--@   1 tobybalsley  staff    135 Jan 18 00:22 americans-dont-know-how-to-eat.md
+-rw-r--r--@   1 tobybalsley  staff    835 Jan 17 15:29 are-we-on-track-to-star-trek.md
+-rw-r--r--@   1 tobybalsley  staff   2056 Jan 18 00:22 argentine-tango-the-core-hurdles.md
+-rw-r--r--@   1 tobybalsley  staff   2828 Jan 18 00:22 autonomous-cars-the-ai-will-make-horrible-choices.md
+-rw-r--r--@   1 tobybalsley  staff    172 Jan 18 00:22 awareness-of-time-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    152 Jan 18 00:22 black-hole-merger-questions.md
+-rw-r--r--@   1 tobybalsley  staff   2229 Jan 17 15:29 black-hope-merger-questions.md
+-rw-r--r--@   1 tobybalsley  staff    142 Jan 18 00:22 building-and-office-space-in-the-us.md
+-rw-r--r--@   1 tobybalsley  staff   2098 Jan 18 00:22 can-a-regular-car-abuse-an-fully-autonomous-car.md
+-rw-r--r--@   1 tobybalsley  staff   4673 Jan 18 00:22 confusing-things-about-english.md
+-rw-r--r--@   1 tobybalsley  staff   1534 Jan 17 15:29 corncowsoilland.md
+-rw-r--r--@   1 tobybalsley  staff    753 Jan 17 15:29 do-whales-have-vowels.md
+-rw-r--r--@   1 tobybalsley  staff   2655 Jan 17 15:29 dogs.md
+-rw-r--r--@   1 tobybalsley  staff   1842 Jan 17 15:29 drone-silvery.md
+-rw-r--r--@   1 tobybalsley  staff   8904 Jan 17 15:29 ever-think-about-ear-wax.md
+-rw-r--r--@   1 tobybalsley  staff   1404 Jan 17 15:29 ever-wonder-how-a-chinese-dictionary-works.md
+-rw-r--r--@   1 tobybalsley  staff    185 Jan 18 00:22 every-wonder-how-a-chinese-typewriter-works.md
+-rw-r--r--@   1 tobybalsley  staff   5050 Jan 17 15:29 facebook-do-you-know-what-you-give.md
+-rw-r--r--@   1 tobybalsley  staff    161 Jan 18 00:22 facebook-what-you-dont-known-you-gave-them.md
+-rw-r--r--@   1 tobybalsley  staff   1857 Jan 17 15:29 facebook-what-you-give-it.md
+-rw-r--r--@   1 tobybalsley  staff    190 Jan 18 00:22 fingerprints-iris-scanners-bad-idea.md
+-rw-r--r--@   1 tobybalsley  staff    170 Jan 18 00:22 flavor-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    208 Jan 18 00:22 get-a-burner-phone-but-not-for-the-reasons-you-think.md
+-rw-r--r--@   1 tobybalsley  staff    287 Jan 18 00:22 google-apple-facebook-microsoft-amazon-netflix-gafman.md
+-rw-r--r--@   1 tobybalsley  staff    178 Jan 18 00:22 guilt-is-a-weird-shame-is-not.md
+-rw-r--r--@   1 tobybalsley  staff   7487 Jan 17 15:29 have-you-every-thought-about-farts-2.md
+-rw-r--r--@   1 tobybalsley  staff   7487 Jan 17 15:29 have-you-every-thought-about-farts-3.md
+-rw-r--r--@   1 tobybalsley  staff   7448 Jan 17 15:29 have-you-every-thought-about-farts.md
+-rw-r--r--@   1 tobybalsley  staff    155 Jan 18 00:22 hearing-and-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    185 Jan 17 15:29 how-can-black-hole-grow.md
+-rw-r--r--@   1 tobybalsley  staff    122 Jan 18 00:22 how-cantonese-works.md
+-rw-r--r--@   1 tobybalsley  staff    120 Jan 18 00:22 how-do-i-learn-rhythm.md
+-rw-r--r--@   1 tobybalsley  staff   2605 Jan 17 15:29 how-does-your-stomach-know-when-to-throw-up.md
+-rw-r--r--@   1 tobybalsley  staff    117 Jan 18 00:22 how-english-works.md
+-rw-r--r--@   1 tobybalsley  staff    194 Jan 18 00:22 how-little-we-manage-fermentation.md
+-rw-r--r--@   1 tobybalsley  staff   2019 Jan 17 15:29 how-long-to-learn-to-dance-tango.md
+-rw-r--r--@   1 tobybalsley  staff    120 Jan 18 00:22 how-mandarin-works.md
+-rw-r--r--@   1 tobybalsley  staff   6678 Jan 17 15:29 is-it-all-about-to-change.md
+-rw-r--r--@   1 tobybalsley  staff    675 Jan 17 15:29 is-the-universe-actually-math-or-simple-can-be-described-by-it.md
+-rw-r--r--@   1 tobybalsley  staff    571 Jan 17 15:29 its-not-changing.md
+-rw-r--r--@   1 tobybalsley  staff    418 Jan 17 15:29 jobs-and-economy-of-the-future.md
+-rw-r--r--@   1 tobybalsley  staff   2689 Jan 17 15:29 learn-to-read-chinese.md
+-rw-r--r--@   1 tobybalsley  staff    451 Jan 17 15:29 life-as-a-rotary-and-not-stoplight.md
+-rw-r--r--@   1 tobybalsley  staff    589 Jan 17 15:29 long-thoughts-and-time.md
+-rw-r--r--@   1 tobybalsley  staff    141 Jan 18 00:22 look-through-the-others-eyes.md
+-rw-r--r--@   1 tobybalsley  staff    115 Jan 18 00:22 managing-amazon.md
+-rw-r--r--@   1 tobybalsley  staff    106 Jan 18 00:22 managing-facebook.md
+-rw-r--r--@   1 tobybalsley  staff    115 Jan 18 00:22 managing-google.md
+-rw-r--r--@   1 tobybalsley  staff    130 Jan 18 00:22 meat.md
+-rw-r--r--@   1 tobybalsley  staff    323 Jan 17 15:29 multi-sensory-big-data.md
+-rw-r--r--@   1 tobybalsley  staff    124 Jan 18 00:22 parking-vs-speeding.md
+-rw-r--r--@   1 tobybalsley  staff   9462 Jan 18 00:22 password-pricy.md
+-rw-r--r--@   1 tobybalsley  staff   4487 Jan 17 15:29 passwords.md
+-rw-r--r--@   1 tobybalsley  staff   5485 Jan 17 15:29 perfect-pitch-vs-relative-pitch.md
+-rw-r--r--@   1 tobybalsley  staff    138 Jan 18 00:22 phatic-phrases-how-are-you.md
+-rw-r--r--@   1 tobybalsley  staff   2456 Jan 18 00:22 philosophy-options-of-the-universe-4-choices.md
+-rw-r--r--@   1 tobybalsley  staff    118 Jan 18 00:22 politeness.md
+-rw-r--r--@   1 tobybalsley  staff   2230 Jan 17 15:29 problems-of-autodrive-cars.md
+-rw-r--r--@   1 tobybalsley  staff    122 Jan 18 00:22 sarcasm-and-chinese.md
+-rw-r--r--@   1 tobybalsley  staff    156 Jan 18 00:22 scent-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    163 Jan 18 00:22 seeing-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    886 Jan 17 15:29 singing-things-i-hate.md
+-rw-r--r--@   1 tobybalsley  staff    776 Jan 17 15:29 slavery-is-constitutional-for-inmates.md
+-rw-r--r--@   1 tobybalsley  staff    164 Jan 18 00:22 sourdough-bread-is-easier-than-you-think.md
+-rw-r--r--@   1 tobybalsley  staff   4644 Jan 18 00:22 spinning-black-hole-limits.md
+-rw-r--r--@   1 tobybalsley  staff   3561 Jan 17 15:29 stagnant-innovation.md
+-rw-r--r--@   1 tobybalsley  staff   2658 Jan 18 00:22 startrek-vs-starwars.md
+-rw-r--r--@   1 tobybalsley  staff    166 Jan 18 00:22 teaching-dancing-musicians-concepts.md
+-rw-r--r--@   1 tobybalsley  staff    256 Jan 17 15:29 technology-of-tv-commercials.md
+-rw-r--r--@   1 tobybalsley  staff   4214 Jan 18 00:22 that-time-kennedy-tried-to-stop-the-moon-shot.md
+-rw-r--r--@   1 tobybalsley  staff    166 Jan 18 00:22 the-effect-of-autonomous-cars.md
+-rw-r--r--@   1 tobybalsley  staff    143 Jan 18 00:22 the-facebook-pixel-you-should-know.md
+-rw-r--r--@   1 tobybalsley  staff   2074 Jan 17 15:29 the-human-voice.md
+-rw-r--r--@   1 tobybalsley  staff   4464 Jan 17 15:29 the-last-unclaimed-part-of-earth.md
+-rw-r--r--@   1 tobybalsley  staff    150 Jan 18 00:22 the-parking-lot-problem.md
+-rw-r--r--@   1 tobybalsley  staff    145 Jan 18 00:22 the-parking-spot-problem.md
+-rw-r--r--@   1 tobybalsley  staff   8964 Jan 17 15:29 the-privacy-battle.md
+-rw-r--r--@   1 tobybalsley  staff    181 Jan 18 00:22 the-speed-of-light-is-not-about-light-or-speed.md
+-rw-r--r--@   1 tobybalsley  staff    413 Jan 17 15:29 there-is-not-a-yes-or-no-in-chinese.md
+-rw-r--r--@   1 tobybalsley  staff    189 Jan 18 00:22 things-people-get-wrong-relativity.md
+-rw-r--r--@   1 tobybalsley  staff    158 Jan 18 00:22 time-dialation-limits.md
+-rw-r--r--@   1 tobybalsley  staff    192 Jan 18 00:22 types-of-humor.md
+-rw-r--r--@   1 tobybalsley  staff   3827 Jan 18 00:22 types-of-isms-or-what-is-the-nature-of-everything.md
+-rw-r--r--@   1 tobybalsley  staff    919 Jan 18 00:22 upcoming-glories-of-autonomous-driving.md
+-rw-r--r--@   1 tobybalsley  staff    411 Jan 17 15:29 vowels-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff   9478 Jan 17 15:29 we-dont-deserve-dogs.md
+-rw-r--r--@   1 tobybalsley  staff  12135 Jan 17 15:29 what-about-6g.md
+-rw-r--r--@   1 tobybalsley  staff    120 Jan 18 00:22 what-america-gets-right.md
+-rw-r--r--@   1 tobybalsley  staff    131 Jan 18 00:22 what-america-gets-wrong.md
+-rw-r--r--@   1 tobybalsley  staff   2375 Jan 17 15:29 what-if-the-world-of-startrek.md
+-rw-r--r--@   1 tobybalsley  staff  13987 Jan 17 15:29 what-is-a-vowel.md
+-rw-r--r--@   1 tobybalsley  staff    145 Jan 18 00:22 what-is-your-bucket-map.md
+-rw-r--r--@   1 tobybalsley  staff    335 Jan 17 15:29 what-part-of-the-tree-are-you.md
+-rw-r--r--@   1 tobybalsley  staff    229 Jan 18 00:22 whats-the-deal-with-chinese-tones.md
+-rw-r--r--@   1 tobybalsley  staff   1961 Jan 17 15:29 when-do-we-learn-to-be-disgusted-at-gross-things.md
+-rw-r--r--@   1 tobybalsley  staff   6638 Jan 17 15:29 why-cant-i-throw-away-books-a-literary-hoarders-lament-2.md
+-rw-r--r--@   1 tobybalsley  staff   6636 Jan 17 15:29 why-cant-i-throw-away-books-a-literary-hoarders-lament.md
+-rw-r--r--@   1 tobybalsley  staff    174 Jan 18 00:22 why-is-glass-transparent-and-why-is-everything-not.md
+-rw-r--r--@   1 tobybalsley  staff    175 Jan 18 00:22 year-2030-predictions.md
+-rw-r--r--@   1 tobybalsley  staff    176 Jan 18 00:22 year-2100-predictions.md
+-rw-r--r--@   1 tobybalsley  staff    666 Jan 17 15:29 yogurts-and-humans.md
+-rw-r--r--@   1 tobybalsley  staff    400 Jan 17 15:29 you-have-to-be-more-than-1-2.md
+-rw-r--r--@   1 tobybalsley  staff    158 Jan 18 00:22 your-printer-is-spying-on-you-really.md
+-rw-r--r--@   1 tobybalsley  staff  33779 Jan 17 15:29 your-weather-app-privacy-statement.md
+
+./images:
+total 56
+drwxr-xr-x@ 4 tobybalsley  staff    128 Jan 17 14:27 .
+drwxr-xr-x@ 9 tobybalsley  staff    288 Jan 18 01:01 ..
+-rw-r--r--@ 1 tobybalsley  staff   3215 Jan 17 14:27 example.png
+-rw-r--r--@ 1 tobybalsley  staff  21212 Jan 17 14:27 gatsby-icon.png
+
+./pages:
+total 40
+drwxr-xr-x@ 8 tobybalsley  staff   256 Jan 18 00:50 .
+drwxr-xr-x@ 9 tobybalsley  staff   288 Jan 18 01:01 ..
+-rw-r--r--@ 1 tobybalsley  staff   352 Jan 18 00:59 404.js
+drwxr-xr-x@ 4 tobybalsley  staff   128 Jan 18 00:50 blog
+-rw-r--r--@ 1 tobybalsley  staff  1239 Jan 18 00:59 index.js
+-rw-r--r--@ 1 tobybalsley  staff   387 Jan 18 00:59 page-2.js
+-rw-r--r--@ 1 tobybalsley  staff  1376 Jan 18 00:59 using-ssr.js
+-rw-r--r--@ 1 tobybalsley  staff   676 Jan 18 00:59 using-typescript.tsx
+
+./pages/blog:
+total 24
+drwxr-xr-x@ 4 tobybalsley  staff   128 Jan 18 00:50 .
+drwxr-xr-x@ 8 tobybalsley  staff   256 Jan 18 00:50 ..
+-rw-r--r--@ 1 tobybalsley  staff  6148 Jan 17 16:17 .DS_Store
+-rw-r--r--@ 1 tobybalsley  staff  1465 Jan 18 00:08 {MarkdownRemark(frontmatter: {slug: {ne: null}}).frontmatter__slug}
+
+./templates:
+total 8
+drwxr-xr-x@ 3 tobybalsley  staff   96 Jan 17 23:58 .
+drwxr-xr-x@ 9 tobybalsley  staff  288 Jan 18 01:01 ..
+-rw-r--r--@ 1 tobybalsley  staff  672 Jan 18 00:59 using-dsg.js
+
+./utils:
+total 32
+drwxr-xr-x@ 5 tobybalsley  staff   160 Jan 17 14:43 .
+drwxr-xr-x@ 9 tobybalsley  staff   288 Jan 18 01:01 ..
+-rw-r--r--@ 1 tobybalsley  staff  5235 Jan 18 00:22 importYbotManWordPress.js
+-rw-r--r--@ 1 tobybalsley  staff   344 Jan 18 00:22 search.js
+-rw-r--r--@ 1 tobybalsley  staff   333 Jan 18 00:22 theme.js
+total 32
+drwxr-xr-x@  9 tobybalsley  staff    288 Jan 18 01:01 .
+drwxr-xr-x@ 22 tobybalsley  staff    704 Jan 18 00:22 ..
+drwxr-xr-x@ 10 tobybalsley  staff    320 Jan 18 00:58 components
+drwxr-xr-x@  4 tobybalsley  staff    128 Jan 17 21:05 content
+-rw-r--r--@  1 tobybalsley  staff  12864 Jan 18 01:01 files
+drwxr-xr-x@  4 tobybalsley  staff    128 Jan 17 14:27 images
+drwxr-xr-x@  8 tobybalsley  staff    256 Jan 18 00:50 pages
+drwxr-xr-x@  3 tobybalsley  staff     96 Jan 17 23:58 templates
+drwxr-xr-x@  5 tobybalsley  staff    160 Jan 17 14:43 utils
+
+./components:
+total 64
+drwxr-xr-x@ 10 tobybalsley  staff   320 Jan 18 00:58 .
+drwxr-xr-x@  9 tobybalsley  staff   288 Jan 18 01:01 ..
+-rw-r--r--@  1 tobybalsley  staff   540 Jan 18 00:22 DarkModeToggle.js
+-rw-r--r--@  1 tobybalsley  staff   338 Jan 18 00:22 Footer.js
+-rw-r--r--@  1 tobybalsley  staff   679 Jan 18 00:22 Header.js
+-rw-r--r--@  1 tobybalsley  staff  3953 Jan 17 14:27 Layout.css
+-rw-r--r--@  1 tobybalsley  staff   361 Jan 18 00:22 Layout.js
+-rw-r--r--@  1 tobybalsley  staff  1136 Jan 18 00:22 PostCard.js
+-rw-r--r--@  1 tobybalsley  staff   537 Jan 18 00:22 Seo2.js
+-rw-r--r--@  1 tobybalsley  staff   853 Jan 17 14:27 index.module.css
+
+./content:
+total 16
+drwxr-xr-x@   4 tobybalsley  staff   128 Jan 17 21:05 .
+drwxr-xr-x@   9 tobybalsley  staff   288 Jan 18 01:01 ..
+-rw-r--r--@   1 tobybalsley  staff  6148 Jan 17 21:05 .DS_Store
+drwxr-xr-x@ 112 tobybalsley  staff  3584 Jan 17 21:05 blog
+
+./content/blog:
+total 1184
+drwxr-xr-x@ 112 tobybalsley  staff   3584 Jan 17 21:05 .
+drwxr-xr-x@   4 tobybalsley  staff    128 Jan 17 21:05 ..
+-rw-r--r--@   1 tobybalsley  staff   8009 Jan 18 00:22 1952-robert-heileins-predictions-of-2000.md
+-rw-r--r--@   1 tobybalsley  staff  15362 Jan 17 15:29 6-levels-of-car-automation.md
+-rw-r--r--@   1 tobybalsley  staff    184 Jan 18 00:22 a-person-is-good-it-takes-people-to-be-bad.md
+-rw-r--r--@   1 tobybalsley  staff    190 Jan 17 15:29 about-rhythm-vs-pitch.md
+-rw-r--r--@   1 tobybalsley  staff    165 Jan 18 00:22 alibaba-baidu-tencent.md
+-rw-r--r--@   1 tobybalsley  staff    557 Jan 17 15:29 all-greenhouse-gas-source-and-what-to-do.md
+-rw-r--r--@   1 tobybalsley  staff    135 Jan 18 00:22 americans-dont-know-how-to-eat.md
+-rw-r--r--@   1 tobybalsley  staff    835 Jan 17 15:29 are-we-on-track-to-star-trek.md
+-rw-r--r--@   1 tobybalsley  staff   2056 Jan 18 00:22 argentine-tango-the-core-hurdles.md
+-rw-r--r--@   1 tobybalsley  staff   2828 Jan 18 00:22 autonomous-cars-the-ai-will-make-horrible-choices.md
+-rw-r--r--@   1 tobybalsley  staff    172 Jan 18 00:22 awareness-of-time-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    152 Jan 18 00:22 black-hole-merger-questions.md
+-rw-r--r--@   1 tobybalsley  staff   2229 Jan 17 15:29 black-hope-merger-questions.md
+-rw-r--r--@   1 tobybalsley  staff    142 Jan 18 00:22 building-and-office-space-in-the-us.md
+-rw-r--r--@   1 tobybalsley  staff   2098 Jan 18 00:22 can-a-regular-car-abuse-an-fully-autonomous-car.md
+-rw-r--r--@   1 tobybalsley  staff   4673 Jan 18 00:22 confusing-things-about-english.md
+-rw-r--r--@   1 tobybalsley  staff   1534 Jan 17 15:29 corncowsoilland.md
+-rw-r--r--@   1 tobybalsley  staff    753 Jan 17 15:29 do-whales-have-vowels.md
+-rw-r--r--@   1 tobybalsley  staff   2655 Jan 17 15:29 dogs.md
+-rw-r--r--@   1 tobybalsley  staff   1842 Jan 17 15:29 drone-silvery.md
+-rw-r--r--@   1 tobybalsley  staff   8904 Jan 17 15:29 ever-think-about-ear-wax.md
+-rw-r--r--@   1 tobybalsley  staff   1404 Jan 17 15:29 ever-wonder-how-a-chinese-dictionary-works.md
+-rw-r--r--@   1 tobybalsley  staff    185 Jan 18 00:22 every-wonder-how-a-chinese-typewriter-works.md
+-rw-r--r--@   1 tobybalsley  staff   5050 Jan 17 15:29 facebook-do-you-know-what-you-give.md
+-rw-r--r--@   1 tobybalsley  staff    161 Jan 18 00:22 facebook-what-you-dont-known-you-gave-them.md
+-rw-r--r--@   1 tobybalsley  staff   1857 Jan 17 15:29 facebook-what-you-give-it.md
+-rw-r--r--@   1 tobybalsley  staff    190 Jan 18 00:22 fingerprints-iris-scanners-bad-idea.md
+-rw-r--r--@   1 tobybalsley  staff    170 Jan 18 00:22 flavor-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    208 Jan 18 00:22 get-a-burner-phone-but-not-for-the-reasons-you-think.md
+-rw-r--r--@   1 tobybalsley  staff    287 Jan 18 00:22 google-apple-facebook-microsoft-amazon-netflix-gafman.md
+-rw-r--r--@   1 tobybalsley  staff    178 Jan 18 00:22 guilt-is-a-weird-shame-is-not.md
+-rw-r--r--@   1 tobybalsley  staff   7487 Jan 17 15:29 have-you-every-thought-about-farts-2.md
+-rw-r--r--@   1 tobybalsley  staff   7487 Jan 17 15:29 have-you-every-thought-about-farts-3.md
+-rw-r--r--@   1 tobybalsley  staff   7448 Jan 17 15:29 have-you-every-thought-about-farts.md
+-rw-r--r--@   1 tobybalsley  staff    155 Jan 18 00:22 hearing-and-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    185 Jan 17 15:29 how-can-black-hole-grow.md
+-rw-r--r--@   1 tobybalsley  staff    122 Jan 18 00:22 how-cantonese-works.md
+-rw-r--r--@   1 tobybalsley  staff    120 Jan 18 00:22 how-do-i-learn-rhythm.md
+-rw-r--r--@   1 tobybalsley  staff   2605 Jan 17 15:29 how-does-your-stomach-know-when-to-throw-up.md
+-rw-r--r--@   1 tobybalsley  staff    117 Jan 18 00:22 how-english-works.md
+-rw-r--r--@   1 tobybalsley  staff    194 Jan 18 00:22 how-little-we-manage-fermentation.md
+-rw-r--r--@   1 tobybalsley  staff   2019 Jan 17 15:29 how-long-to-learn-to-dance-tango.md
+-rw-r--r--@   1 tobybalsley  staff    120 Jan 18 00:22 how-mandarin-works.md
+-rw-r--r--@   1 tobybalsley  staff   6678 Jan 17 15:29 is-it-all-about-to-change.md
+-rw-r--r--@   1 tobybalsley  staff    675 Jan 17 15:29 is-the-universe-actually-math-or-simple-can-be-described-by-it.md
+-rw-r--r--@   1 tobybalsley  staff    571 Jan 17 15:29 its-not-changing.md
+-rw-r--r--@   1 tobybalsley  staff    418 Jan 17 15:29 jobs-and-economy-of-the-future.md
+-rw-r--r--@   1 tobybalsley  staff   2689 Jan 17 15:29 learn-to-read-chinese.md
+-rw-r--r--@   1 tobybalsley  staff    451 Jan 17 15:29 life-as-a-rotary-and-not-stoplight.md
+-rw-r--r--@   1 tobybalsley  staff    589 Jan 17 15:29 long-thoughts-and-time.md
+-rw-r--r--@   1 tobybalsley  staff    141 Jan 18 00:22 look-through-the-others-eyes.md
+-rw-r--r--@   1 tobybalsley  staff    115 Jan 18 00:22 managing-amazon.md
+-rw-r--r--@   1 tobybalsley  staff    106 Jan 18 00:22 managing-facebook.md
+-rw-r--r--@   1 tobybalsley  staff    115 Jan 18 00:22 managing-google.md
+-rw-r--r--@   1 tobybalsley  staff    130 Jan 18 00:22 meat.md
+-rw-r--r--@   1 tobybalsley  staff    323 Jan 17 15:29 multi-sensory-big-data.md
+-rw-r--r--@   1 tobybalsley  staff    124 Jan 18 00:22 parking-vs-speeding.md
+-rw-r--r--@   1 tobybalsley  staff   9462 Jan 18 00:22 password-pricy.md
+-rw-r--r--@   1 tobybalsley  staff   4487 Jan 17 15:29 passwords.md
+-rw-r--r--@   1 tobybalsley  staff   5485 Jan 17 15:29 perfect-pitch-vs-relative-pitch.md
+-rw-r--r--@   1 tobybalsley  staff    138 Jan 18 00:22 phatic-phrases-how-are-you.md
+-rw-r--r--@   1 tobybalsley  staff   2456 Jan 18 00:22 philosophy-options-of-the-universe-4-choices.md
+-rw-r--r--@   1 tobybalsley  staff    118 Jan 18 00:22 politeness.md
+-rw-r--r--@   1 tobybalsley  staff   2230 Jan 17 15:29 problems-of-autodrive-cars.md
+-rw-r--r--@   1 tobybalsley  staff    122 Jan 18 00:22 sarcasm-and-chinese.md
+-rw-r--r--@   1 tobybalsley  staff    156 Jan 18 00:22 scent-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    163 Jan 18 00:22 seeing-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff    886 Jan 17 15:29 singing-things-i-hate.md
+-rw-r--r--@   1 tobybalsley  staff    776 Jan 17 15:29 slavery-is-constitutional-for-inmates.md
+-rw-r--r--@   1 tobybalsley  staff    164 Jan 18 00:22 sourdough-bread-is-easier-than-you-think.md
+-rw-r--r--@   1 tobybalsley  staff   4644 Jan 18 00:22 spinning-black-hole-limits.md
+-rw-r--r--@   1 tobybalsley  staff   3561 Jan 17 15:29 stagnant-innovation.md
+-rw-r--r--@   1 tobybalsley  staff   2658 Jan 18 00:22 startrek-vs-starwars.md
+-rw-r--r--@   1 tobybalsley  staff    166 Jan 18 00:22 teaching-dancing-musicians-concepts.md
+-rw-r--r--@   1 tobybalsley  staff    256 Jan 17 15:29 technology-of-tv-commercials.md
+-rw-r--r--@   1 tobybalsley  staff   4214 Jan 18 00:22 that-time-kennedy-tried-to-stop-the-moon-shot.md
+-rw-r--r--@   1 tobybalsley  staff    166 Jan 18 00:22 the-effect-of-autonomous-cars.md
+-rw-r--r--@   1 tobybalsley  staff    143 Jan 18 00:22 the-facebook-pixel-you-should-know.md
+-rw-r--r--@   1 tobybalsley  staff   2074 Jan 17 15:29 the-human-voice.md
+-rw-r--r--@   1 tobybalsley  staff   4464 Jan 17 15:29 the-last-unclaimed-part-of-earth.md
+-rw-r--r--@   1 tobybalsley  staff    150 Jan 18 00:22 the-parking-lot-problem.md
+-rw-r--r--@   1 tobybalsley  staff    145 Jan 18 00:22 the-parking-spot-problem.md
+-rw-r--r--@   1 tobybalsley  staff   8964 Jan 17 15:29 the-privacy-battle.md
+-rw-r--r--@   1 tobybalsley  staff    181 Jan 18 00:22 the-speed-of-light-is-not-about-light-or-speed.md
+-rw-r--r--@   1 tobybalsley  staff    413 Jan 17 15:29 there-is-not-a-yes-or-no-in-chinese.md
+-rw-r--r--@   1 tobybalsley  staff    189 Jan 18 00:22 things-people-get-wrong-relativity.md
+-rw-r--r--@   1 tobybalsley  staff    158 Jan 18 00:22 time-dialation-limits.md
+-rw-r--r--@   1 tobybalsley  staff    192 Jan 18 00:22 types-of-humor.md
+-rw-r--r--@   1 tobybalsley  staff   3827 Jan 18 00:22 types-of-isms-or-what-is-the-nature-of-everything.md
+-rw-r--r--@   1 tobybalsley  staff    919 Jan 18 00:22 upcoming-glories-of-autonomous-driving.md
+-rw-r--r--@   1 tobybalsley  staff    411 Jan 17 15:29 vowels-created-in-your-brain.md
+-rw-r--r--@   1 tobybalsley  staff   9478 Jan 17 15:29 we-dont-deserve-dogs.md
+-rw-r--r--@   1 tobybalsley  staff  12135 Jan 17 15:29 what-about-6g.md
+-rw-r--r--@   1 tobybalsley  staff    120 Jan 18 00:22 what-america-gets-right.md
+-rw-r--r--@   1 tobybalsley  staff    131 Jan 18 00:22 what-america-gets-wrong.md
+-rw-r--r--@   1 tobybalsley  staff   2375 Jan 17 15:29 what-if-the-world-of-startrek.md
+-rw-r--r--@   1 tobybalsley  staff  13987 Jan 17 15:29 what-is-a-vowel.md
+-rw-r--r--@   1 tobybalsley  staff    145 Jan 18 00:22 what-is-your-bucket-map.md
+-rw-r--r--@   1 tobybalsley  staff    335 Jan 17 15:29 what-part-of-the-tree-are-you.md
+-rw-r--r--@   1 tobybalsley  staff    229 Jan 18 00:22 whats-the-deal-with-chinese-tones.md
+-rw-r--r--@   1 tobybalsley  staff   1961 Jan 17 15:29 when-do-we-learn-to-be-disgusted-at-gross-things.md
+-rw-r--r--@   1 tobybalsley  staff   6638 Jan 17 15:29 why-cant-i-throw-away-books-a-literary-hoarders-lament-2.md
+-rw-r--r--@   1 tobybalsley  staff   6636 Jan 17 15:29 why-cant-i-throw-away-books-a-literary-hoarders-lament.md
+-rw-r--r--@   1 tobybalsley  staff    174 Jan 18 00:22 why-is-glass-transparent-and-why-is-everything-not.md
+-rw-r--r--@   1 tobybalsley  staff    175 Jan 18 00:22 year-2030-predictions.md
+-rw-r--r--@   1 tobybalsley  staff    176 Jan 18 00:22 year-2100-predictions.md
+-rw-r--r--@   1 tobybalsley  staff    666 Jan 17 15:29 yogurts-and-humans.md
+-rw-r--r--@   1 tobybalsley  staff    400 Jan 17 15:29 you-have-to-be-more-than-1-2.md
+-rw-r--r--@   1 tobybalsley  staff    158 Jan 18 00:22 your-printer-is-spying-on-you-really.md
+-rw-r--r--@   1 tobybalsley  staff  33779 Jan 17 15:29 your-weather-app-privacy-statement.md
+
+./images:
+total 56
+drwxr-xr-x@ 4 tobybalsley  staff    128 Jan 17 14:27 .
+drwxr-xr-x@ 9 tobybalsley  staff    288 Jan 18 01:01 ..
+-rw-r--r--@ 1 tobybalsley  staff   3215 Jan 17 14:27 example.png
+-rw-r--r--@ 1 tobybalsley  staff  21212 Jan 17 14:27 gatsby-icon.png
+
+./pages:
+total 40
+drwxr-xr-x@ 8 tobybalsley  staff   256 Jan 18 00:50 .
+drwxr-xr-x@ 9 tobybalsley  staff   288 Jan 18 01:01 ..
+-rw-r--r--@ 1 tobybalsley  staff   352 Jan 18 00:59 404.js
+drwxr-xr-x@ 4 tobybalsley  staff   128 Jan 18 00:50 blog
+-rw-r--r--@ 1 tobybalsley  staff  1239 Jan 18 00:59 index.js
+-rw-r--r--@ 1 tobybalsley  staff   387 Jan 18 00:59 page-2.js
+-rw-r--r--@ 1 tobybalsley  staff  1376 Jan 18 00:59 using-ssr.js
+-rw-r--r--@ 1 tobybalsley  staff   676 Jan 18 00:59 using-typescript.tsx
+
+./pages/blog:
+total 24
+drwxr-xr-x@ 4 tobybalsley  staff   128 Jan 18 00:50 .
+drwxr-xr-x@ 8 tobybalsley  staff   256 Jan 18 00:50 ..
+-rw-r--r--@ 1 tobybalsley  staff  6148 Jan 17 16:17 .DS_Store
+-rw-r--r--@ 1 tobybalsley  staff  1465 Jan 18 00:08 {MarkdownRemark(frontmatter: {slug: {ne: null}}).frontmatter__slug}
+
+./templates:
+total 8
+drwxr-xr-x@ 3 tobybalsley  staff   96 Jan 17 23:58 .
+drwxr-xr-x@ 9 tobybalsley  staff  288 Jan 18 01:01 ..
+-rw-r--r--@ 1 tobybalsley  staff  672 Jan 18 00:59 using-dsg.js
+
+./utils:
+total 32
+drwxr-xr-x@ 5 tobybalsley  staff   160 Jan 17 14:43 .
+drwxr-xr-x@ 9 tobybalsley  staff   288 Jan 18 01:01 ..
+-rw-r--r--@ 1 tobybalsley  staff  5235 Jan 18 00:22 importYbotManWordPress.js
+-rw-r--r--@ 1 tobybalsley  staff   344 Jan 18 00:22 search.js
+-rw-r--r--@ 1 tobybalsley  staff   333 Jan 18 00:22 theme.js

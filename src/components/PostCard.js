@@ -1,7 +1,13 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { Card, CardMedia, CardContent, Typography, CardActionArea } from '@mui/material';
-import { Link } from 'gatsby';
+import React from "react"
+import PropTypes from "prop-types"
+import {
+  Card,
+  CardMedia,
+  CardContent,
+  Typography,
+  CardActionArea,
+} from "@mui/material"
+import { Link } from "gatsby"
 
 function PostCard({ slug, title, excerpt, date, featuredImg }) {
   return (
@@ -26,7 +32,7 @@ function PostCard({ slug, title, excerpt, date, featuredImg }) {
         </CardContent>
       </CardActionArea>
     </Card>
-  );
+  )
 }
 
 PostCard.propTypes = {
@@ -35,6 +41,6 @@ PostCard.propTypes = {
   excerpt: PropTypes.string.isRequired,
   date: PropTypes.string.isRequired,
   featuredImg: PropTypes.string,
-};
+}
 
-export default PostCard;
+export default PostCard

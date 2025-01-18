@@ -1,20 +1,20 @@
-import React from 'react';
-import { graphql } from 'gatsby';
-import Layout from '../components/Layout';
-import SEO from '../components/SEO';
-import PostCard from '../components/PostCard';
-import { Grid } from '@mui/material';
+import React from "react"
+import { graphql } from "gatsby"
+import Layout from "../components/Layout"
+import Seo from "../components/Seo"
+import PostCard from "../components/PostCard"
+import { Grid } from "@mui/material"
 
 export default function HomePage({ data }) {
-  const posts = data.allMarkdownRemark.nodes;
+  const posts = data.allMarkdownRemark.nodes
 
   return (
     <Layout>
-      <SEO title="Home - YbotMan" />
+      <Seo title="Home - YbotMan" />
       <Grid container spacing={2}>
-        {posts.map((post) => {
-          const { slug, title, date, featuredImg } = post.frontmatter;
-          const excerpt = post.excerpt;
+        {posts.map(post => {
+          const { slug, title, date, featuredImg } = post.frontmatter
+          const excerpt = post.excerpt
           return (
             <Grid item xs={12} sm={6} md={4} key={slug}>
               <PostCard
@@ -25,11 +25,11 @@ export default function HomePage({ data }) {
                 featuredImg={featuredImg}
               />
             </Grid>
-          );
+          )
         })}
       </Grid>
     </Layout>
-  );
+  )
 }
 
 export const pageQuery = graphql`
@@ -46,4 +46,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

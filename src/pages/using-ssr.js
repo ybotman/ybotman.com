@@ -2,7 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/Layout"
-import SEO from "../components/SEO"
+import Seo from "../components/Seo"
 
 const UsingSSR = ({ serverData }) => {
   return (
@@ -32,7 +32,7 @@ const UsingSSR = ({ serverData }) => {
   )
 }
 
-export const Head = () => <SEO title="Using SSR" />
+export const Head = () => <Seo title="Using SSR" />
 
 export default UsingSSR
 
