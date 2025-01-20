@@ -4,7 +4,7 @@ date: "2024-09-18"
 slug: "have-you-every-thought-about-farts"
 categories: ["thinking"]
 featuredImg: "/images/Farts.webp"
-tag: ["AIGen"]
+Tags: ["AIGen"]
 
 ---
 
