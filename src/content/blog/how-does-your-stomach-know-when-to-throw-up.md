@@ -2,8 +2,9 @@
 title: "How does your stomach 'know' when to throw-up?"
 date: "2019-03-26"
 slug: "how-does-your-stomach-know-when-to-throw-up"
-categories: ["body", "knowledge"]
+categories: ["body", "knowledge","i-want-to-know"]
 tags: ["question"]
+featuredImg: "images/Throwup.jpg"
 ---
 
 <!-- wp:quote -->

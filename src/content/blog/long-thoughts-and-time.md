@@ -3,6 +3,7 @@ title: "Long thoughts, and Time"
 date: "2019-08-23"
 slug: "long-thoughts-and-time"
 categories: ["a-good-idea", "psychology", "thinking"]
+featuredImg: "/images/ThinkLong.webp"
 ---
 
 <h3>Nowadays, you have to defend your time in order to think long thoughts.</h3>James Taylor

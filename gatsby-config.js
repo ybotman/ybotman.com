@@ -11,22 +11,25 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-sitemap",
-      options: {
-        /* ...options */
-      },
+      options: {},
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "blog", // Any name you like
+        name: "blog",
         path: `${__dirname}/src/content/blog`,
-        ignore: [
-      "**/.ds_store",
-      "**/.gitkeep",
-          "**/.*", // ignore hidden files
-        ],
+        ignore: ["**/.ds_store", "**/.gitkeep", "**/.*"],
       },
     },
-    "gatsby-transformer-remark", // Enables allMarkdownRemark
+    "gatsby-transformer-remark",
+    {
+      resolve: "gatsby-plugin-alias-imports",
+      options: {
+        alias: {
+          "@": `${__dirname}/src`,
+        },
+        extensions: ["js", "jsx", "ts", "tsx"],
+      },
+    },
   ],
-}
+};

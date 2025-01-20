@@ -3,6 +3,7 @@ title: "Changes to Cows means Corn is the middle"
 date: "2019-10-04"
 slug: "corncowsoilland"
 categories: ["thinking"]
+featuredImg: "images/MeatWithAnimals.webp"
 ---
 
 <!-- wp:paragraph -->

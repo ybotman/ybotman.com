@@ -1,60 +1,59 @@
-// ybotman.com/src/pages/index.js
-import React from "react"
-import { graphql } from "gatsby"
-import Layout from "../components/Layout"
-import Seo from "../components/Seo"
-import PostCard from "../components/PostCard"
-import FilterCategories from "../components/FilterCategories"
-import { Grid } from "@mui/material"
+import React from "react";
+import { graphql } from "gatsby";
+import Layout from "../components/Layout";
+import Seo from "../components/Seo";
+import PostCard from "../components/PostCard";
+import { Grid } from "@mui/material";
 
 export default function HomePage({ data }) {
-  const posts = data.allMarkdownRemark.nodes
+  const posts = data.allMarkdownRemark.nodes;
 
-  // 1) Gather all unique categories
-  const allCategories = Array.from(
-    new Set(posts.flatMap(post => post.frontmatter.categories || []))
-  )
+  // Helper function to sort by `timeToRead` descending
+  const sortByTimeToRead = (posts) =>
+    posts.sort((a, b) => b.timeToRead - a.timeToRead);
 
-  // 2) React state for selected categories
-  const [selectedCategories, setSelectedCategories] = React.useState([])
+  // Step 1: Separate posts into groups
+  const nonAIGenWithImages = posts.filter(
+    (post) =>
+      !post.frontmatter.tags?.includes("AIGen") &&
+      post.frontmatter.featuredImg &&
+      post.timeToRead > 0
+  );
 
-  // 3) Handler to add/remove a category from selected
-  const handleChangeCategories = (cat) => {
-    setSelectedCategories(prev => {
-      if (prev.includes(cat)) {
-        // remove it
-        return prev.filter(c => c !== cat)
-      } else {
-        // add it
-        return [...prev, cat]
-      }
-    })
-  }
+  const nonAIGenWithoutImages = posts.filter(
+    (post) =>
+      !post.frontmatter.tags?.includes("AIGen") &&
+      !post.frontmatter.featuredImg &&
+      post.timeToRead > 0
+  );
 
-  // 4) Filter logic: show post if it has ANY selected category
-  const filteredPosts = selectedCategories.length === 0
-    ? posts
-    : posts.filter(post => {
-        const cats = post.frontmatter.categories || []
-        return cats.some(c => selectedCategories.includes(c))
-      })
+  const aiGenPosts = posts.filter((post) =>
+    post.frontmatter.tags?.includes("AIGen")
+  );
+
+  const emptyPosts = posts.filter((post) => post.timeToRead === 0);
+
+  // Step 2: Sort groups
+  const sortedNonAIGenWithImages = sortByTimeToRead(nonAIGenWithImages);
+  const sortedNonAIGenWithoutImages = sortByTimeToRead(nonAIGenWithoutImages);
+  const sortedAIGenPosts = sortByTimeToRead(aiGenPosts);
+
+  // Step 3: Combine groups in desired order
+  const groupedPosts = [
+    ...sortedNonAIGenWithImages,
+    ...sortedNonAIGenWithoutImages,
+    ...sortedAIGenPosts,
+    ...emptyPosts,
+  ];
 
   return (
     <Layout>
       <Seo title="Home - YbotMan" />
-
-      {/* Our new FilterCategories component, right below the header */}
-      <FilterCategories
-        allCategories={allCategories}
-        selectedCategories={selectedCategories}
-        onChangeCategories={handleChangeCategories}
-      />
-
-      {/* Render the filtered posts */}
       <Grid container spacing={2}>
-        {filteredPosts.map((post) => {
-          const { slug, title, date, featuredImg } = post.frontmatter
-          const excerpt = post.excerpt
+        {groupedPosts.map((post) => {
+          const { slug, title, date, featuredImg } = post.frontmatter;
+          const excerpt = post.excerpt;
+          const timeToRead = post.timeToRead;
 
           return (
             <Grid item xs={12} sm={6} md={4} key={slug}>
@@ -64,28 +63,31 @@ export default function HomePage({ data }) {
                 excerpt={excerpt}
                 date={date}
                 featuredImg={featuredImg}
+                timeToRead={timeToRead}
               />
             </Grid>
-          )
+          );
         })}
       </Grid>
     </Layout>
-  )
+  );
 }
 
+// GraphQL Query
 export const pageQuery = graphql`
   query HomePageQuery {
     allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       nodes {
         excerpt(pruneLength: 150)
+        timeToRead
         frontmatter {
           slug
           title
           date(formatString: "MMMM DD, YYYY")
           featuredImg
-          categories
+          tags
         }
       }
     }
   }
-`
+`;
