@@ -3,6 +3,7 @@ title: "Drone delivery - What i want, now."
 date: "2019-10-23"
 slug: "drone-silvery"
 categories: ["a-good-idea", "technology", "thinking"]
+featuredImg: "/images/button.jpg"
 ---
 
 <!-- wp:paragraph -->

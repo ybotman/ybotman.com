@@ -3,6 +3,7 @@ title: "Confusing things about English."
 date: "2019-08-06"
 slug: "confusing-things-about-english"
 categories: ["language", "psychology", "thinking"]
+featuredImg: "/images/types-of-humour-featured.png"
 ---
 
 The alarm <strong>goes off</strong> when the sound of the clock wakes you and when it is sounding its alarm, you also <strong>turn it off</strong>  to stop the sounds. At night you turn the alarm <strong>on</strong>, when you <strong>set</strong> it. Knowing it will <strong>go off </strong>in 8 hours.
