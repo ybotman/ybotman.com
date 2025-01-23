@@ -3,6 +3,7 @@ title: "Upcoming GLORIES of autonomous driving."
 date: "2019-11-09"
 slug: "upcoming-glories-of-autonomous-driving"
 categories: ["a-i", "autonomous-cars", "i-want-to-know", "knowledge", "science", "singing", "technology"]
+featuredImg: "/images/futureCars.jpg"
 ---
 
 <h1><img src="https://ybotman.com/wp-content/uploads/img_0986-1.jpg" class="size-full wp-image-1010" width="800" height="571">Freedom</h1>Movies , <strong>reading</strong> <strong>working</strong> <strong>or sleeping</strong>?

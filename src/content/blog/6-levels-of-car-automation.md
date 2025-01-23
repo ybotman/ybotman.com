@@ -3,6 +3,7 @@ title: "The 6 levels of car automation (0-5)."
 date: "2019-11-19"
 slug: "6-levels-of-car-automation"
 categories: ["a-i", "autonomous-cars", "language", "technology"]
+featuredImg: "/images/futureCars.jpg"
 ---
 
 <p class="body-text" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1.25rem; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Charter, Georgia, Times, serif; font-size: 18px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.301961); -webkit-text-size-adjust: 100%; -webkit-text-stroke-width: 0px; text-decoration: none"><img src="https://ybotman.com/wp-content/uploads/img_0985.jpg" class="aligncenter size-medium wp-image-1005" width="2048" height="1027">Because no two automated-driving technologies are exactly alike, SAE International’s standard J3016 defines six levels of automation for automakers, suppliers, and policymakers to use to classify a system’s sophistication. The pivotal change occurs between Levels 2 and 3, when responsibility for monitoring the driving environment shifts from the driver to the system.</p>

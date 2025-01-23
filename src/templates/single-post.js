@@ -16,6 +16,7 @@ export default function SinglePost({ data }) {
           style={{ maxWidth: '100%' }}
         />
       )}
+                <p>{frontmatter.excerpt}</p>
       <div dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )
@@ -25,7 +26,7 @@ export default function SinglePost({ data }) {
 export const query = graphql`
   query ($slug: String!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
-      excerpt(pruneLength: 180)
+      excerpt(pruneLength: 100)
       html
       frontmatter {
         title

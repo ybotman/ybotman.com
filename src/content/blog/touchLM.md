@@ -3,7 +3,7 @@ title: "We Need TouchLM SmellLM"
 date: "2019-10-04"
 slug: "TouchLM"
 categories: ["thinking", "AI"]
-featuredImg: "images/touchLM.webp"
+featuredImg: "/images/button.jpg"
 ---
 
 ## **We Need TouchLM and SmellLM: Expanding AI Beyond Sight and Sound**

@@ -3,6 +3,7 @@ title: "Autonomous cars: the AI will make horrible choices."
 date: "2019-11-16"
 slug: "autonomous-cars-the-ai-will-make-horrible-choices"
 categories: ["a-i", "autonomous-cars", "future", "knowledge", "science", "technology", "thinking"]
+featuredImg: "/images/futureCars.jpg"
 ---
 
 <img src="https://ybotman.com/wp-content/uploads/img_0987.jpg" class="size-full wp-image-1018" width="2040" height="1148">

@@ -3,7 +3,7 @@ title: "Ever think about ear wax?"
 date: "2019-09-23"
 slug: "ever-think-about-ear-wax"
 categories: ["thinking"]
-featuredImg: "/images/hmmm.jpg"
+featuredImg: "/images/button.jpg"
 ---
 
 <!-- wp:separator -->
