@@ -4,7 +4,7 @@ import Layout from '../components/Layout'
 // or wherever your layout is
 
 export default function SinglePost({ data }) {
-  const { frontmatter, html, excerpt } = data.markdownRemark
+  const { frontmatter, html } = data.markdownRemark
   return (
     <Layout>
       <h1>{frontmatter.title}</h1>
@@ -16,7 +16,7 @@ export default function SinglePost({ data }) {
           style={{ maxWidth: '100%' }}
         />
       )}
-                <p>{frontmatter.excerpt}</p>
+      <p>{frontmatter.excerpt}</p>
       <div dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )
