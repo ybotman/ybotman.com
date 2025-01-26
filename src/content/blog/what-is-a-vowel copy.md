@@ -4,6 +4,7 @@ date: "2019-03-28"
 slug: "what-is-a-vowel"
 categories: ["body", "language", "music", "physics", "singing", "voice"]
 featuredImg: "/images/what-is-a-vowel-featured.png"
+status: "draft"
 ---
 
 <!-- wp:paragraph {"dropCap":true} -->

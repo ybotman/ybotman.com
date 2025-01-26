@@ -5,46 +5,39 @@ import Seo from "../components/Seo";
 import PostCard from "../components/PostCard";
 import { Grid } from "@mui/material";
 
+// Utility to shuffle an array
+const shuffleArray = (array) => {
+  return array
+    .map((value) => ({ value, sort: Math.random() }))
+    .sort((a, b) => a.sort - b.sort)
+    .map(({ value }) => value);
+};
+
 export default function HomePage({ data }) {
   const posts = data.allMarkdownRemark.nodes;
 
-  // Helper function to sort by `timeToRead` descending
-  const sortByTimeToRead = (posts) =>
-    posts.sort((a, b) => b.timeToRead - a.timeToRead);
-
-  // Step 1: Separate posts into groups
-  const nonAIGenWithImages = posts.filter(
-    (post) =>
-      !post.frontmatter.tags?.includes("AIGen") &&
-      post.frontmatter.featuredImg &&
-      post.timeToRead > 0
+  // Exclude posts with `status: "draft"`
+  const visiblePosts = posts.filter(
+    (post) => post.frontmatter.status !== "draft"
   );
 
-  const nonAIGenWithoutImages = posts.filter(
-    (post) =>
-      !post.frontmatter.tags?.includes("AIGen") &&
-      !post.frontmatter.featuredImg &&
-      post.timeToRead > 0
+  // Group 1: Posts with images and `timeToRead > 0`
+  const group1 = shuffleArray(
+    visiblePosts.filter(
+      (post) =>
+        post.frontmatter.featuredImg && post.timeToRead > 0
+    )
   );
 
-  const aiGenPosts = posts.filter((post) =>
-    post.frontmatter.tags?.includes("AIGen")
+  // Group 2: All other posts
+  const group2 = shuffleArray(
+    visiblePosts.filter(
+      (post) => !(post.frontmatter.featuredImg && post.timeToRead > 0)
+    )
   );
 
-  const emptyPosts = posts.filter((post) => post.timeToRead === 0);
-
-  // Step 2: Sort groups
-  const sortedNonAIGenWithImages = sortByTimeToRead(nonAIGenWithImages);
-  const sortedNonAIGenWithoutImages = sortByTimeToRead(nonAIGenWithoutImages);
-  const sortedAIGenPosts = sortByTimeToRead(aiGenPosts);
-
-  // Step 3: Combine groups in desired order
-  const groupedPosts = [
-    ...sortedNonAIGenWithImages,
-    ...sortedNonAIGenWithoutImages,
-    ...sortedAIGenPosts,
-    ...emptyPosts,
-  ];
+  // Combine: Group 1 first, then Group 2
+  const groupedPosts = [...group1, ...group2];
 
   return (
     <Layout>
@@ -86,6 +79,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           featuredImg
           tags
+          status
         }
       }
     }
