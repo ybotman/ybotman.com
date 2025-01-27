@@ -1,9 +1,14 @@
-// ybotman.com/src/components/FilterCategories.js
 import React from "react"
 import PropTypes from "prop-types"
-import { Box, IconButton, Typography, Collapse, FormControlLabel, Checkbox } from "@mui/material"
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore"
-
+import {
+  Box,
+  IconButton,
+  Typography,
+  Collapse,
+  FormControlLabel,
+  Checkbox,
+} from "@mui/material"
+import MenuIcon from "@mui/icons-material/Menu" // <— CHANGED
 // Reusable component for filtering "categories"
 function FilterCategories({ allCategories, selectedCategories, onChangeCategories }) {
   const [expanded, setExpanded] = React.useState(false)
@@ -12,46 +17,68 @@ function FilterCategories({ allCategories, selectedCategories, onChangeCategorie
     setExpanded((prev) => !prev)
   }
 
-  // Handler for checkbox changes
   const handleCategoryChange = (cat) => {
     onChangeCategories(cat)
   }
 
   return (
-    <Box sx={{ mb: 2 }}>
-      {/* Toggle Button / Icon */}
-      <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
-        <Typography variant="h6" sx={{ flexGrow: 1 }}>
-          Categories
-        </Typography>
-        <IconButton onClick={handleExpandToggle} aria-label="toggle filter">
-          <ExpandMoreIcon
-            sx={{
-              transform: expanded ? "rotate(180deg)" : "rotate(0deg)",
-              transition: "transform 0.3s",
-            }}
-          />
-        </IconButton>
-      </Box>
+    <>
+      {/* Hamburger button in bottom-left of header image */}
+      <IconButton
+        onClick={handleExpandToggle}
+        aria-label="toggle filter"
+        sx={{
+          position: "absolute",
+          bottom: 20,
+          left: 20,
+          zIndex: 10,
+          backgroundColor: "#ffffffcc",
+          "&:hover": {
+            backgroundColor: "#ffffff",
+          },
+        }}
+      >
+        <MenuIcon />
+      </IconButton>
 
-      {/* Collapsible section for checkboxes */}
-      <Collapse in={expanded} timeout="auto" unmountOnExit>
-        <Box sx={{ display: "flex", flexWrap: "wrap", mt: 1, gap: 2 }}>
-          {allCategories.map((cat) => (
-            <FormControlLabel
-              key={cat}
-              label={cat}
-              control={
-                <Checkbox
-                  checked={selectedCategories.includes(cat)}
-                  onChange={() => handleCategoryChange(cat)}
-                />
-              }
-            />
-          ))}
+      {/* Collapsible overlay for checkboxes */}
+      <Collapse
+        in={expanded}
+        timeout="auto"
+        unmountOnExit
+        // Example styling: a semi-transparent panel top-left
+        sx={{
+          position: "absolute",
+          bottom: 70,
+          left: 20,
+          zIndex: 10,
+          backgroundColor: "white",
+          p: 2,
+          borderRadius: 1,
+          boxShadow: 3,
+        }}
+      >
+        <Box sx={{ minWidth: 150 }}>
+          <Typography variant="h6" sx={{ mb: 1 }}>
+            Categories
+          </Typography>
+          <Box sx={{ display: "flex", flexDirection: "column", gap: 1 }}>
+            {allCategories.map((cat) => (
+              <FormControlLabel
+                key={cat}
+                label={cat}
+                control={
+                  <Checkbox
+                    checked={selectedCategories.includes(cat)}
+                    onChange={() => handleCategoryChange(cat)}
+                  />
+                }
+              />
+            ))}
+          </Box>
         </Box>
       </Collapse>
-    </Box>
+    </>
   )
 }
 

@@ -28,17 +28,14 @@ function Header({ siteTitle }) {
         <Typography variant="h6" fontWeight="bold" color="darkgrey" gutterBottom>
           This site is a dumping ground of all things that cant get out of my head.
         </Typography>
-        <Typography
-          variant="body2"
-          color="lightgrey"
-          sx={{ display: "inline-block", maxWidth: "600px", textAlign: "center" }}
-        >
-          I hope to capture these items somehow...
+     <Typography
+        variant="body2"
+        color="lightgrey"
+        sx={{ display: "inline-block", maxWidth: "600px", textAlign: "center" }}
+      >
+        I hope to capture these items somehow.  Then through more process of overthinging,  I will (may) get back to them and flush them out. Some are just ideas meant to be flushed out, and some just brain-fart thoughts that are meant to be just that. Dont fret - we dont get the time to "think long" all the time and this help me.  I hope it helps you too.
         </Typography>
-        <Typography variant="h6" fontWeight="bold" color="darkgrey" gutterBottom>
-          If you want access to my back-burner brain --- this is it.
-          <br/>
-        </Typography>
+
       </Box>
     </AppBar>
   )

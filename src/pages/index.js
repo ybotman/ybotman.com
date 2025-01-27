@@ -1,52 +1,81 @@
-import React from "react";
-import { graphql } from "gatsby";
-import Layout from "../components/Layout";
-import Seo from "../components/Seo";
-import PostCard from "../components/PostCard";
-import { Grid } from "@mui/material";
+import React from "react"
+import { graphql } from "gatsby"
+import Layout from "../components/Layout"
+import Seo from "../components/Seo"
+import PostCard from "../components/PostCard"
+import FilterCategories from "../components/FilterCategories"
+import { Grid } from "@mui/material"
 
-// Utility to shuffle an array
 const shuffleArray = (array) => {
   return array
     .map((value) => ({ value, sort: Math.random() }))
     .sort((a, b) => a.sort - b.sort)
-    .map(({ value }) => value);
-};
+    .map(({ value }) => value)
+}
 
 export default function HomePage({ data }) {
-  const posts = data.allMarkdownRemark.nodes;
+  const [selectedCategories, setSelectedCategories] = React.useState([])
 
-  // Exclude posts with `status: "draft"`
+  const posts = data.allMarkdownRemark.nodes
+
+  // Exclude drafts
   const visiblePosts = posts.filter(
     (post) => post.frontmatter.status !== "draft"
-  );
+  )
 
-  // Group 1: Posts with images and `timeToRead > 0`
+  // Gather all unique categories from visible posts
+  // ** Switched from "tags" to "categories" **
+  const allCategories = Array.from(
+    new Set(visiblePosts.flatMap((post) => post.frontmatter.categories || []))
+  )
+
+  // Group 1 & 2 the way you already do
   const group1 = shuffleArray(
     visiblePosts.filter(
-      (post) =>
-        post.frontmatter.featuredImg && post.timeToRead > 0
+      (post) => post.frontmatter.featuredImg && post.timeToRead > 0
     )
-  );
-
-  // Group 2: All other posts
+  )
   const group2 = shuffleArray(
     visiblePosts.filter(
       (post) => !(post.frontmatter.featuredImg && post.timeToRead > 0)
     )
-  );
+  )
+  const groupedPosts = [...group1, ...group2]
 
-  // Combine: Group 1 first, then Group 2
-  const groupedPosts = [...group1, ...group2];
+  // Filter by selectedCategories (OR logic)
+  let filteredPosts = groupedPosts
+  if (selectedCategories.length > 0) {
+    filteredPosts = groupedPosts.filter((post) => {
+      // ** Switched from "tags" to "categories" **
+      const postCats = post.frontmatter.categories || []
+      return postCats.some((c) => selectedCategories.includes(c))
+    })
+  }
+
+  // Handler for toggling categories
+  const handleChangeCategories = (cat) => {
+    setSelectedCategories((prev) =>
+      prev.includes(cat)
+        ? prev.filter((c) => c !== cat)
+        : [...prev, cat]
+    )
+  }
 
   return (
     <Layout>
       <Seo title="Home - YbotMan" />
+
+      <FilterCategories
+        allCategories={allCategories}
+        selectedCategories={selectedCategories}
+        onChangeCategories={handleChangeCategories}
+      />
+
       <Grid container spacing={2}>
-        {groupedPosts.map((post) => {
-          const { slug, title, date, featuredImg } = post.frontmatter;
-          const excerpt = post.excerpt;
-          const timeToRead = post.timeToRead;
+        {filteredPosts.map((post) => {
+          const { slug, title, date, featuredImg } = post.frontmatter
+          const excerpt = post.excerpt
+          const timeToRead = post.timeToRead
 
           return (
             <Grid item xs={12} sm={6} md={4} key={slug}>
@@ -59,14 +88,13 @@ export default function HomePage({ data }) {
                 timeToRead={timeToRead}
               />
             </Grid>
-          );
+          )
         })}
       </Grid>
     </Layout>
-  );
+  )
 }
 
-// GraphQL Query
 export const pageQuery = graphql`
   query HomePageQuery {
     allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
@@ -78,10 +106,10 @@ export const pageQuery = graphql`
           title
           date(formatString: "MMMM DD, YYYY")
           featuredImg
-          tags
+          categories
           status
         }
       }
     }
   }
-`;
+`
