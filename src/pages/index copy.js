@@ -1,11 +1,10 @@
-// ybotman.com/src/pages/index.js
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/Layout"
 import Seo from "../components/Seo"
 import PostCard from "../components/PostCard"
+import FilterCategories from "../components/FilterCategories"
 import { Grid } from "@mui/material"
-import { filterPosts } from "@/utils/search"
 
 const shuffleArray = (array) => {
   return array
@@ -15,25 +14,22 @@ const shuffleArray = (array) => {
 }
 
 export default function HomePage({ data }) {
-  // State: categories
   const [selectedCategories, setSelectedCategories] = React.useState([])
-  const [searchQuery, setSearchQuery] = React.useState("")
 
-  // All posts
   const posts = data.allMarkdownRemark.nodes
+
   // Exclude drafts
   const visiblePosts = posts.filter(
     (post) => post.frontmatter.status !== "draft"
   )
 
-  // Gather all categories
+  // Gather all unique categories from visible posts
+  // ** Switched from "tags" to "categories" **
   const allCategories = Array.from(
-    new Set(
-      visiblePosts.flatMap((post) => post.frontmatter.categories || [])
-    )
+    new Set(visiblePosts.flatMap((post) => post.frontmatter.categories || []))
   )
 
-  // Shuffle logic
+  // Group 1 & 2 the way you already do
   const group1 = shuffleArray(
     visiblePosts.filter(
       (post) => post.frontmatter.featuredImg && post.timeToRead > 0
@@ -46,19 +42,15 @@ export default function HomePage({ data }) {
   )
   const groupedPosts = [...group1, ...group2]
 
-  // Filter by categories
-  let filtered = groupedPosts
+  // Filter by selectedCategories (OR logic)
+  let filteredPosts = groupedPosts
   if (selectedCategories.length > 0) {
-    filtered = filtered.filter((post) => {
-      const cats = post.frontmatter.categories || []
-      return cats.some((c) => selectedCategories.includes(c))
+    filteredPosts = groupedPosts.filter((post) => {
+      // ** Switched from "tags" to "categories" **
+      const postCats = post.frontmatter.categories || []
+      return postCats.some((c) => selectedCategories.includes(c))
     })
   }
-
-  // Filter by search text
-  // NOTE: You are storing rawMarkdownBody or excerpt inside each node or subfields?
-  // If not, add it to your GraphQL or adapt as needed.
-  const fullyFilteredPosts = filterPosts(filtered, searchQuery)
 
   // Handler for toggling categories
   const handleChangeCategories = (cat) => {
@@ -69,26 +61,22 @@ export default function HomePage({ data }) {
     )
   }
 
-  // Handler for text search
-  const handleSearchChange = (txt) => {
-    setSearchQuery(txt)
-  }
-
   return (
-    <Layout
-      siteTitle="YbotMan Blog"
-      allCategories={allCategories}
-      selectedCategories={selectedCategories}
-      onChangeCategories={handleChangeCategories}
-      searchQuery={searchQuery}
-      onSearchChange={handleSearchChange}
-    >
+    <Layout>
       <Seo title="Home - YbotMan" />
 
-      <Grid container spacing={2} sx={{ mt: 2 }}>
-        {fullyFilteredPosts.map((post) => {
+      <FilterCategories
+        allCategories={allCategories}
+        selectedCategories={selectedCategories}
+        onChangeCategories={handleChangeCategories}
+      />
+
+      <Grid container spacing={2}>
+        {filteredPosts.map((post) => {
           const { slug, title, date, featuredImg } = post.frontmatter
           const excerpt = post.excerpt
+          const timeToRead = post.timeToRead
+
           return (
             <Grid item xs={12} sm={6} md={4} key={slug}>
               <PostCard
@@ -97,6 +85,7 @@ export default function HomePage({ data }) {
                 excerpt={excerpt}
                 date={date}
                 featuredImg={featuredImg}
+                timeToRead={timeToRead}
               />
             </Grid>
           )
@@ -111,7 +100,6 @@ export const pageQuery = graphql`
     allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       nodes {
         excerpt(pruneLength: 150)
-        rawMarkdownBody
         timeToRead
         frontmatter {
           slug
