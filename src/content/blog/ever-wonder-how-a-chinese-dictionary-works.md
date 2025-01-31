@@ -3,6 +3,7 @@ title: "Did you ever wonder how a Chinese Dictionary works?"
 date: "2019-08-13"
 slug: "ever-wonder-how-a-chinese-dictionary-works"
 categories: ["language", "thinking"]
+featuredImg: "/images/chinese-cursive.jpg"
 ---
 
 <!-- wp:paragraph -->

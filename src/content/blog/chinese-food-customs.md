@@ -3,8 +3,7 @@ title: "Chinese Food Customs"
 date: "2025-01-23"
 slug: "chinese-food-customs"
 categories: ["culture", "food"]
-status: "draft"
-featuredImg: "/images/chinese-food-customs.jpg"
+featuredImg: "/images/HongKong.jpg"
 ---
 
 # Chinese Food Customs

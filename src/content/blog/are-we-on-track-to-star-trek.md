@@ -3,6 +3,7 @@ title: "Are we on track to Star Trek?"
 date: "2019-11-09"
 slug: "are-we-on-track-to-star-trek"
 categories: ["future", "i-want-to-know", "knowledge", "thinking"]
+featuredImg: "/images/Speed.jpg"
 ---
 
 Star Trek TNG is about the world of 2370's or about 350 years in the future. An interesting mind experiment would be to Compare this world you and I are in to a world 350 year ago or 1670. What was this world like ? What is the trajectory or technology changes form there to now? Can we extrapolate to the future?

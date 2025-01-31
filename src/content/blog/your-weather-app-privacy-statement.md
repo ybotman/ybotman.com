@@ -3,7 +3,7 @@ title: "Your weather app Privacy Statement"
 date: "2019-08-01"
 slug: "your-weather-app-privacy-statement"
 categories: ["knowledge", "privacy", "technology"]
-featuredImg: "/images/your-weather-app-privacy-statement-featured.jpg"
+featuredImg: "/images/Hmmm.jpg"
 ---
 
 <!-- wp:image {"id":461,"align":"right","width":136,"height":170} -->

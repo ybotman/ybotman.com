@@ -4,12 +4,12 @@ date: "2025-01-23"
 slug: "chinese-meals-i-ate"
 categories: ["food", "culture"]
 status: "draft"
-featuredImg: "/images/chinese-food-trip.jpg"
+featuredImg: "/images/Food.jpg"
 ---
 
 # Chinese Meals I Ate on This Trip
 
-Traveling through different parts of China, I tried some dishes that were both exciting and, for a newcomer, occasionally surprising. Here are a few highlights (or, depending on your taste buds, “fright-lights”) from my culinary adventure:
+Traveling through different parts of Hong Kong, I tried some dishes that were both exciting and, for a newcomer, occasionally surprising. Here are a few highlights (or, depending on your taste buds, “fright-lights”) from my culinary adventure:
 
 1. **Goose Web Feet**  
    Yes, goose *feet*. Served braised or in soup, these webbed delicacies are mostly about the **gelatinous texture**. If you can get over the look, the flavor can be quite rich, especially when seasoned with soy sauce, ginger, or star anise.
@@ -29,12 +29,6 @@ Traveling through different parts of China, I tried some dishes that were both e
 6. **Chicken Feet**  
    A staple in many dim sum restaurants, chicken feet (or “phoenix claws”) are usually **braised in a savory-sweet sauce** until soft and gelatinous. They’re high in collagen and definitely an acquired taste for some, but widely beloved by many locals.
 
-7. **Fish Stomach and Bladder**  
-   These are prized for their **spongy, gelatinous** texture and subtle, almost neutral flavor that soaks up the sauce or soup they’re cooked in. Considered a delicacy, they’re often served in hot pots or stews, where they absorb the rich broth.
-
-8. **Duck Uterus**  
-   An unusual item even for some locals, duck uterus is lauded for its **springy, crunchy bite** and is typically stir-fried with vegetables and spices. It can be a bit of a shock to first-timers, but adventurous eaters might enjoy its uniquely chewy texture.
-
 ---
 
-From the pungent aroma of smelly tofu to the surprising texture of fish stomach, these dishes remind me just how broad and varied Chinese cuisine can be. Each dish carries its own history, preparation style, and *fan base*. They may not all be for everyone, but each experience has expanded my appreciation for the depth and creativity of Chinese cooking.
+From the chewy texture of goose feet to the pungent aroma of smelly tofu, these dishes remind me that Chinese cuisine is wildly diverse and full of surprises. Each dish has its unique history, preparation style, and *fan base*. While not every bite may be for everyone, each experience brings a new appreciation for the rich tapestry of Chinese food culture.

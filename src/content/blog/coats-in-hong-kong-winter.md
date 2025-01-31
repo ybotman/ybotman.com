@@ -3,8 +3,7 @@ title: "Coats in Hong Kong Winter"
 date: "2025-01-23"
 slug: "coats-in-hong-kong-winter"
 categories: ["culture", "travel"]
-status: "draft"
-featuredImg: "/images/hong-kong-coats.jpg"
+featuredImg: "/images/HongKong.jpg"
 ---
 
 # Coats in Hong Kong Winter

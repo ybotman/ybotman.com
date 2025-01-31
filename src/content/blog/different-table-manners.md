@@ -3,12 +3,12 @@ title: "Different Table Manners Around the World"
 date: "2025-01-23"
 slug: "different-table-manners"
 categories: ["culture", "food"]
-featuredImg: "/images/table-manners.jpg"
+featuredImg: "/images/Food.jpg"
 ---
 
 # Different Table Manners Around the World
 
-Table etiquette doesn’t just tell us how to eat—it reflects deeper cultural values about sharing food and respecting others. What’s polite in one country can be downright rude in another. Let’s take a quick tour of three diverse customs:
+Table etiquette doesn’t just tell us how to eat—it reflects deeper cultural values about sharing food and respecting others. What’s polite in one country can be downright rude in another. Let’s take a quick tour of three diverse customs (i guess the few i know  a little about):
 
 ## 1. Using Hands as Utensils in India
 In many parts of India, eating **with your hands** (right hand, specifically) is common. It’s a **sensory** experience—feeling the texture and temperature of the food is believed to enhance enjoyment. Of course, there are rules: 
