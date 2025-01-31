@@ -29,6 +29,10 @@ Traveling through different parts of Hong Kong, I tried some dishes that were bo
 6. **Chicken Feet**  
    A staple in many dim sum restaurants, chicken feet (or “phoenix claws”) are usually **braised in a savory-sweet sauce** until soft and gelatinous. They’re high in collagen and definitely an acquired taste for some, but widely beloved by many locals.
 
+7. **Deep Fried Milk**  
+   A crazy dish makde iwth connetrated cow milk (like a thick yogart) mixed with Pandam leace and then gently rolled in a tempura like batter.  Then you guess it Deep fried.  Crazy good.
+
+
 ---
 
 From the chewy texture of goose feet to the pungent aroma of smelly tofu, these dishes remind me that Chinese cuisine is wildly diverse and full of surprises. Each dish has its unique history, preparation style, and *fan base*. While not every bite may be for everyone, each experience brings a new appreciation for the rich tapestry of Chinese food culture.

@@ -11,7 +11,7 @@ featuredImg: "/images/Food.jpg"
 Traveling through different parts of China, I tried some dishes that were both exciting and, for a newcomer, occasionally surprising. Here are a few highlights (or, depending on your taste buds, “fright-lights”) from my culinary adventure:
 
 1. **Goose Web Feet**  
-   Yes, goose *feet*. Served braised or in soup, these webbed delicacies are mostly about the **gelatinous texture**. If you can get over the look, the flavor can be quite rich, especially when seasoned with soy sauce, ginger, or star anise.
+   Yes, goose *feet*. This time was served braised but ofen in a soup, these webbed delicacies are mostly about the **gelatinous texture**. If you can get over the look, the flavor can be quite rich, especially when seasoned with soy sauce, ginger, or star anise.
 
 2. **Smelly Tofu**  
    The name says it all: it has a *very* strong smell, but the taste is milder than you might expect. Traditionally fermented, **smelly tofu** is often deep-fried and served with chili sauce or pickled vegetables. It’s an iconic street food that many locals *love*.
@@ -33,6 +33,9 @@ Traveling through different parts of China, I tried some dishes that were both e
 
 8. **Duck Uterus**  
    An unusual item even for some locals, duck uterus is lauded for its **springy, crunchy bite** and is typically stir-fried with vegetables and spices. It can be a bit of a shock to first-timers, but adventurous eaters might enjoy its uniquely chewy texture.
+
+9. **Deep Fried Milk**  
+   A crazy dish makde iwth connetrated cow milk (like a thick yogart) mixed with Pandam leace and then gently rolled in a tempura like batter.  Then you guess it Deep fried.  Crazy good.
 
 ---
 
