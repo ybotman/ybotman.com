@@ -16,27 +16,18 @@ function Header({ siteTitle }) {
       <Toolbar sx={{ minHeight: "auto", padding: 0 }}>
         {/* Wrap the image in a Link */}
         <Link to="/" style={{ width: "100%", display: "block" }}>
-          <img
-            src="/images/TAOOT2.jpeg"
-            alt={siteTitle}
-            style={{ width: "100%", display: "block" }}
-          />
+<img
+  src="/images/TAOOT3.jpeg"
+  alt={siteTitle}
+  style={{
+    width: "60%", // Adjust to desired size (smaller than 100%)
+    height: "auto", // Maintain aspect ratio
+    display: "block",
+    margin: "0 auto", // Centers horizontally
+  }}
+/>
         </Link>
       </Toolbar>
-
-      <Box textAlign="center" sx={{ p: 2 }}>
-        <Typography variant="h6" fontWeight="bold" color="darkgrey" gutterBottom>
-          This site is a dumping ground of all things that cant get out of my head.
-        </Typography>
-     <Typography
-        variant="body2"
-        color="lightgrey"
-        sx={{ display: "inline-block", maxWidth: "600px", textAlign: "center" }}
-      >
-        I hope to capture these items somehow.  Then through more process of overthinging,  I will (may) get back to them and flush them out. Some are just ideas meant to be flushed out, and some just brain-fart thoughts that are meant to be just that. Dont fret - we dont get the time to "think long" all the time and this help me.  I hope it helps you too.
-        </Typography>
-
-      </Box>
     </AppBar>
   )
 }
