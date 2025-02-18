@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Balsley Family Genealogical Notes"
 date: "2025-01-23"
@@ -6,8 +5,6 @@ slug: "balsley-family-genealogical-notes"
 featuredImg: "/images/Baltzli.jpg"
 categories: ["genealogy", "family-history"]
 ---
-
-I'll research genealogical records for the Balsley family, including potential name changes and connections to Switzerland. I'll look for historical records, immigration details, and any name variations that might have occurred over time. I'll let you know when I have the findings.
 
 # Origins of the Balsley Surname in Switzerland  
 The **Balsley** surname is of Swiss-German origin. In fact, genealogical sources note that *Balsley* is an Americanized form of the Swiss name **Balzli**, which itself was a pet form of the personal name *Balthasar* ([Balsley Surname/Last Name: Meaning, Origin & Family History](https://discover.23andme.com/last-name/Balsley#:~:text=Americanized%20form%20of%20Swiss%20German,Compare%20Baltzley%20and%20Polsley)). This indicates that the family’s roots trace back to German-speaking Switzerland, and the name evolved as members emigrated and adapted to English. Early American records show several spelling variations of the name – for example **Baltzli**, **Baltzley**, **Balzley**, and even **Balzey** – reflecting attempts to phonetically spell the Swiss pronunciation ([Balsley Surname/Last Name: Meaning, Origin & Family History](https://discover.23andme.com/last-name/Balsley#:~:text=Americanized%20form%20of%20Swiss%20German,Compare%20Baltzley%20and%20Polsley)) ([BALTZLY-BALSLEY-POLSLEY Family with Other Variations of the ...](https://www.higginsonbooks.com/products/genealogies_b_baltzly-genba079h?srsltid=AfmBOorXZJ2nuviO7vFxjpoJrTsIHRevQHTJfuvfYHi3tNjv4Q28wo-b#:~:text=BALTZLY,Christian%20Baltzle%2C%20and%20Christoff%20Pantzly)). (On occasion, mis-transcriptions like “**Baitsley**” or similar have appeared in records, but these are understood to refer to the same Balzli/Balsley family.)
