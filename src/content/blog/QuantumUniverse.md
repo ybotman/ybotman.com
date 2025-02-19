@@ -3,7 +3,7 @@ title: "Is the universe actually math, or simple can be described by it?"
 date: "2019-08-12"
 slug: "is-the-universe-actually-math-or-simple-can-be-described-by-it"
 categories: ["astrophysics", "philosophy", "physics"]
-featuredImg: "/images/is-the-universe-actually-math-or-simple-can-be-described-by-it-featured.jpg"
+featuredImg: "/images/QuantumUniverse.jpg"
 ---
 
 <!-- wp:paragraph {"fontSize":"medium"} -->

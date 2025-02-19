@@ -1,10 +1,10 @@
-// ybotman.com/src/pages/index.js
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "../components/Layout"
-import Seo from "../components/Seo"
-import PostCard from "../components/PostCard"
-import { Grid } from "@mui/material"
+import Layout from "@/components/Layout"
+import Seo from "@/components/Seo"
+import PostCard from "@/components/PostCard"
+import FilterMenu from "@/components/FilterMenu"
+import { Grid, Box } from "@mui/material"
 import { filterPosts } from "@/utils/search"
 
 const shuffleArray = (array) => {
@@ -15,38 +15,38 @@ const shuffleArray = (array) => {
 }
 
 export default function HomePage({ data }) {
-  // State: categories
+  // State for selected categories & search text
   const [selectedCategories, setSelectedCategories] = React.useState([])
   const [searchQuery, setSearchQuery] = React.useState("")
 
-  // All posts
+  // All posts, excluding drafts
   const posts = data.allMarkdownRemark.nodes
-  // Exclude drafts
-  const visiblePosts = posts.filter(
-    (post) => post.frontmatter.status !== "draft"
+  const visiblePosts = posts.filter((p) => p.frontmatter.status !== "draft")
+
+  // Build a map of category -> usage count
+  const categoryCountMap = visiblePosts.reduce((acc, post) => {
+    const cats = post.frontmatter.categories || []
+    cats.forEach((cat) => {
+      acc[cat] = (acc[cat] || 0) + 1
+    })
+    return acc
+  }, {})
+
+  // Sort categories by descending usage
+  const allCategories = Object.keys(categoryCountMap).sort(
+    (a, b) => categoryCountMap[b] - categoryCountMap[a]
   )
 
-  // Gather all categories
-  const allCategories = Array.from(
-    new Set(
-      visiblePosts.flatMap((post) => post.frontmatter.categories || [])
-    )
-  )
-
-  // Shuffle logic
+  // Shuffle logic for your grouping approach
   const group1 = shuffleArray(
-    visiblePosts.filter(
-      (post) => post.frontmatter.featuredImg && post.timeToRead > 0
-    )
+    visiblePosts.filter((p) => p.frontmatter.featuredImg && p.timeToRead > 0)
   )
   const group2 = shuffleArray(
-    visiblePosts.filter(
-      (post) => !(post.frontmatter.featuredImg && post.timeToRead > 0)
-    )
+    visiblePosts.filter((p) => !(p.frontmatter.featuredImg && p.timeToRead > 0))
   )
   const groupedPosts = [...group1, ...group2]
 
-  // Filter by categories
+  // Filter by selected categories
   let filtered = groupedPosts
   if (selectedCategories.length > 0) {
     filtered = filtered.filter((post) => {
@@ -56,56 +56,57 @@ export default function HomePage({ data }) {
   }
 
   // Filter by search text
-  // NOTE: You are storing rawMarkdownBody or excerpt inside each node or subfields?
-  // If not, add it to your GraphQL or adapt as needed.
   const fullyFilteredPosts = filterPosts(filtered, searchQuery)
 
-  // Handler for toggling categories
+  // Handlers for toggling categories & updating search
   const handleChangeCategories = (cat) => {
     setSelectedCategories((prev) =>
-      prev.includes(cat)
-        ? prev.filter((c) => c !== cat)
-        : [...prev, cat]
+      prev.includes(cat) ? prev.filter((c) => c !== cat) : [...prev, cat]
     )
   }
-
-  // Handler for text search
-  const handleSearchChange = (txt) => {
-    setSearchQuery(txt)
-  }
+  const handleSearchChange = (txt) => setSearchQuery(txt)
 
   return (
-    <Layout
-      siteTitle="YbotMan Blog"
-      allCategories={allCategories}
-      selectedCategories={selectedCategories}
-      onChangeCategories={handleChangeCategories}
-      searchQuery={searchQuery}
-      onSearchChange={handleSearchChange}
-    >
+    <Layout>
       <Seo title="Home - YbotMan" />
 
-      <Grid container spacing={2} sx={{ mt: 2 }}>
-        {fullyFilteredPosts.map((post) => {
-          const { slug, title, date, featuredImg } = post.frontmatter
-          const excerpt = post.excerpt
-          return (
-            <Grid item xs={12} sm={6} md={4} key={slug}>
-              <PostCard
-                slug={slug}
-                title={title}
-                excerpt={excerpt}
-                date={date}
-                featuredImg={featuredImg}
-              />
-            </Grid>
-          )
-        })}
-      </Grid>
+      {/* Two-column layout: left (FilterMenu), right (post cards) */}
+      <Box sx={{ display: "flex" }}>
+        <FilterMenu
+          allCategories={allCategories}
+          categoryCountMap={categoryCountMap}
+          selectedCategories={selectedCategories}
+          onChangeCategories={handleChangeCategories}
+          searchQuery={searchQuery}
+          onSearchChange={handleSearchChange}
+        />
+
+        {/* Right Column: grid of posts */}
+        <Box sx={{ flex: 1, p: 2 }}>
+          <Grid container spacing={2}>
+            {fullyFilteredPosts.map((post) => {
+              const { slug, title, date, featuredImg } = post.frontmatter
+              const excerpt = post.excerpt
+              return (
+                <Grid item xs={12} sm={6} md={4} key={slug}>
+                  <PostCard
+                    slug={slug}
+                    title={title}
+                    excerpt={excerpt}
+                    date={date}
+                    featuredImg={featuredImg}
+                  />
+                </Grid>
+              )
+            })}
+          </Grid>
+        </Box>
+      </Box>
     </Layout>
   )
 }
 
+// GraphQL query (unchanged)
 export const pageQuery = graphql`
   query HomePageQuery {
     allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {

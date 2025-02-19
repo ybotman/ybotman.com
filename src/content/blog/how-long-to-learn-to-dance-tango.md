@@ -2,7 +2,7 @@
 title: "How long to learn to dance Argentine Tango?"
 date: "2019-03-27"
 slug: "how-long-to-learn-to-dance-tango"
-categories: ["body", "dance"]
+categories: ["body", "dance", "tango"]
 ---
 
 <!-- wp:quote -->

@@ -3,7 +3,7 @@ title: "I gave up on the Privacy Battle, so did you. But, we can do better."
 date: "2019-07-30"
 slug: "the-privacy-battle"
 categories: ["knowledge", "privacy", "technology"]
-featuredImg: "/images/i-gave-up-on-the-privacy-battle-so-did-you-but-we-can-do-better-featured.png"
+featuredImg: "/images/privacy.png"
 ---
 
 <!-- wp:quote -->
@@ -18,6 +18,8 @@ featuredImg: "/images/i-gave-up-on-the-privacy-battle-so-did-you-but-we-can-do-b
 <p style="background-color:#cdedfb" class="has-background">Mis-use is the problem, not the sharing. And lets be clear, they DO abuse.  Yet, the services are often useful, desirous, and free for us, and in turn,  should be viable and profitable for the data gather.  Let's look at a few and how to protect your data.</p>
 <!-- /wp:paragraph -->
 
+Facebook
+
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">Facebook is evil incarnate - never trust them.  My belief is that<strong> every person at Facebook may good, it is Facebook that's evil.</strong> The turnover at FB is near instantaneous. People are not there long enough to allow good to prevail.  This does not mean don't use them.  There is value to me, as i am more connected to my peripheral world than without.  They are peripherally helpful but not life-alteringly so. Obviously to world believes at least this by Facebooks prevalence and penetration, and its is viable due to its profitability (even in view of  2018-2019's year of facebook privacy missteps.).   So complain all you want, they are not going away, and most all the world WILL increasingly continue to use them.</p>
 <!-- /wp:paragraph -->
@@ -26,6 +28,7 @@ featuredImg: "/images/i-gave-up-on-the-privacy-battle-so-did-you-but-we-can-do-b
 <p>They have abused my information too many times. Certain corners of my life, merged with other nooks and found out things i didn't want them to know (nothing embarrassing , i just like compartentalizing parts of my life) - and i knowing tried to manage this. While just keeping my feet wet in the ocean of facebook, this happened.  I still am on facebook -  I expect and accept (and almost want), that they know all me, my age, family,  gender, know all my friends, my travel locations, my like and dislikes.  I like the service, and begrudging use it on a semi-regular basis and therefore willing the give something up for that. Facebook should be profitable an I am ok with all this. However, you don't get to change my privacy setting (by creating new ones) on updates. You don't get to flag me where id not want to be flagged.  Don't track my 'intra-message' location.  Don't buy and aggregate data beyond your boarders.  And for gods sake - you don't get to make a financial system (<a href="https://www.newsbtc.com/2019/03/11/facebook-crypto/">libra</a>) that the world may start to use a real currency.  The privacy lawsuits show the intent of the company.  I don't trust you and you should be reigned in. I hope congress breaks this o And all other options suck. But once you know and accept these things, and are careful (by diligent settings management, game selection, and attentive likes/posts), go forth and share.</p>
 <!-- /wp:paragraph -->
 
+Google
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">Google is an amazing company. Some of the smartest mathematicians in the wold work here. They have changed the world, and continue to mold it.  While the original motto may potentially have been "don't be evil",  today they do a good job of looking at things that can help both you and them, while attempting to not look specifically at you.   While there are lawsuits, and google did lose 22 civil suit in a privacy judgment, they seem to be operating reasonably legal - albeit a bit scary.</p>
 <!-- /wp:paragraph -->
