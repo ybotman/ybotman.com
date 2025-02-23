@@ -2,7 +2,7 @@
 title: "Do Whales Have Vowels?"
 date: "2019-08-07"
 slug: "do-whales-have-vowels"
-categories: ["language", "thinking"]
+categories: ["language", "thinking","i-want-to-know-","i-have-questions", "created-in-your-brain"]
 ---
 
 <!-- wp:paragraph -->
