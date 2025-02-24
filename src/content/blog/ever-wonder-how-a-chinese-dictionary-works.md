@@ -2,11 +2,7 @@
 title: "Did You Ever Wonder How a Chinese Dictionary Works?"
 date: "2019-08-13"
 slug: "ever-wonder-how-a-chinese-dictionary-works"
-<<<<<<< HEAD
-categories: ["language", "thinking", "you -should-know", "china"]
-=======
 categories: ["language", "thinking", "china", "you-should-know"]
->>>>>>> 491358f06158a395263fb30ce21219695a81a221
 featuredImg: "/images/chinese-cursive.jpg"
 ---
 

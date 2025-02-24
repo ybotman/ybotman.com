@@ -27,7 +27,6 @@ This list is diverse, spanning topics from philosophy and psychology to technolo
 - Do Whales Have Vowels?
 - Drone Delivery
 - Ever Think About Ear Wax?
-- Ever Wonder How a Chinese Dictionary Works?
 - Ever Wonder How a Chinese Typewriter Works?
 - Facebook: Do You Know What You Give?
 - Fingerprints and Iris Scanners: A Bad Idea
