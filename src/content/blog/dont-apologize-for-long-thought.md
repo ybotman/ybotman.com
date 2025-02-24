@@ -2,7 +2,7 @@
 title: "Don't Apologize for 'Long Thought'"
 date: "2025-01-23"
 slug: "dont-apologize-for-long-thought"
-categories: ["thinking", "philosophy", "psychology"]
+categories: ["thinking", "philosophy", "phsychology"]
 featuredImg: "/images/button.jpg"
 ---
 

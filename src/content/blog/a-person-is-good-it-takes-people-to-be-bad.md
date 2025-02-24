@@ -2,7 +2,7 @@
 title: "A Person Is Good—It Takes People to Be Bad"
 date: "2025-01-23"
 slug: "a-person-is-good-it-takes-people-to-be-bad"
-categories: ["thinking", "philosophy", "psychology"]
+categories: ["thinking", "philosophy", "phsychology"]
 featuredImg: "/images/Hmmm.jpg"
 ---
 

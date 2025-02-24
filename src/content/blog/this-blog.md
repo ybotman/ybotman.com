@@ -2,7 +2,7 @@
 title: "My hopes for this Blog."
 date: "2019-02-19"
 slug: "this-blog"
-categories: ["thinking", "philosophy", "psychology"]
+categories: ["thinking", "philosophy", "phsychology"]
 featuredImg: "/images/thinking.jpg"
 ---
 
@@ -17,7 +17,7 @@ This blog isn’t just a space for me to share facts. It's a place where I will 
 As I delve into the categories and themes that will guide my writing, you’ll notice they often reflect my personal interests and the things that occupy my mind most days. Let's break them down:
 
 ### 1. **Philosophy and Thought**
-You’ll find that many of my posts will center around deep philosophical questions. I’m fascinated by the intricacies of human behavior, the ethics of modern technology, and the existential musings that keep me awake at night. Posts tagged with **thinking**, **philosophy**, and **psychology** will explore questions like “What does it mean to truly know something?” or “How does technology shape our understanding of reality?” These categories invite introspection and provide an opportunity to question the very foundations of our existence.
+You’ll find that many of my posts will center around deep philosophical questions. I’m fascinated by the intricacies of human behavior, the ethics of modern technology, and the existential musings that keep me awake at night. Posts tagged with **thinking**, **philosophy**, and **phsychology** will explore questions like “What does it mean to truly know something?” or “How does technology shape our understanding of reality?” These categories invite introspection and provide an opportunity to question the very foundations of our existence.
 
 ### 2. **Science and Technology**
 We live in a time when science and technology are advancing at an exponential rate, often leaving us to play catch-up. **Technology**, **science**, and **future** categories will reflect my deep interest in these fields. I’ll explore topics like the ethics of AI, the potential of 5G and beyond, and the way these innovations will reshape not only our society but also our minds and behaviors. But I won’t just be celebrating these advancements—I’ll also be challenging them, asking the tough questions: “What could go wrong with autonomous cars?” or “Are we really ready for the future we're building?”
@@ -32,7 +32,7 @@ The power of language has always fascinated me. How do words shape our understan
 In a world where our personal data is more valuable than gold, I’m committed to exploring the ethical dilemmas that arise with every new technological advancement. Posts tagged with **privacy**, **a-bad-idea**, and **a-good-idea** will tackle the complex issues surrounding data privacy, surveillance, and the moral responsibilities of the tech industry. Through these reflections, I aim to spark conversations about what’s at stake when we trade our privacy for convenience.
 
 ### 6. **Human Experience and Exploration**
-The human experience is vast and varied, and I want to explore it from every angle. From the psychology of everyday behaviors to the absurdities of modern life, these topics will be woven into posts under categories like **psychology**, **thinking**, and **body**. I’ll write about everything from why we react to certain stimuli to how our brains process discomfort, and I’ll offer insights that encourage deeper understanding and empathy for others.
+The human experience is vast and varied, and I want to explore it from every angle. From the phsychology of everyday behaviors to the absurdities of modern life, these topics will be woven into posts under categories like **phsychology**, **thinking**, and **body**. I’ll write about everything from why we react to certain stimuli to how our brains process discomfort, and I’ll offer insights that encourage deeper understanding and empathy for others.
 
 ## Conclusion
 

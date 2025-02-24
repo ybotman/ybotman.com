@@ -2,7 +2,7 @@
 title: "Your Printer is SPY-ing on you – Really."
 date: "2025-01-23"
 slug: "your-printer-is-a-spy"
-categories: ["thinking", "philosophy", "psychology"]
+categories: ["thinking", "philosophy", "phsychology"]
 featuredImg: "/images/privacy.png"
 ---
 

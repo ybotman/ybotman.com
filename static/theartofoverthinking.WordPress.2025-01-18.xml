@@ -171,9 +171,9 @@
 	</wp:category>
 		<wp:category>
 		<wp:term_id>32</wp:term_id>
-		<wp:category_nicename><![CDATA[psychology]]></wp:category_nicename>
+		<wp:category_nicename><![CDATA[phsychology]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Psychology]]></wp:cat_name>
+		<wp:cat_name><![CDATA[phsychology]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -8571,7 +8571,7 @@ And the worst? Augmented 4th]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="knowledge"><![CDATA[Knowledge]]></category>
 		<category domain="category" nicename="language"><![CDATA[Language]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
@@ -9424,7 +9424,7 @@ Tough and sight is balance.]]></content:encoded>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+										<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
@@ -9623,7 +9623,7 @@ Tough and sight is balance.]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="knowledge"><![CDATA[Knowledge]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
@@ -9690,7 +9690,7 @@ Tough and sight is balance.]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="knowledge"><![CDATA[Knowledge]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
@@ -9870,7 +9870,7 @@ Tough and sight is balance.]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="knowledge"><![CDATA[Knowledge]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
@@ -9938,7 +9938,7 @@ Tough and sight is balance.]]></content:encoded>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+										<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -10005,7 +10005,7 @@ Tough and sight is balance.]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="knowledge"><![CDATA[Knowledge]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_smooth_slider_style]]></wp:meta_key>
@@ -10977,7 +10977,7 @@ Tough and sight is balance.]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="created-in-your-brain"><![CDATA[Created in your Brain]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -12446,7 +12446,7 @@ Tough and sight is balance.]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="language"><![CDATA[Language]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
@@ -13432,7 +13432,7 @@ https://vimeo.com/352947397
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>8. Freud will be classed as a pre-scientific, intuitive pioneer and psychoanalysis will be replaced by a growing, changing "operational psychology" based on measurement and prediction.</p>
+<p>8. Freud will be classed as a pre-scientific, intuitive pioneer and psychoanalysis will be replaced by a growing, changing "operational phsychology" based on measurement and prediction.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -13645,7 +13645,7 @@ https://vimeo.com/352947397
 		<category domain="category" nicename="astrophysics"><![CDATA[AstroPhysics]]></category>
 		<category domain="category" nicename="future"><![CDATA[Future]]></category>
 		<category domain="category" nicename="i-want-to-know"><![CDATA[I want to know]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="science"><![CDATA[Science]]></category>
 		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
@@ -14008,7 +14008,7 @@ Now—you can forward this note, or you can just delete it—it's UP to you!</p>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="language"><![CDATA[Language]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
@@ -14088,7 +14088,7 @@ Now—you can forward this note, or you can just delete it—it's UP to you!</p>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+										<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="you-should-know"><![CDATA[You should know]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
@@ -14159,7 +14159,7 @@ Now—you can forward this note, or you can just delete it—it's UP to you!</p>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+										<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
@@ -14711,7 +14711,7 @@ It amazes me that the human species has and keeps friends at all.]]></content:en
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="knowledge"><![CDATA[Knowledge]]></category>
 		<category domain="category" nicename="language"><![CDATA[Language]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -15149,7 +15149,7 @@ What a great thing it is to find love and not live your life alone.
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="a-good-idea"><![CDATA[A good idea]]></category>
-		<category domain="category" nicename="psychology"><![CDATA[Psychology]]></category>
+		<category domain="category" nicename="phsychology"><![CDATA[phsychology]]></category>
 		<category domain="category" nicename="thinking"><![CDATA[Thinking]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>

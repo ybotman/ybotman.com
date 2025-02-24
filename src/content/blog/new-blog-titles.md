@@ -2,14 +2,14 @@
 title: "My Blank Blog Titles"
 date: "2025-01-23"
 slug: "new-blog-titles"
-categories: ["thinking", "philosophy", "psychology"]
+categories: ["thinking", "philosophy", "phsychology"]
 featuredImg: "/images/button.jpg"
 ---
 
 
 As I continue this journey of writing and sharing, I contiue to be inspired by new ideas and perspectives. Here’s a collection of blog titles—some that have been sitting in the back of my mind and others that emerged recently. Each one is a reflection of curiosity, exploration, and the endless questions that keep me going. 
 
-This list is diverse, spanning topics from philosophy and psychology to technology and everyday curiosities. My hope is that these titles spark your imagination and provide a glimpse into what’s to come.
+This list is diverse, spanning topics from philosophy and phsychology to technology and everyday curiosities. My hope is that these titles spark your imagination and provide a glimpse into what’s to come.
 
 ---
 

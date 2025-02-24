@@ -2,7 +2,7 @@
 title: "Slavery is Constitutional (for inmates)"
 date: "2019-08-07"
 slug: "slavery-is-constitutional-for-inmates"
-categories: ["psychology", "you-should-know"]
+categories: ["phsychology", "you-should-know", "get-wrong"]
 ---
 
 <!-- wp:heading {"level":1,"align":"center"} -->

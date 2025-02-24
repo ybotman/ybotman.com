@@ -2,6 +2,7 @@
 title: "The Upcoming horrors of autonomous cars"
 date: "2019-10-21"
 slug: "problems-of-autodrive-cars"
+featuredImg: "/images/futureCars.jpg"
 categories: ["ai", "autonomous-cars", "future", "technology", "thinking"]
 ---
 

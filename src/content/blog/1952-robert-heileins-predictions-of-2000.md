@@ -2,7 +2,7 @@
 title: "1952 Robert Heilein's predictions of 2000."
 date: "2019-07-30"
 slug: "1952-robert-heileins-predictions-of-2000"
-categories: ["a-good-idea", "astrophysics", "future", "i-want-to-know", "psychology", "science", "technology", "thinking"]
+categories: ["a-good-idea", "astrophysics", "future", "i-want-to-know", "phsychology", "science", "technology", "thinking"]
 featuredImg: "/images/thinking.jpg"
 ---
 
@@ -65,7 +65,7 @@ featuredImg: "/images/thinking.jpg"
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>8. Freud will be classed as a pre-scientific, intuitive pioneer and psychoanalysis will be replaced by a growing, changing "operational psychology" based on measurement and prediction.</p>
+<p>8. Freud will be classed as a pre-scientific, intuitive pioneer and psychoanalysis will be replaced by a growing, changing "operational phsychology" based on measurement and prediction.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

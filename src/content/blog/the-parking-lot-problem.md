@@ -2,7 +2,7 @@
 title: "The Parking Lot Problem"
 date: "2025-01-23"
 slug: "the-parking-lot-problem"
-categories: ["thinking", "philosophy", "psychology"]
+categories: ["thinking", "philosophy", "phsychology"]
 featuredImg: "/images/futureCars.jpg"
 ---
 

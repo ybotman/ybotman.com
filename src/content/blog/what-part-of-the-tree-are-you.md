@@ -2,7 +2,7 @@
 title: "What Part of the TREE are you?"
 date: "2019-07-29"
 slug: "what-part-of-the-tree-are-you"
-categories: ["psychology", "thinking"]
+categories: ["phsychology", "thinking"]
 ---
 
 <!-- wp:quote -->
