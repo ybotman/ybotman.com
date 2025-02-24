@@ -2,7 +2,7 @@
 title: "Is “it” all about to change?"
 date: "2023-02-13"
 slug: "is-it-all-about-to-change"
-categories: ["a-i", "i-have-questions", "thinking"]
+categories: ["ai", "i-have-questions", "thinking"]
 ---
 
 <!-- wp:image {"linkDestination":"custom"} -->

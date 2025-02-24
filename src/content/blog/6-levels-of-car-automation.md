@@ -2,7 +2,7 @@
 title: "The 6 levels of car automation (0-5)."
 date: "2019-11-19"
 slug: "6-levels-of-car-automation"
-categories: ["a-i", "autonomous-cars", "language", "technology"]
+categories: ["ai", "autonomous-cars", "language", "technology"]
 featuredImg: "/images/futureCars.jpg"
 ---
 

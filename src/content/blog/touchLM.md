@@ -2,7 +2,7 @@
 title: "We Need TouchLM SmellLM"
 date: "2019-10-04"
 slug: "TouchLM"
-categories: ["thinking", "AI"]
+categories: ["thinking", "ai"]
 featuredImg: "/images/button.jpg"
 ---
 

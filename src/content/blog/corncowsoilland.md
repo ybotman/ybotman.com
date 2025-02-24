@@ -2,7 +2,7 @@
 title: "Changes to Cows means Corn is the middle"
 date: "2019-10-04"
 slug: "corncowsoilland"
-categories: ["thinking"]
+categories: ["thinking", "food"]
 featuredImg: "images/MeatWithAnimals.webp"
 ---
 

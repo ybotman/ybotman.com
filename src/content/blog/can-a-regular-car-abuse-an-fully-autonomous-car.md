@@ -2,7 +2,7 @@
 title: "Can a regular driver ABUSE an fully autonomous car?"
 date: "2019-11-16"
 slug: "can-a-regular-car-abuse-an-fully-autonomous-car"
-categories: ["a-i", "autonomous-cars", "i-want-to-know", "knowledge", "technology"]
+categories: ["ai", "autonomous-cars", "i-want-to-know", "knowledge", "technology"]
 ---
 
 <img class="size-full wp-image-1025" src="https://ybotman.com/wp-content/uploads/img_0990.jpg" width="700" height="300" />

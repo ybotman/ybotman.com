@@ -2,7 +2,7 @@
 title: "The Upcoming horrors of autonomous cars"
 date: "2019-10-21"
 slug: "problems-of-autodrive-cars"
-categories: ["a-i", "autonomous-cars", "future", "technology", "thinking"]
+categories: ["ai", "autonomous-cars", "future", "technology", "thinking"]
 ---
 
 <img src="https://ybotman.com/wp-content/uploads/img_0988-1.jpg" class="size-full wp-image-1015" width="474" height="564">
