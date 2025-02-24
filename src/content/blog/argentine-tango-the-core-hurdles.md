@@ -2,7 +2,7 @@
 title: "Argentine tango : The core hurdles"
 date: "2019-10-10"
 slug: "argentine-tango-the-core-hurdles"
-categories: ["thinking"]
+categories: ["tango","dancing"]
 featuredImg: "/images/tango.jpg"
 ---
 

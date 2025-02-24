@@ -2,7 +2,7 @@
 title: "Why I Dance Tango"
 date: "2025-01-23"
 slug: "why-i-dance-tango"
-categories: ["thinking", "philosophy", "tango"]
+categories: ["thinking", "dance", "philosophy", "tango"]
 featuredImg: "/images/tango.jpg"
 ---
 

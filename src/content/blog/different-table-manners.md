@@ -2,7 +2,7 @@
 title: "Different Table Manners Around the World"
 date: "2025-01-23"
 slug: "different-table-manners"
-categories: ["culture", "food"]
+categories: ["culture", "food","china"]
 featuredImg: "/images/Food.jpg"
 ---
 
