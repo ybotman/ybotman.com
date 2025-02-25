@@ -1,8 +1,9 @@
 ---
 title: "Basic Password, Privacy, Protection Best Practices"
-date: "2019-08-06"
-slug: "password-pricy"
+date: "2018-02-06"
+slug: "password-privacy"
 categories: ["a-good-idea", "knowledge", "privacy", "technology", "you-should-know"]
+featuredImg : "/images/privacy.png"
 ---
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->

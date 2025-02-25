@@ -1,59 +1,45 @@
 ---
-title: "Passwords:  Best Practices"
+title: "Passwords: Best Practices"
 date: "2019-08-13"
 slug: "passwords"
 categories: ["a-good-idea", "privacy", "technology", "you-should-know"]
 featuredImg: "/images/passwords-best-practices-featured.png"
 ---
 
-<!-- wp:paragraph -->
-<p><strong>Stop trying to remember them,</strong> you can't, because you are HUMAN.  Every password you use (i have 153 logins now) should be fundamentally different, and random not just similar.  Any password that you think is sneaky is easily broken by a hashing computer.  </p>
-<!-- /wp:paragraph -->
+# Passwords: Best Practices
 
-<!-- wp:heading -->
-<h2>             Donts</h2>
-<!-- /wp:heading -->
+**Stop trying to remember them**—you can’t, because you’re human. Every password you use (and let’s be real, we all have over 100 logins these days) should be different and *truly random*. Any clever trick, like reversing a word or swapping letters with symbols, is easily cracked by modern brute-force methods.
 
-<!-- wp:paragraph -->
-<p><strong>Don't </strong>use any word in your password or anything spelled backward. <strong>Don't </strong>use extension of 01, then 02 later on. <strong>Don't </strong>substitute $ for S, or @ or A or 3 for E.<strong> Don't </strong>let your safari, chrome or firefox be your password database. <strong>Don't </strong>let your iPhone browser do it, <strong>don't </strong>even think about your android (especially if its is a Chinese manufactured). You cannot be sneaky enuough to fool even the basic hacking of computers. </p>
-<!-- /wp:paragraph -->
+## Don’ts
 
-<!-- wp:paragraph -->
-<p><strong>How do computers hack your  accounts? </strong></p>
-<!-- /wp:paragraph -->
+- **Don’t** use any recognizable word or anything spelled backward.  
+- **Don’t** just tack on “01” for the new version (“02” for the next...).  
+- **Don’t** assume a simple letter-to-symbol substitution (like `$` for `S` or `@` for `A`) will fool anyone.  
+- **Don’t** rely on your browser’s built-in password memory—especially not on a shared or easily compromised device.  
 
-<!-- wp:paragraph -->
-<p><strong>1) password brute force </strong></p>
-<!-- /wp:paragraph -->
+## How Computers Hack Your Accounts
 
-<!-- wp:paragraph -->
-<p>Computers can literally keep guessing with superspeed if they have the encrypted “hash” password of your account. <strong>So, how hackable are hashed passwords? </strong>With reasonably cheap 'GPU' computers - unbelievably Easy - If your password in under 8 characters - even microseconds. If you have large password around 14 characters (upper and lower and number), maybe a few hours. If you have mega size 20 with upper/lower and special characters - A much much longer time. Current brute force is years to thousands of years. But thats today. Are you going to remember a 20 character random upper/lower/number/special password? Seems unlikely. So make your passwords really big (more than 15 characters). </p>
-<!-- /wp:paragraph -->
+1. **Password Brute Force**  
+   Hackers can guess *billions* of possibilities per second if they have your account’s hashed password. If your password is under 8 characters, it can be cracked almost instantly. Even 14 characters might only buy you hours. At 20+ characters, you’re looking at years or millennia—assuming today’s hardware. But as computers get faster, you need to stay one step ahead.
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+2. **Password Hash Comparison**  
+   Once hackers have a list of hashed passwords (from a database breach, for example), they can quickly match them against known hash patterns. Unique, random passwords for each site help limit the damage if one set of credentials leaks.
 
-<!-- wp:paragraph -->
-<p><strong>2) password hash comparison</strong></p>
-<!-- /wp:paragraph -->
+3. **Keystroke Copiers**  
+   Keyloggers or malware on your device can record every password you type. This is why using unknown machines (like at an airport) is so risky.
 
-<!-- wp:paragraph -->
-<p><strong>3) key stroke copiers </strong></p>
-<!-- /wp:paragraph -->
+## The One Golden Rule
 
-<!-- wp:paragraph -->
-<p><strong>Heres what you have to do</strong>: Each password should be more that 25 characters long and pure random, not a 'sounds like'. SO,  *#84jdFH@)39fHDHfiu\egl{#lq4Ma435#|5 is a good password for your bank and only your bank (well don't use that one).  Every other one should be different and different in size as well. </p>
-<!-- /wp:paragraph -->
+**Use a password manager.** Whether it’s LastPass, 1Password, Dashlane, or Keeper—pick one and **stick** with it. Let it generate 20+-character random passwords for every single account. You only remember one strong master password; the manager handles the rest.
 
-<!-- wp:paragraph -->
-<p><strong>Get a password manage</strong>r. Just do it today,  LastPass, Password1, Keeper, DashLane, Sticky, and many more options.   Don't trying to figure out which one is better, go by which logo seems the best to you. There are minor differences, and none are perfect AND they all are a little bit of a pain, but accept it and do it.  I use LastPass, and while its a pain, I use it everywhere. I mostly love it.    My banks, my gmail, xfinity , apple id, facebook, soundhound grocery store points, bookstore points, coffee online, amazon, and 135 more account to date.  I don't know anyof them. I took a couple of weeks to find and change all passwords i had. Every now and again,  an old one pops up. I instantly convert it to a random password and use the password manager.</p>
-<!-- /wp:paragraph -->
+> *Example Password (Don’t actually use this!)*  
+> `*#84jdFH@)39fHDHfiu\egl{#lq4Ma435#|5`
 
-<!-- wp:paragraph -->
-<p><strong>Now, I have to be able to remember</strong> my LASTPASS account password, my password to my ScreenSaver on my computer and laptop, and my unlock code on my phone. Thats it. EVERTHING else i don't know.</p>
-<!-- /wp:paragraph -->
+I personally started with LastPass and recently switched to **1Password** after trust issues arose. Yes, it can feel like a pain, but it’s infinitely safer than reusing the same eight-character password. It’s your best bet to avoid a GPU-based brute force fiasco or a simple dictionary attack.
 
-<!-- wp:paragraph -->
-<p><strong>Yes, I still might be hacked</strong>. I won't tempt fate. There are some pretty smart and diligent folks out there and there are aways ways. Machines will get faster, people get better techniques.  I could get a key-logger virus from North-Korea. I may have to use a machine at an airport sometime. No system under todays technology is immune. But, it is unlikely that some big farm of  GPU based computer will successfully hacked my password via a brute force, or a HASH attack. And even if they do, the next password is just as difficult to get.</p>
-<!-- /wp:paragraph -->
+## Accept the (Mild) Inconvenience
+
+- I memorize my master password, my phone’s PIN, and my computer’s screensaver login.  
+- *Everything else*? Random strings that only my password manager knows.  
+
+Sure, **there’s still risk**—keyloggers, zero-days, or state-sponsored hacks exist. But at least you won’t get hammered by a simple brute force or guesswork attack. And if one site gets compromised, your other 152 logins remain safe behind their own unique walls. It’s all about **making it harder** for hackers, one step at a time.
