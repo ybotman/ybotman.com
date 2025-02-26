@@ -3,7 +3,7 @@ title: "Argentine tango : The core hurdles"
 date: "2019-10-10"
 slug: "argentine-tango-the-core-hurdles"
 categories: ["tango","dancing"]
-featuredImg: "/images/tango.jpg"
+featuredImg: "/images/tango2.jpg"
 ---
 
 <h6>Most partner dances : swing, waltz, polka, square dancing, two step, and the vast majority, mostly focus on moves, body position, and patterns. Once learned, then partnership with someone "at your level" can be achieved.</h6>

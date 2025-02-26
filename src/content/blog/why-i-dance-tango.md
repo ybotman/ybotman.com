@@ -3,7 +3,7 @@ title: "Why I Dance Tango"
 date: "2025-01-23"
 slug: "why-i-dance-tango"
 categories: ["thinking", "dance", "philosophy", "tango", "uniquely-human"]
-featuredImg: "/images/tango.jpg"
+featuredImg: "/images/tango2.jpg"
 ---
 
 There’s little in life where two people are brought together in such a unique, singular way to create something random, collaborative, and beautiful. Most of life is about doing what we are asked or asking someone to do something—work, drive, raise kids, etc. We meet, share space, and time, but in tango, we share space, time, and **product** in real time. When I dance tango, it’s like nothing else—an experience where judgment disappears, and something magical happens.
@@ -16,5 +16,4 @@ It’s not like flipping a switch—one partner leads, and the other follows. No
 
 When else in life do we get to hold someone without worry, without expectation, and truly collaborate? Tango is not about **give and take**. It’s a **merger**. It’s a beautiful partnership where both people are equal contributors, shaping something greater than either could do alone. It’s pure connection, pure collaboration.
 
-And that’s why I dance tango.  
-# **LARGEST**  
+# **And that’s why I dance tango.  
