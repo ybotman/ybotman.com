@@ -3,7 +3,7 @@ title: "Did You Ever Wonder How a Chinese Typewriter Works?"
 date: "2019-08-09"
 slug: "every-wonder-how-a-chinese-typewriter-works"
 categories: ["language", "you-should-know", "china"]
-featuredImg: "/images/Hmmmm.jpg"
+featuredImg: "/images/Hmmm.jpg"
 ---
 
 # Did You Ever Wonder How a Chinese Typewriter Works?
