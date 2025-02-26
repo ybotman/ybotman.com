@@ -3,7 +3,7 @@ title: "Do We Suffer If We Can't Recall?"
 date: "2025-02-24"
 slug: "pain-and-recall"
 categories: ["ethics", "phsychology"]
-featuredImg: "/images/Thinking.jpg"
+featuredImg: "/images/thinking.jpg"
 ---
 # Do We Suffer If We Can't Recall? 
 
