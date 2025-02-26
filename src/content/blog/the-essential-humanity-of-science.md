@@ -2,9 +2,8 @@
 title: "The Essential Humanity of Science"
 date: "2025-01-23"
 slug: "the-essential-humanity-of-science"
-
-categories: ["thinking","evolution", "philosophy"]
-featuredImg: "/images/Button.jpg"
+categories: ["thinking","evolution", "philosophy", "uniquely-human"]
+featuredImg: "/images/button.jpg"
 ---
 
 Science often gets painted as a realm of complex equations, particle accelerators, and endless data crunching. But when we pause to consider pursuits like hunting for dark matter or exploring purely theoretical math—or even the ageless question of life’s meaning—what really shines through is our very human drive to discover.

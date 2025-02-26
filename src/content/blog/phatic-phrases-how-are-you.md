@@ -3,7 +3,7 @@ title: "Phatic Phrases: How Are You?"
 date: "2019-08-06"
 slug: "phatic-phrases-how-are-you"
 categories: ["knowledge", "language"]
-featuredImg: "/images/Button.jpg"
+featuredImg: "/images/button.jpg"
 ---
 
 # Phatic Phrases: How Are You?
@@ -16,4 +16,4 @@ Usually something like “Hungry,” or “Ready for my closeup” with a wink�
 **Phatic communication** is about **building connection**—it’s a ritual that acknowledges another person without demanding real depth. In some cultures, the go-to question might be “Have you eaten?” or “All good?”—the wording changes, but the *function* stays the same: a quick social handshake.
 
 ## A Friendly Wrap-Up
-Next time someone asks, “How are you?”—you can decide whether it stays a friendly surface-level prompt or becomes an opening for more. Sometimes it’s just a casual hello; sometimes it’s an invitation to peel the onion a bit. The beauty is you get to choose how deep you go.
+So, “How are you?”.... While usually it’s just a casual hello; one mustant crowbar a conversation, but I **love** to use it as an opportunity (on occastion) to peel the onion a bit. To stand-out a bit in the answer. A giggle or smile or a little deeper connection just may happen. 

@@ -20,7 +20,7 @@ featuredImg: "/images/BookHorder.jpg"
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Books. They’re supposed to be gateways to adventure, knowledge, and escapism. Yet, here I am, staring at a mountain of them that I can’t seem to part with. From high school novels to college textbooks, beloved reads to ones I despise, and even that old 1990 database design manual—why can’t I just let them go? Let’s dive into the quirky, cluttered world of my book collection and explore the tangled web of emotions and memories that keep these pages from finding a new home.</p>
+<p>Books. They’re supposed to be gateways to adventure, knowledge, and escapism. Yet, here I am, staring at a mountain of them that I can’t seem to part with. From high school novels to college textbooks, beloved reads to ones I despise, and even that old 1990 database design manual—why can’t I just let them go? My cluttered world of my book collection and tangled web of emotions and memories keep these pages from finding a new home (or the trash).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -106,37 +106,3 @@ featuredImg: "/images/BookHorder.jpg"
 <li><strong>Fear of Regret:</strong> What if I throw away a book and later realize I desperately needed it? The what-ifs keep me holding on.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading"><strong>Questions That Keep Me Turning Pages</strong></h3>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Existential Shelf Life:</strong> If books are reflections of our thoughts and experiences, are they part of a larger literary universe we’re unaware of?</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Olfactory Oddities:</strong> Why do some books smell like nostalgia and others like old coffee spills? Is there a scent-based hierarchy in book preservation?</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Animal Analogies:</strong> If animals hoard items for survival, why do I hoard books for pleasure? Are we just different species with similar instincts?</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p><strong>Have Thoughts on Book Hoarding?</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Do you find yourself unable to part with certain books? Or perhaps you’ve mastered the art of decluttering and have some hilarious stories to share? Drop your musings and bookish tales in the comments below—we’re all in this overthinking (and hoarding) journey together!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:paragraph -->
-<p><strong>Found this post page-turningly funny? Share it with your fellow book lovers and let’s celebrate our unbreakable bond with books! </strong>📚😂</p>
-<!-- /wp:paragraph -->
