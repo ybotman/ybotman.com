@@ -25,4 +25,4 @@ Even though your voice produces a fundamental tone plus many harmonics, your bra
 ## Wrapping Up
 A vowel isn’t just about the letter on the page—it’s about how the vocal tract shapes the **harmonic series** produced by your voice. By adjusting formants, you create the difference between an “A” and an “E,” regardless of pitch. In other words, **managing your formants is what makes vowels sound like vowels**.
 
-So next time you speak or sing, remember that vowels are created by **resonance in the air pockets** of your mouth and throat, shaped by small shifts in your tongue and lips. It’s a fascinating blend of physics, biology, and perception—all wrapped into the simple act of saying “A, E, I, O, U.”
+Vowels are created by **resonance in the air pockets** of your mouth and throat, shaped by small shifts in your tongue and lips. It’s a fascinating blend of physics, biology, and perception—all wrapped into the simple act of saying “A, E, I, O, U.”

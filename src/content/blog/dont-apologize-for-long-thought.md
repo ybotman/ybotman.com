@@ -12,4 +12,4 @@ In a world that values speed and brevity, there’s often pressure to rush throu
 
 Don’t apologize for thinking deeply or for taking time to process. True understanding requires space and patience. Let your thoughts unfold at their own pace — it’s the only way to find the truths that matter.
 
-So next time your mind wanders into deeper waters, let it. There’s wisdom in the journey.
+If mind wanders into deeper waters, let it. There’s wisdom in the journey.

@@ -2,7 +2,7 @@
 title: "Parking Lots of the Near Future"
 date: "2025-01-23"
 slug: "parking-lots-of-the-near-future"
-categories: ["thinking", "philosophy", "cars", "ai"]
+categories: ["thinking", "philosophy", "autonomous-cars", "ai"]
 featuredImg: "/images/futureCars.jpg"
 ---
 

@@ -3,12 +3,15 @@ title: "Tails Are for Dogs, Eyebrows Are for Humans"
 date: "2025-01-23"
 slug: "tails-are-for-dogs-eyebrows-are-for-humans"
 featuredImg: "/images/dogeyes.jpg"
-categories: ["thinking", "science", "evolution", "dogs"]
+categories: ["thinking", "science", "evolution", "dogs", "uniquely-human"]
 ---
 
 # Tails Are for Dogs, Eyebrows Are for Humans
 
 We’ve all seen that exuberant tail-wag—maybe when your dog spots another pup at the park, or just when you come back from checking the mail. It’s an instantly recognizable “I’m so happy!” signal. But have you ever stopped to think about **where** that wagging behavior came from and who it was actually meant for in the first place?
+
+# Dogs typically dont even look at each other.
+If you just watch dogs (as if you were a dog), you will see sent, posture, and movement as key drivers for the dogs.  Not facial expressions.  Also this is sensed from the side views not direclty look at each other. The Posture of of front paws forward and butt up = "Play".  The posture of butt back to the other dogs nose, "find out if im a friend, we will exchange".  This goes on to very deep dog senses created over a long long time.
 
 ## An Ancient, Canine-to-Canine Signal
 Before dogs hung out on couches and wore little holiday sweaters, they were wolves (or at least close relatives). Back in the wild, there was no reason to wag a tail at humans, because—simply put—humans weren’t around (or at least not in any friendly sense). The **tail wag** evolved as an **intra-species signal** within canine packs. Picture wolves roaming the tundra and needing to communicate quickly: friend or foe, submissive or dominant, playful or on guard. A flick of the tail, a certain posture, or a slow wag could convey a wealth of information to other wolves. High, rigid wag? Tension or alertness. Sweeping, helicopter-like wag? Utter excitement or invitation to play.
@@ -37,4 +40,4 @@ The next time your dog cocks its head and raises those brows at you, remember: i
 
 Think about it: a small muscle tweak, an extra eyebrow lift, and suddenly we’re melting into a puddle of affection for our dogs. It’s both fascinating and endearing to realize we’re part of that evolutionary story, shaping (and being shaped by) these incredible companion animals. They gained a new language layer to better talk to us—and we responded by loving them even more.
 
-**So** the next time you see that tail wag or those eyebrows rise, maybe both at once, see it for what it truly is: a perfect example of biology, bonding, and thousands of years of shared history between two species that decided we’re better off together than apart.
+**So** the next time you see that tail wag or those eyebrows rise, maybe both at once, see it for what it truly is: a perfect symbiosis of biology, bonding, and thousands of years of shared history between two species that decided we’re better off together than apart.
