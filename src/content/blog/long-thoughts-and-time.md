@@ -1,5 +1,5 @@
 ---
-title: "Long thoughts, and Time"
+title: "Long thoughts, and Loneliness"
 date: "2019-08-23"
 slug: "long-thoughts-and-time"
 categories: ["a-good-idea", "phsychology", "thinking"]
