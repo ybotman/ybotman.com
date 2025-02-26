@@ -1,5 +1,5 @@
 ---
-title: "Argentine tango : The core hurdles"
+title: "Argentine tango : The lead/follow hurdles"
 date: "2019-10-10"
 slug: "argentine-tango-the-core-hurdles"
 categories: ["tango","dancing"]
