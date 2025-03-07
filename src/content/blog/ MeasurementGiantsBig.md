@@ -1,5 +1,5 @@
 ---
-title: "We Stand on the Shoulders of Measurement Giants"
+title: "Shoulders of Measurement Giants-Big"
 date: "2025-01-23"
 slug: "MeasurementGiantsBig"
 featuredImg: "/images/measurement.jpg"
