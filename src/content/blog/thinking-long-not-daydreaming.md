@@ -2,7 +2,7 @@
 title: "Thinking Long, Not Daydreaming"
 date: "2025-01-23"
 slug: "thinking-long-not-daydreaming"
-featuredImg: "/images/ThinkLong.webp"
+featuredImg: "/images/ThinkLong.jpg"
 status: "draft"
 categories: ["thinking", "philosophy", "uniquely-human"]
 ---

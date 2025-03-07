@@ -2,7 +2,6 @@
 title: "From Spoiled Food to AI Sensors: The Evolving Science of Disgust"
 date: "2025-01-23"
 slug: "disgust-and-ai"
-status: "draft"
 featuredImg: "/images/thinking.jpg"
 categories: ["thinking", "psychology", "science", "ai", "evolution"]
 ---
@@ -40,3 +39,5 @@ But is that truly **disgust**, or just advanced classification? Humans tie emoti
 For now, AI “disgust” won’t have the emotional undertones we humans do—it’d likely be about safety parameters and contamination alerts. But the very idea that we’re trying to replicate **evolution’s** solution for disease avoidance in machines says something about the power of disgust.
 
 **Go ahead and wrinkle your nose** at sour milk—or you’re appalled by an unjust act—remember that it’s the same core emotion, bridging biology, culture, and maybe (one day) even artificial intelligence. After all, disgust is a testament to how a simple survival reflex can transform into one of our most complex and far-reaching feelings.
+
+categories: ["thinking", "psychology", "science", "ai", "evolution"]

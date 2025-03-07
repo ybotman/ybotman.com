@@ -1,7 +1,7 @@
 ---
-title: "Shoulders of Measurement Giants-Big"
+title: "Shoulders of Measurement Giants : Big"
 date: "2025-01-23"
-slug: "MeasurementGiantsBig"
+slug: "measurement-giants-big"
 featuredImg: "/images/measurement.jpg"
 categories: ["what-we-know", "a-good-idea", "knowledge", "science", "astrophysics"]
 ---
