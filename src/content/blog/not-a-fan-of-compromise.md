@@ -1,6 +1,6 @@
 ---
 title: "Why I’m Not a Fan of Compromise"
-date: "2025-01-23"
+date: "2020-01-23"
 slug: "not-a-fan-of-compromise"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["thinking", "philosophy", "you-should-know", "uniquely-human"]

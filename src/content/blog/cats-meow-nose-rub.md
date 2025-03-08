@@ -3,7 +3,7 @@ title: "A Meow Is for Us, the Nose-Rub Is for Them"
 date: "2025-01-23"
 slug: "cats-meow-nose-rub"
 featuredImg: "/images/dogeyes.jpg"
-categories: ["thinking", "science", "evolution", "dogs"]
+categories: ["evolution", "dogs", "uniquely-human"]
 ---
 
 # A Meow Is for Us, the Nose-Rub Is for Them

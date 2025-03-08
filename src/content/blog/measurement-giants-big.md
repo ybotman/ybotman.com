@@ -46,3 +46,10 @@ We now use a **layered approach**—**parallax** for nearby stars, **Cepheid var
 ---
 
 From Eratosthenes’ shadow-based calculations to Hubble’s revelation that galaxies exist far beyond our own, each advance has chipped away at cosmic unknowns and redefined our sense of place. Are we now in an era of *refining* these distance measurements rather than making sweeping discoveries about scale? Perhaps so—but even refinements can open new windows on how the universe truly works.
+
+| **Related Blog Posts** | **Description** |
+|------------------------|----------------|
+| [Our Minds Do Linear. The Universe Does Exponential.](../our-minds-do-linear.md) | Why human brains struggle to grasp cosmic scales and exponential growth. |
+| [Shoulders of Measurement Giants: Cosmic](../measurement-giants-cosmic.md) | How we measure the vast distances of the universe. |
+| [Shoulders of Measurement Giants: Small](../measurement-giants-small.md) | From atoms to quarks—how we measure the very tiny. |
+| [Shoulders of Measurement Giants: Quantum](../measurement-giants-quantum.md) | Does measurement itself break down at the quantum level? |

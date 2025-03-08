@@ -6,8 +6,6 @@ categories: ["ai", "autonomous-cars", "future", "knowledge", "science", "technol
 featuredImg: "/images/futureCars.jpg"
 ---
 
-<img src="https://ybotman.com/wp-content/uploads/img_0987.jpg" class="size-full wp-image-1018" width="2040" height="1148">
-
 Fully autonomous cars that deal with all aspects of driving are called <a href="https://ybotman.com/6-levels-of-car-automation/">level 5 (L5 cars for short in the is blog).</a>
 
 The logic of basic self driving is reasonably easy to teach the car. The rules are to Follow the road, understand the lines and road Symbols, Know your directions and map, determine what objects are, match and predict object behavior to previous object patterns, avoid hard objects. Essentially one has to get from place a to b, follow the road rules, don't crash.
@@ -22,3 +20,16 @@ As a real world example of this problem: an accident where a Tesla ran into truc
 What choice will the AI make if the oassengers vs a pedestrian on an icy day.
 
 Will it understand that a deer should be hit but not a person bent down picking up a wallet? What about an the elderly driver vs a child.
+
+
+Read The 6 Levels of Car Automation to understand how we got here and why AI will have to make moral choices on the road.
+Read Can a Regular Driver Abuse a Fully Autonomous Car? to explore the unintended consequences of human behavior on AI-driven vehicles.
+
+
+| **Related Blog Posts** | **Description** |
+|------------------------|----------------|
+| [The 6 Levels of Car Automation](../6-levels-of-car-automation.md) | Understand the stages of car automation and why AI is taking control of driving decisions. |
+| [Can a Regular Driver Abuse a Fully Autonomous Car?](../can-a-regular-car-abuse-an-fully-autonomous-car.md) | Explore how human drivers might exploit the predictability of AI-driven vehicles. |
+| [The Effect of Autonomous Cars](../the-effect-of-autonomous-cars.md) | A look into how self-driving technology will reshape transportation, safety, and urban planning. |
+| [Upcoming Glories of Autonomous Driving](../upcoming-glories-of-autonomous-driving.md) | What the future of self-driving cars could look like if everything goes as planned. |
+| [Parking Lots of the Near Future](../parking-lots-of-the-near-future.md) | If cars don’t need drivers, do we even need parking lots? How automation changes city landscapes. |

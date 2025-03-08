@@ -2,7 +2,7 @@
 title: "Anti-Matter Actually Falls Down"
 date: "2025-01-23"
 slug: "anti-matter-actually-falls-down"
-categories: ["thinking", "science","you-should-know"]
+categories: ["science","you-should-know"]
 featuredImg: "/images/Universe.jpg"
 ---
 

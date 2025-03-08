@@ -3,7 +3,7 @@ title: "From Spoiled Food to AI Sensors: The Evolving Science of Disgust"
 date: "2025-01-23"
 slug: "disgust-and-ai"
 featuredImg: "/images/thinking.jpg"
-categories: ["thinking", "psychology", "science", "ai", "evolution"]
+categories: ["thinking", "psychology", "science", "ai", "evolution","disgust","i-wonder"]
 ---
 
 # From Spoiled Food to AI Sensors: The Evolving Science of Disgust

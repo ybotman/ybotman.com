@@ -3,7 +3,6 @@ title: "A Dimmer Switch, Not On/Off: The Mechanics of Tango Communication"
 date: "2025-01-23"
 slug: "tango-dimmer-switch"
 featuredImg: "/images/tango2.jpg"
-status: "draft"
 categories: ["thinking", "dance", "philosophy", "tango"]
 ---
 

@@ -3,7 +3,7 @@ title: "Have You Ever Thought About Farts?"
 date: "2019-09-18"
 slug: "have-you-every-thought-about-farts"
 featuredImg: "/images/Farts.webp"
-categories: [ "i-want-to-know", "funny", "uniquely-human"]
+categories: [ "i-want-to-know", "funny", "uniquely-human", "disgust"]
 ---
 
 # Have You Ever Thought About Farts?
