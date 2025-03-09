@@ -2,7 +2,7 @@
 title: "The last unclaimed part of earth. It could be yours."
 date: "2019-03-26"
 slug: "the-last-unclaimed-part-of-earth"
-categories: ["knowledge", "you-should-know","this-is-crazy"]
+categories: ["knowledge", ,"this-is-crazy"]
 ---
 
 <!-- wp:quote -->

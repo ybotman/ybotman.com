@@ -3,7 +3,7 @@ title: "‘This Tuesday’ vs ‘Next Wednesday’—Why the Confusion?"
 date: "2025-01-23"
 slug: "this-vs-next-day-confusion"
 status: "draft"
-categories: ["language", "i-want-to-know", "you-should-know"]
+categories: ["language", "i-want-to-know", ]
 featuredImg: "/images/Hmmm.jpg"
 ---
 

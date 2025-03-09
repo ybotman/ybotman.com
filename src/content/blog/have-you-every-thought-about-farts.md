@@ -4,7 +4,7 @@ date: "2019-09-18"
 slug: "have-you-every-thought-about-farts"
 categories: ["just-thinking", "funny"]
 featuredImg: "/images/Farts.webp"
-categories: [ "i-want-to-know", "funny", "disgust"]
+categories: ["i-want-to-know", "funny", "disgust"]
 ---
 
 # Have You Ever Thought About Farts?

@@ -8,8 +8,8 @@ import {
   FormControlLabel,
   Checkbox,
 } from "@mui/material"
-import MenuIcon from "@mui/icons-material/Menu" // <— CHANGED
-// Reusable component for filtering "categories"
+import MenuIcon from "@mui/icons-material/Menu"
+
 function FilterCategories({ allCategories, selectedCategories, onChangeCategories }) {
   const [expanded, setExpanded] = React.useState(false)
 
@@ -23,14 +23,14 @@ function FilterCategories({ allCategories, selectedCategories, onChangeCategorie
 
   return (
     <>
-      {/* Hamburger button in bottom-left of header image */}
+      {/* Hamburger button moved to top-right */}
       <IconButton
         onClick={handleExpandToggle}
         aria-label="toggle filter"
         sx={{
           position: "absolute",
-          bottom: 20,
-          left: 20,
+          top: 20,
+          right: 20,
           zIndex: 10,
           backgroundColor: "#ffffffcc",
           "&:hover": {
@@ -46,11 +46,10 @@ function FilterCategories({ allCategories, selectedCategories, onChangeCategorie
         in={expanded}
         timeout="auto"
         unmountOnExit
-        // Example styling: a semi-transparent panel top-left
         sx={{
           position: "absolute",
-          bottom: 70,
-          left: 20,
+          top: 70,
+          right: 20,
           zIndex: 10,
           backgroundColor: "white",
           p: 2,

@@ -46,7 +46,7 @@ function FilterDrawer({
         </Box>
       </IconButton>
 
-      <Drawer anchor="left" open={open} onClose={toggleDrawer}>
+      <Drawer anchor="right" open={open} onClose={toggleDrawer}>
         {/* Drawer Content: FilterMenu */}
         <Box sx={{ width: 280 }}>
           <FilterMenu
