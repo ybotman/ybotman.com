@@ -2,7 +2,7 @@
 title: "Blame, Guilt, and Shame: Are We the Only Ones?"
 date: "2019-01-23"
 slug: "blame-guilt-shame"
-categories: ["just-thinking", "psychology", "philosophy", "i-want-to-know", "uniquely-human"]
+categories: ["just-thinking", "psychology", "philosophy", "i-want-to-know", "uniquely-human","i-wonder"]
 featuredImg: "/images/thinking.jpg"
 ---
 
@@ -26,3 +26,5 @@ Regret implies **hindsight**: “If only I’d done X instead of Y.” Some anim
 We might be alone in combining **blame, guilt, and shame** into huge moral frameworks. It’s not that animals don’t have social rules, but the *depth*—the ability to reflect on others’ opinions and manipulate them—seems especially advanced in us. We use blame to shift responsibility, guilt to self-correct, and shame to maintain group harmony. And each of these can lead us into introspective loops that no dog or chimp would ever bother with.
 
 **At their best,** these emotions unite us, encourage empathy, and shape conscience. **At their worst,** they tangle us in self-criticism or petty manipulations. Recognizing **how** they work—and the robust theory of mind they require—might help us use them more wisely, or at least be gentler with ourselves when they show up uninvited.
+
+Still, **I wonder** where these emotions are mixed and where they are clear.  When did the come to be human traits, and are they the same everyhwere for humans.  

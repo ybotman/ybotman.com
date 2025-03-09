@@ -54,3 +54,6 @@ featuredImg: "/images/HappyDogs.webp"
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
+
+
+categories: ["knowledge", "evolution", "thinking", "you-should-know", "dogs"]

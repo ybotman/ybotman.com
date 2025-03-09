@@ -4,7 +4,7 @@ date: "2025-01-23"
 slug: "tango-dimmer-switch"
 featuredImg: "/images/tango2.jpg"
 status: "draft"
-categories: ["just-thinking", "dance", "philosophy", "tango"]
+categories: ["dance", "tango"]
 ---
 
 # A Dimmer Switch, Not On/Off

@@ -2,7 +2,7 @@
 title: "Your weather app Privacy Statement"
 date: "2019-08-01"
 slug: "your-weather-app-privacy-statement"
-categories: ["knowledge", "privacy", "technology"]
+categories: ["you-should-know", "privacy", "technology","this-is-crazy"]
 featuredImg: "/images/Hmmm.jpg"
 ---
 

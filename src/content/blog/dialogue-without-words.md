@@ -1,9 +1,9 @@
 ---
 title: "Dialogue Without Words"
-date: "2024-2-22"
+date: "2024-02-22"
 slug: "dialogue-without-words"
 featuredImg: "/images/tango2.jpg"
-categories: ["just-thinking", "dance", "philosophy", "tango"]
+categories: ["just-thinking", "dance", "philosophy", "tango","phrases"]
 ---
 
 # Dialogue Without Words
