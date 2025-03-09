@@ -4,7 +4,7 @@ date: "2025-01-23"
 slug: "disgust-and-ai"
 status: "draft"
 featuredImg: "/images/thinking.jpg"
-categories: ["thinking", "psychology", "science", "ai", "evolution"]
+categories: ["just-thinking", "psychology", "science", "ai", "evolution"]
 ---
 
 # From Spoiled Food to AI Sensors: The Evolving Science of Disgust

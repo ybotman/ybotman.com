@@ -2,7 +2,7 @@
 title: "All Greenhouse Gas source and what to do."
 date: "2019-08-16"
 slug: "all-greenhouse-gas-source-and-what-to-do."
-categories: ["thinking"]
+categories: ["just-thinking"]
 ---
 
 <!-- wp:image {"id":822,"width":396,"height":329} -->

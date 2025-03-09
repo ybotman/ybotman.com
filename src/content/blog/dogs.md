@@ -2,7 +2,7 @@
 title: "Dogs are amazing"
 date: "2019-11-22"
 slug: "dogs"
-categories: ["knowledge", "evolution", "thinking", "you-should-know", "dogs"]
+categories: ["knowledge", "evolution", "just-thinking", "you-should-know", "dogs"]
 featuredImg: "/images/HappyDogs.webp"
 
 ---

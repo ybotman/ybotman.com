@@ -2,7 +2,7 @@
 title: "Upcoming GLORIES of autonomous driving."
 date: "2019-11-09"
 slug: "upcoming-glories-of-autonomous-driving"
-categories: ["ai", "autonomous-cars", "future", "technology", "thinking"]
+categories: ["ai", "autonomous-cars", "future", "technology", "just-thinking"]
 featuredImg: "/images/futureCars.jpg"
 ---
 

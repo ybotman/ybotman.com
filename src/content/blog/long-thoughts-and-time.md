@@ -2,7 +2,7 @@
 title: "Long thoughts, and Loneliness"
 date: "2019-08-23"
 slug: "long-thoughts-and-time"
-categories: ["a-good-idea", "phsychology", "thinking"]
+categories: ["a-good-idea", "phsychology", "just-thinking"]
 featuredImg: "/images/ThinkLong.webp"
 ---
 

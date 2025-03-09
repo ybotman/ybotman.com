@@ -2,7 +2,7 @@
 title: "Confusing things about English."
 date: "2019-08-06"
 slug: "confusing-things-about-english"
-categories: ["language", "phsychology", "thinking"]
+categories: ["language", "phsychology", "just-thinking"]
 featuredImg: "/images/types-of-humour-featured.png"
 ---
 

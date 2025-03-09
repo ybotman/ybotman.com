@@ -2,7 +2,7 @@
 title: "Philosophy options of the Universe - 4 choices."
 date: "2019-08-12"
 slug: "philosophy-options-of-the-universe-4-choices"
-categories: ["astrophysics", "i-want-to-know", "knowledge", "philosophy", "thinking"]
+categories: ["astrophysics", "i-want-to-know", "knowledge", "philosophy", "just-thinking"]
 ---
 
 <!-- wp:paragraph {"dropCap":true} -->

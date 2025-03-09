@@ -2,7 +2,7 @@
 title: "The Speed of Light Is SOOO Slow"
 date: "2025-01-23"
 slug: "the-speed-of-light-is-so-slow"
-categories: ["thinking", "science"]
+categories: ["just-thinking", "science"]
 featuredImg: "/images/Speed.jpg"
 ---
 

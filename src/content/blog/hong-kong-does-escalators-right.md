@@ -2,7 +2,7 @@
 title: "Hong Kong Does Escalators Right"
 date: "2025-01-23"
 slug: "hong-kong-does-escalators-right"
-categories: ["thinking", "travel", "culture"]
+categories: ["just-thinking", "travel", "culture"]
 featuredImg: "/images/HongKong.jpg"
 ---
 

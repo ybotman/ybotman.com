@@ -2,7 +2,7 @@
 title: "My Blank Blog Titles"
 date: "2025-01-23"
 slug: "new-blog-titles"
-categories: ["thinking", "philosophy", "phsychology"]
+categories: ["just-thinking", "philosophy", "phsychology"]
 featuredImg: "/images/button.jpg"
 ---
 

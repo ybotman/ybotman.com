@@ -2,7 +2,7 @@
 title: "The Speed of Light Is Not About Speed (or Light)"
 date: "2025-01-23"
 slug: "speed-of-light-not-about-speed-or-light"
-categories: ["thinking", "science"]
+categories: ["just-thinking", "science"]
 featuredImg: "/iamges/Speed.jpg"
 ---
 

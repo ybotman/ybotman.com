@@ -2,7 +2,7 @@
 title: "Things We Don’t Know: The Matter-Antimatter Mystery"
 date: "2025-01-23"
 slug: "things-we-dont-know-matter-antimatter"
-categories: ["thinking", "science"]
+categories: ["just-thinking", "science"]
 featuredImg: "/images/Quantum.jpg"
 ---
 

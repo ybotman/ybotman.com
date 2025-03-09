@@ -3,7 +3,7 @@ title: "Tails Are for Dogs, Eyebrows Are for Humans"
 date: "2025-01-23"
 slug: "tails-are-for-dogs-eyebrows-are-for-humans"
 featuredImg: "/images/dogeyes.jpg"
-categories: ["thinking", "science", "evolution", "dogs", "uniquely-human"]
+categories: ["just-thinking", "science", "evolution", "dogs", "uniquely-human"]
 ---
 
 # Tails Are for Dogs, Eyebrows Are for Humans

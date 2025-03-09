@@ -2,7 +2,7 @@
 title: "Perfect Pitch, Absolute Pitch, Relative Pitches, and more?"
 date: "2019-07-29"
 slug: "perfect-pitch-vs-relative-pitch"
-categories: ["language", "music", "singing", "thinking", "voice"]
+categories: ["language", "music", "singing", "just-thinking", "voice"]
 ---
 
 <!-- wp:image {"id":151} -->

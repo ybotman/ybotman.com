@@ -2,7 +2,7 @@
 title: "Have you every thought about farts"
 date: "2019-09-18"
 slug: "have-you-every-thought-about-farts"
-categories: ["thinking", "funny"]
+categories: ["just-thinking", "funny"]
 featuredImg: "/images/Farts.webp"
 Tags: ["AIGen"]
 

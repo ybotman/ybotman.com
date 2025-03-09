@@ -2,7 +2,7 @@
 title: "Why Can’t I Throw Away Books? A Literary Hoarder’s Lament"
 date: "2024-09-18"
 slug: "why-cant-i-throw-away-books-a-literary-hoarders-lament"
-categories: ["thinking"]
+categories: ["just-thinking"]
 Tags: ["AIGen"]
 featuredImg: "/images/BookHorder.jpg"
 ---

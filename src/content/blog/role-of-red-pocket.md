@@ -2,7 +2,7 @@
 title: "The Role of Red Pockets: Amazing and Confusing"
 date: "2025-01-23"
 slug: "role-of-red-pocket"
-categories: ["thinking", "culture"]
+categories: ["just-thinking", "culture"]
 featuredImg: "/images/HongKong.jpg"
 ---
 

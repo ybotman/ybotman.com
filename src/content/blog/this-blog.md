@@ -2,7 +2,7 @@
 title: "My hopes for this Blog."
 date: "2019-02-19"
 slug: "this-blog"
-categories: ["thinking", "philosophy", "phsychology"]
+categories: ["just-thinking", "philosophy", "phsychology"]
 featuredImg: "/images/thinking.jpg"
 ---
 

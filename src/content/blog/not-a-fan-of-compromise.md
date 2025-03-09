@@ -3,7 +3,7 @@ title: "Why I’m Not a Fan of Compromise"
 date: "2025-01-23"
 slug: "not-a-fan-of-compromise"
 featuredImg: "/images/ThinkLong.webp"
-categories: ["thinking", "philosophy", "you-should-know", "uniquely-human"]
+categories: ["just-thinking", "philosophy", "you-should-know", "uniquely-human"]
 ---
 
 # Why I’m Not a Fan of Compromise

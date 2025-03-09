@@ -2,7 +2,7 @@
 title: "Innovation has become Stagnant. We need much much more."
 date: "2019-10-10"
 slug: "stagnant-innovation"
-categories: ["a-good-idea", "future", "thinking", "you-should-know"]
+categories: ["a-good-idea", "future", "just-thinking", "you-should-know"]
 tags: ["observation"]
 ---
 

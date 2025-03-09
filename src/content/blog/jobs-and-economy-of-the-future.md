@@ -2,7 +2,7 @@
 title: "Jobs and Economy of the future"
 date: "2019-09-06"
 slug: "jobs-and-economy-of-the-future"
-categories: ["business", "future", "knowledge", "technology", "thinking"]
+categories: ["business", "future", "knowledge", "technology", "just-thinking"]
 ---
 
 <!-- wp:paragraph -->

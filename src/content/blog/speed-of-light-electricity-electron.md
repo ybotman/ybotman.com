@@ -2,7 +2,7 @@
 title: "The Speed of Light, Electricity, and the Electron"
 date: "2025-01-23"
 slug: "speed-of-light-electricity-electron"
-categories: ["thinking", "science"]
+categories: ["just-thinking", "science"]
 featuredImg: "/images/Speed.jpg"
 ---
 

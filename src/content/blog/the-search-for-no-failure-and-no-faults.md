@@ -3,7 +3,7 @@ title: "The Search for No-Failure and No-Faults"
 date: "2025-01-23"
 slug: "the-search-for-no-failure-and-no-faults"
 featuredImg: "/images/tango2.jpg"
-categories: ["thinking", "dance", "philosophy", "tango", "uniquely-human"]
+categories: ["just-thinking", "dance", "philosophy", "tango", "uniquely-human"]
 ---
 
 # The Search for No-Failure and No-Faults

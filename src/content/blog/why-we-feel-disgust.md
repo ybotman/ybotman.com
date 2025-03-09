@@ -3,7 +3,7 @@ title: "Why We Feel Disgust: From Rotten Food to Moral Outrage"
 date: "2025-01-23"
 slug: "why-we-feel-disgust"
 featuredImg: "images/Hmmm.jpg"
-categories: ["thinking", "psychology", "science", "uniquely-human"]
+categories: ["just-thinking", "psychology", "science", "uniquely-human"]
 ---
 
 # Why We Feel Disgust: From Rotten Food to Moral Outrage

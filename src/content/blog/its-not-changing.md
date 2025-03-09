@@ -2,7 +2,7 @@
 title: "Everything is changing: except these things"
 date: "2019-08-30"
 slug: "its-not-changing"
-categories: ["thinking"]
+categories: ["just-thinking"]
 ---
 
 <!-- wp:paragraph -->

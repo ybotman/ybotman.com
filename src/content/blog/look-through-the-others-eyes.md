@@ -2,7 +2,7 @@
 title: "Look through the others eyes"
 date: "2019-07-27"
 slug: "look-through-the-others-eyes"
-categories: ["phsychology", "thinking"]
+categories: ["phsychology", "just-thinking"]
 featuredImg: "/images/button.jpg"
 ---
 
@@ -11,7 +11,7 @@ featuredImg: "/images/button.jpg"
 title: "Look Through the Other’s Eyes"
 date: "2025-01-23"
 slug: "look-through-the-others-eyes"
-categories: ["thinking", "philosophy", "phsychology"]
+categories: ["just-thinking", "philosophy", "phsychology"]
 featuredImg: "/images/thoughts.jpg"
 ---
 

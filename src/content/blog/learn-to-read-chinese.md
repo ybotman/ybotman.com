@@ -2,7 +2,7 @@
 title: "Learn to Read Chinese"
 date: "2019-08-06"
 slug: "learn-to-read-chinese"
-categories: ["a-good-idea", "language", "thinking"]
+categories: ["a-good-idea", "language", "just-thinking"]
 ---
 
 <!-- wp:paragraph -->

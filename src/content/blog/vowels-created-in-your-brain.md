@@ -3,7 +3,7 @@ title: "Vowels : Created in your Brain"
 date: "2019-08-08"
 slug: "vowels-created-in-your-brain"
 status: "draft"
-categories: ["created-in-your-brain", "language", "thinking", "voice"]
+categories: ["created-in-your-brain", "language", "voice"]
 ---
 
 <!-- wp:paragraph -->

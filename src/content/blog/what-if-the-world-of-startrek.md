@@ -2,7 +2,7 @@
 title: "What if the world of StarTrek actually can true?"
 date: "2019-07-27"
 slug: "what-if-the-world-of-startrek"
-categories: ["future", "knowledge", "science", "technology", "thinking", "economy"]
+categories: ["future", "knowledge", "science", "technology", "just-thinking", "economy"]
 ---
 
 <!-- wp:quote -->

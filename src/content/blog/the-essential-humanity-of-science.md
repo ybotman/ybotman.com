@@ -2,7 +2,7 @@
 title: "The Essential Humanity of Science"
 date: "2025-01-23"
 slug: "the-essential-humanity-of-science"
-categories: ["thinking","evolution", "philosophy", "uniquely-human"]
+categories: ["just-thinking","evolution", "philosophy", "uniquely-human"]
 featuredImg: "/images/button.jpg"
 ---
 

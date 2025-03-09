@@ -2,7 +2,7 @@
 title: "Blame, Guilt, and Shame: Are We the Only Ones?"
 date: "2019-01-23"
 slug: "blame-guilt-shame"
-categories: ["thinking", "psychology", "philosophy", "i-want-to-know", "uniquely-human"]
+categories: ["just-thinking", "psychology", "philosophy", "i-want-to-know", "uniquely-human"]
 featuredImg: "/images/thinking.jpg"
 ---
 
