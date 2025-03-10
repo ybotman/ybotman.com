@@ -2,7 +2,7 @@
 title: "That time: Kennedy tried to stop the moon shot."
 date: "2019-08-11"
 slug: "that-time-kennedy-tried-to-stop-the-moon-shot"
-categories: ["a-bad-idea", "astrophysics", "knowledge", "you-should-know","this-is-crazy"]
+categories: ["a-bad-idea", "astrophysics", "we-know", "you-should-know","this-is-crazy"]
 featuredImg: "/images/doh.jpg"
 ---
 

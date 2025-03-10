@@ -4,7 +4,7 @@ date: "2025-01-23"
 slug: "measurement-giants-cosmic"
 featuredImg: "/images/measurement.jpg"
 status: "draft"
-categories: ["what-we-know", "a-good-idea", "knowledge", "science", "astrophysics"]
+categories: ["what-we-know", "a-good-idea", "we-know", "science", "astrophysics"]
 ---
 
 # Shoulders of Measurement Giants: Cosmic

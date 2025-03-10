@@ -2,7 +2,7 @@
 title: "Phatic Phrases: How Are You?"
 date: "2019-08-06"
 slug: "phatic-phrases-how-are-you"
-categories: ["knowledge", "language"]
+categories: ["we-know", "language"]
 featuredImg: "/images/button.jpg"
 ---
 

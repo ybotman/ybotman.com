@@ -2,7 +2,7 @@
 title: "Star Trek vs Star Wars"
 date: "2019-07-27"
 slug: "startrek-vs-starwars"
-categories: ["astrophysics", "future", "knowledge", "physics", "science", "technology", "just-thinking"]
+categories: ["astrophysics", "future", "physics", "science", "technology", "just-thinking"]
 ---
 
 <!-- wp:image {"align":"center","width":375,"height":243} -->

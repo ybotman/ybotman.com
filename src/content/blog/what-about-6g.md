@@ -2,7 +2,7 @@
 title: "4G dead, 5G is here. What about 6G? 7G?"
 date: "2019-07-29"
 slug: "what-about-6g"
-categories: ["future", "i-want-to-know", "knowledge", "science", "technology"]
+categories: ["future", "i-want-to-know", "we-know", "science", "technology"]
 featuredImg: "/images/4G5G6G7G8G.png"
 ---
 

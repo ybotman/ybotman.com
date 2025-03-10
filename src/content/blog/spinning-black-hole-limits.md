@@ -2,7 +2,7 @@
 title: "Spinning Black Hole Speed Limits?"
 date: "2019-07-26"
 slug: "spinning-black-hole-limits"
-categories: ["astrophysics", "i-want-to-know", "knowledge", "physics", "science", "just-thinking"]
+categories: ["astrophysics", "i-want-to-know", "we-know", "physics", "science", "just-thinking"]
 featuredImg: "/images/spinning-black-hole-speed-limits-featured.png"
 ---
 

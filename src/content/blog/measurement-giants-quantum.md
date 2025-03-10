@@ -3,7 +3,7 @@ title: "Shoulders of Measurement Giants : quantum"
 date: "2025-01-23"
 slug: "measurement-giants-quantum"
 featuredImg: "/images/measurement.jpg"
-categories: ["what-we-know", "a-good-idea", "knowledge", "science", "quantum"]
+categories: ["what-we-know", "a-good-idea", "we-know", "science", "quantum"]
 ---
 
 # Down to the Absurdly Small: From the Ultraviolet Catastrophe to String Theory
