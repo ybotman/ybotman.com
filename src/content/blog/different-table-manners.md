@@ -2,7 +2,7 @@
 title: "Different Table Manners Around the World"
 date: "2025-01-23"
 slug: "different-table-manners"
-categories: ["culture", "food","china"]
+categories: ["culture", "food", "china", "travel"]
 featuredImg: "/images/Food.jpg"
 ---
 
@@ -27,4 +27,4 @@ In the United States, there’s an **old-fashioned rule** that says keeping your
 **Ultimately, table manners everywhere** revolve around a few core ideas: respect for the food, consideration for your companions, and a shared sense of enjoyment. Next time you travel or join a multicultural gathering, keep an open mind—and maybe you’ll discover a new way to savor your meal.
 
 
-categories: ["culture", "food","china"]
+categories: ["culture", "food", "china", "travel"]

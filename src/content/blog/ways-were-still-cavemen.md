@@ -3,7 +3,7 @@ title: "Ways We’re Still Just Cavemen"
 date: "2025-01-23"
 slug: "ways-were-still-cavemen"
 featuredImg: "/images/ThinkLong.jpg"
-categories: ["thinking", "psychology", "philosophy", "uniquely-human"]
+categories: ["just-thinking", "psychology", "philosophy", "uniquely-human"]
 ---
 
 # Ways We’re Still Just Cavemen

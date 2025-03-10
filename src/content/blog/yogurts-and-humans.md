@@ -2,7 +2,7 @@
 title: "You take the perfect desert ... "
 date: "2019-08-08"
 slug: "yogurts-and-humans"
-categories: ["funny","phsychology", "just-thinking"]
+categories: ["funny", "just-thinking"]
 featuredImg: "/images/humans-ice-cream-vs-yoguart-featured.png"
 ---
 

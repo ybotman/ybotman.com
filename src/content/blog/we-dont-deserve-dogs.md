@@ -2,7 +2,7 @@
 title: "We Don’t Deserve Dogs"
 date: "2024-09-18"
 slug: "we-dont-deserve-dogs"
-categories: ["philosophy", "just-thinking","dogs"]
+categories: ["philosophy", "just-thinking", "dogs"]
 featuredImg: "/images/Joyful_Dogs_Montage.gif"
 ---
 

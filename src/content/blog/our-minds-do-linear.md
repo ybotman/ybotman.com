@@ -3,7 +3,7 @@ title: "Our minds do linear. The universe does exponential."
 date: "2019-08-11"
 slug: "our-minds-do-linear"
 featuredImg: "/images/universe.jpg"
-categories: ["we-know", "you-should-know", "evolution","phrases"]
+categories: ["we-know", "you-should-know", "evolution", "phrases"]
 ---
 
 Yup. 

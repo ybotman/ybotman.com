@@ -3,7 +3,7 @@ title: "3NF is Dead - Long Live non-normalized?"
 date: "2020-03-03"
 slug: "3NF"
 featuredImg: "/images/button.jpg"
-categories: ["thinking", "technology", "data-architecture"]
+categories: ["just-thinking", "technology", "data-architecture"]
 ---
 # 3NF and the world accoring to COD 
 E.F. Codd (1923-2003), the grand architect of relational databases, designed Third Normal Form (3NF) as a way to keep data clean, structured, and free from redundancy. It was the gold standard for database normalization in an era when storage was expensive, queries were transactional, and CPUs weren’t handling billions of reads per second.

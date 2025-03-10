@@ -2,7 +2,7 @@
 title: "Types of \"-isms\". Or, what is the nature of everything?"
 date: "2019-03-27"
 slug: "types-of-isms-or-what-is-the-nature-of-everything"
-categories: ["language", "phsychology"]
+categories: ["language"]
 featuredImg: "/images/types-of-isms-or-what-is-the-nature-of-everything-featured.jpeg"
 ---
 ---

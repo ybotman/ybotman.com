@@ -56,4 +56,4 @@ featuredImg: "/images/HappyDogs.webp"
 <!-- /wp:paragraph -->
 
 
-categories: ["we-know", "evolution", "thinking", "dogs"]
+categories: ["we-know", "evolution", "just-thinking", "dogs"]

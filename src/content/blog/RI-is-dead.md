@@ -3,7 +3,7 @@ title: "Where is Data Integrety?"
 date: "2022-11-18"
 slug: "RI-is-dead"
 featuredImg: "/images/button.jpg"
-categories: ["thinking", "technology", "data-architecture"]
+categories: ["just-thinking", "technology", "data-architecture"]
 ---
 
 ### **The Evolution of Data Integrity: From Databases to ETL to Abstraction Layers**  

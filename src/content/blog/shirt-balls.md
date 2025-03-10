@@ -3,7 +3,7 @@ title: "Shirt Balls"
 date: "2025-01-23"
 slug: "shirt-balls"
 featuredImg: "/images/smell.jpg"
-categories: ["thinking", "funny", "uniquely-human","phrases", "the-good-place"]
+categories: ["just-thinking", "funny", "uniquely-human", "phrases", "the-good-place"]
 ---
 
 # Holy Forking Shirt Balls— This the Bad Place.

@@ -2,7 +2,7 @@
 title: "You have to be more than 1/2"
 date: "2019-08-30"
 slug: "you-have-to-be-more-than-1-2"
-categories: ["we-know", "phsychology"]
+categories: ["we-know"]
 featuredImg: "/images/MoreThanHalf.webp"
 ---
 

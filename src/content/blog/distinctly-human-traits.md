@@ -3,7 +3,7 @@ title: "Distinctly Human Traits: Beyond the Animal Continuum"
 date: "2025-01-23"
 slug: "distinctly-human-traits"
 featuredImg: "/images/ThinkLong.jpg"
-categories: ["thinking", "philosophy", "what-we-know", "uniquely-human"]
+categories: ["just-thinking", "philosophy", "what-we-know", "uniquely-human"]
 ---
 
 # Distinctly Human Traits: Beyond the Animal Continuum

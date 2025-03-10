@@ -4,7 +4,7 @@ date: "2025-03-08"
 slug: "gag-reflex-cats-dogs"
 featuredImg: "/images/smell.jpg"
 status: "draft"
-categories: ["i-want-to-know", "funny", "uniquely-human", "dogs", "thinking", "disgust", "i-wonder"]
+categories: ["i-want-to-know", "funny", "uniquely-human", "dogs", "just-thinking", "disgust", "i-wonder"]
 ---
 
 # Cats, Dogs, and the Gag Reflex

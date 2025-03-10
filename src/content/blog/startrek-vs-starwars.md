@@ -5,7 +5,7 @@ slug: "startrek-vs-starwars"
 categories: ["astrophysics", "future", "physics", "science", "technology", "just-thinking"]
 ---
 
-<!-- wp:image {"align":"center","width":375,"height":243} -->
+<!-- wp:image {"align":"center", "width":375,"height":243} -->
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://www.cheatography.com/uploads/essaypro_1519840520_compare-vs-contrast-copy@2x@2x.png" alt="" width="375" height="243"/><figcaption>Yes another Star Wars vs Star Trek opinion</figcaption></figure></div>
 <!-- /wp:image -->
 

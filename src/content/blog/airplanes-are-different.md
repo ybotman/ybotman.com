@@ -3,7 +3,7 @@ title: "Airplanes Are Different"
 date: "2025-01-23"
 slug: "airplanes-are-different"
 status: "draft"
-categories: ["just-thinking", "travel", "technology","you-should-know"]
+categories: ["just-thinking", "travel", "technology", "you-should-know"]
 featuredImg: "thinking.jpg"
 ---
 

@@ -11,7 +11,7 @@ featuredImg: "images/Throwup.jpg"
 <blockquote class="wp-block-quote"><p>"At least after death you're not nauseous."&nbsp;<em>Woody Allen in Sleeper</em></p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:image {"align":"right","width":316,"height":185} -->
+<!-- wp:image {"align":"right", "width":316,"height":185} -->
 <div class="wp-block-image"><figure class="alignright is-resized"><img src="http://www.diyhomeremedies.org/wp-content/uploads/2014/10/How-To-Make-Yourself-Throw-Up-Easily-n-Quickly.png?87107f" alt="" width="316" height="185"/><figcaption>How does it know about salmonella?</figcaption></figure></div>
 <!-- /wp:image -->
 

@@ -2,7 +2,7 @@
 title: "Long thoughts, and Time"
 date: "2019-08-23"
 slug: "interesting-phrases"
-categories: ["a-good-idea", "phsychology","phrases"]
+categories: ["a-good-idea", "phrases"]
 featuredImg: "/images/ThinkLong.webp"
 ---
 

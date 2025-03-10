@@ -2,7 +2,7 @@
 title: "Who’s Really in Control: Us or the Plants?"
 date: "2025-01-23"
 slug: "whos-in-control-us-or-plants"
-categories: ["just-thinking", "philosophy", "nature", "evolution"]
+categories: ["just-thinking", "nature", "evolution"]
 featuredImg: "/images/thinking.jpg"
 ---
 

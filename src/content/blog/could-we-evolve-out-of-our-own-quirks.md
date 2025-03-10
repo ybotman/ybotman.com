@@ -3,7 +3,7 @@ title: "Could We Evolve Out of Our Own Quirks?"
 date: "2025-01-23"
 slug: "could-we-evolve-out-of-our-own-quirks"
 featuredImg: "/images/Hmmm.jpg"
-categories: ["thinking", "psychology", "philosophy", "uniquely-human"]
+categories: ["just-thinking", "psychology", "philosophy", "uniquely-human"]
 ---
 
 # Could We Evolve Out of Our Own Quirks?

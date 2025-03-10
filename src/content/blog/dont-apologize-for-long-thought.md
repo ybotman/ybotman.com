@@ -14,4 +14,4 @@ Don’t apologize for thinking deeply or for taking time to process. True unders
 
 If mind wanders into deeper waters, let it. There’s wisdom in the journey.
 
-categories: ["thinking", "philosophy", "phsychology"]
+categories: ["just-thinking", "philosophy", "phsychology"]

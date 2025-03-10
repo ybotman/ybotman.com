@@ -3,7 +3,7 @@ title: "my data modeling journey"
 date: "2023-10-13"
 slug: "data-modeling-journey"
 featuredImg: "/images/button.jpg"
-categories: ["thinking", "technology", "data-architecture"]
+categories: ["just-thinking", "technology", "data-architecture"]
 ---
 ### **The Evolution of Data Modeling: From Codd to NoSQL and Beyond**  
 

@@ -13,7 +13,7 @@ categories: ["language", "music", "singing", "just-thinking", "voice"]
 <p>You have all seen it : Some with the ability to sing a perfect A-flat. Or someone who can say that a key of a orchestra is d$ minor.Or a video of someone smashing a bunch of keys on the piano, and with a participate in turn blindly and rapidly naming each of the notes in perfect order.  Perfect pitch has been called the<em> <a href="https://www.thefreedictionary.com/innate">innate</a>-ability </em>to recognize a pitch as clearly you as a color. Something that is different at birth in that Brain, than with yours<strong>.  Let me be clear : There is NOBODY that is born with perfect pitch </strong>or absolute pitch. What i mean, is the born ability to label the pitch on any instrument instantly - like you and I would recognize BLUE as BLUE. Shocking , but this is not a real thing. <strong>You have been lied to.</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":509,"align":"right","width":410,"height":230} -->
+<!-- wp:image {"id":509,"align":"right", "width":410,"height":230} -->
 <div class="wp-block-image"><figure class="alignright is-resized"><img src="https://ybotman.com/wp-content/uploads/image-8.png" alt="" class="wp-image-509" width="410" height="230"/><figcaption>What exact point is the REAL blue?</figcaption></figure></div>
 <!-- /wp:image -->
 
@@ -21,7 +21,7 @@ categories: ["language", "music", "singing", "just-thinking", "voice"]
 <p>Let me explain.  You did not know "Blue" until you were taught "Blue" in kindergarten, even though you could aways been about to see ALL colors. You could aways compare colors to be different we did not name any color until taught. Indeed, the definition of a color is a colloquial learned thing.  Seeing a defined color as a color (Which blue is the real blue) has dramatically changed over the years and differs by culture.  Also, how many named colors <em>there are</em>,  differ across the world.   Two things are important: <strong>1) There is no scientific basis for a blue,</strong> until we defined it to be so. These categorization may have came from painters who went out to the world to reproduce what they saw by using material from the earth itself. All these color categorizations are taught and learned, written about and read about, refined can changed over the years<strong>. 2) Some have the ability to recall and compare very subtle different types of blues</strong>, by memory alone. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":513,"align":"left","width":399,"height":244} -->
+<!-- wp:image {"id":513,"align":"left", "width":399,"height":244} -->
 <div class="wp-block-image"><figure class="alignleft is-resized"><img src="https://ybotman.com/wp-content/uploads/image-9.png" alt="" class="wp-image-513" width="399" height="244"/><figcaption>Which frequency is the Real A?</figcaption></figure></div>
 <!-- /wp:image -->
 

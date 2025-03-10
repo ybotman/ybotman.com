@@ -13,7 +13,7 @@ categories: ["body", "dance", "tango"]
 <p class="has-medium-font-size">Well this is a tough question : Is like the question  "How much water makes a lake?" </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"right","width":174,"height":194} -->
+<!-- wp:image {"align":"right", "width":174,"height":194} -->
 <div class="wp-block-image"><figure class="alignright is-resized"><img src="http://hubpreview.6qube.com/users/u156/156431/gallery/gallery-7.jpg" alt="" width="174" height="194"/></figure></div>
 <!-- /wp:image -->
 

@@ -6,7 +6,7 @@ categories: ["a-good-idea", "we-know", "privacy", "technology", "you-should-know
 featuredImg : "/images/privacy.png"
 ---
 
-<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<!-- wp:paragraph {"align":"center", "fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">In order of importance. Do the first ones first, then worry about the bottom ones.</p>
 <!-- /wp:paragraph -->
 
@@ -22,7 +22,7 @@ featuredImg : "/images/privacy.png"
 <p style="background-color:#d8ffd2" class="has-background"><strong>Don't click on email links. </strong>This is more important the even an active virus checker.  Know who you get email from, and don't click on 'interesting links', or downloading of files. A large majority of key-loggers, malware, etc come from your email. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"right","id":763,"width":157,"height":117} -->
+<!-- wp:image {"align":"right", "id":763,"width":157,"height":117} -->
 <div class="wp-block-image"><figure class="alignright is-resized"><img src="https://ybotman.com/wp-content/uploads/image-39-1024x768.png" alt="" class="wp-image-763" width="157" height="117"/></figure></div>
 <!-- /wp:image -->
 
@@ -46,7 +46,7 @@ featuredImg : "/images/privacy.png"
 <p style="background-color:#ffe0e1" class="has-background"><strong>Do a google security check</strong>. Ironically Google will help you do this checkup, while at the same time that they be enable the worst of uses. But they also give us good solid tools to protect us for others. So, do the health check and clean up the loose ends. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"right","id":760,"width":71,"height":71} -->
+<!-- wp:image {"align":"right", "id":760,"width":71,"height":71} -->
 <div class="wp-block-image"><figure class="alignright is-resized"><img src="https://ybotman.com/wp-content/uploads/image-38.png" alt="" class="wp-image-760" width="71" height="71"/><figcaption>Friend?</figcaption></figure></div>
 <!-- /wp:image -->
 
@@ -54,7 +54,7 @@ featuredImg : "/images/privacy.png"
 <p style="background-color:#78ffff" class="has-background"><strong>Don't trust Facebook.</strong> That does not mean don't use them, but remember that they are not your friend.<strong> You <em>are </em>the product.</strong> You and information are being sold. Don't trust them.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"right","id":759,"width":132,"height":81} -->
+<!-- wp:image {"align":"right", "id":759,"width":132,"height":81} -->
 <div class="wp-block-image"><figure class="alignright is-resized"><img src="https://ybotman.com/wp-content/uploads/Screenshot-2019-08-14-13.09.37.png" alt="" class="wp-image-759" width="132" height="81"/></figure></div>
 <!-- /wp:image -->
 

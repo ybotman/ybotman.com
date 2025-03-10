@@ -2,7 +2,7 @@
 title: "Live Life as Roundabouts and not Stoplights."
 date: "2019-07-29"
 slug: "life-as-a-rotary-and-not-stoplight"
-categories: ["we-know", "phsychology", "just-thinking"]
+categories: ["we-know", "just-thinking"]
 
 ---
 
