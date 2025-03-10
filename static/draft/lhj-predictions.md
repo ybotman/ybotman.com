@@ -1,6 +1,6 @@
 ---
 title: "Futurist: Ladies Home Journal"
-date: "2025-01-23"
+date: "2019-07-29"
 slug: "lhj-predictions"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["futurism"]

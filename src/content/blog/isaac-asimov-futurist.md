@@ -1,6 +1,6 @@
 ---
 title: "Futurist: Isaac Asimov"
-date: "2022-05-13"
+date: "2019-06-02"
 slug: "isaac-asimov-futurist"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["futurism"]

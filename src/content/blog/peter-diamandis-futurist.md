@@ -1,6 +1,6 @@
 ---
 title: "Futurist: Peter Diamandis"
-date: "2020-08-08"
+date: "2025-01-23"
 slug: "peter-diamandis-futurist"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["futurism"]
