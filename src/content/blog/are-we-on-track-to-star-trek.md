@@ -2,7 +2,7 @@
 title: "Are we on track to Star Trek?"
 date: "2019-11-09"
 slug: "are-we-on-track-to-star-trek"
-categories: ["future", "i-want-to-know", "just-thinking"]
+categories: ["futurism", "i-want-to-know", "just-thinking"]
 featuredImg: "/images/Speed.jpg"
 ---
 

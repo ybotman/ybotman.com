@@ -2,7 +2,7 @@
 title: "Autonomous cars: the AI will make horrible choices."
 date: "2019-11-16"
 slug: "autonomous-cars-the-ai-will-make-horrible-choices"
-categories: ["ai", "autonomous-cars", "future", "science", "technology", "just-thinking"]
+categories: ["ai", "autonomous-cars", "futurism", "science", "technology", "just-thinking"]
 featuredImg: "/images/futureCars.jpg"
 ---
 
