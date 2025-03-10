@@ -3,7 +3,7 @@ title: "Shirt Balls"
 date: "2025-01-23"
 slug: "shirt-balls"
 featuredImg: "/images/smell.jpg"
-categories: ["just-thinking", "funny", "uniquely-human", "phrases", "the-good-place"]
+categories: ["just-thinking", "funny", "uniquely-human", "quotes", "the-good-place"]
 ---
 
 # Holy Forking Shirt Balls— This the Bad Place.
@@ -13,7 +13,7 @@ Coffee spills, traffic, weather, political termoil and unrest, world disorder, a
 
 Its just a giant frozen yogurt machine.
 
-(Refernces to the good place)
+(Refernces to the 2020's TV's  The Good Place)
 
 
 

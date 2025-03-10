@@ -1,9 +1,9 @@
 ---
 title: "Each Others Eyes"
-date: "2025-01-23"
+date: "2020-02-19"
 slug: "others-eyes"
 featuredImg: "/images/ThinkLong.jpg"
-categories: ["philosophy", "uniquely-human", "phrases"]
+categories: ["philosophy", "uniquely-human", "phsychology", "just-thinking", "ybot-isms"]
 ---
 
 # Each Other’s Eyes
@@ -17,6 +17,3 @@ Let us not be good at explaining your own view, but first understanding thier vi
 
 
 *I think it can change everything.*
-
-
-PS - you know whos good at this first part? Dogs. Masters at -what do YOU want"
