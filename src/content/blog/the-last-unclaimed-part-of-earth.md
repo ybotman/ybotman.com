@@ -1,54 +1,48 @@
 ---
-title: "The last unclaimed part of earth. It could be yours."
+title: "The Last Unclaimed Part of Earth—It Could Be Yours"
 date: "2019-03-26"
 slug: "the-last-unclaimed-part-of-earth"
-categories: ["we-know", "this-is-crazy"]
+featuredImg: "/images/button.jpg"
+categories: ["this-is-crazy", "travel"]
 ---
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Buy land, they're not making it anymore.</p><cite>Mark Twain</cite></blockquote>
-<!-- /wp:quote -->
+> “Buy land, they're not making it anymore.”  
+> — *Mark Twain*
 
-<!-- wp:paragraph {"customBackgroundColor":"#d1f5b1"} -->
-<p style="background-color:#d1f5b1" class="has-background"><strong>Every inch </strong>of the <strong>world belongs</strong> to a some <strong>country</strong>, sometimes there is a dispute and 2 or more may claim ownership.  But <em>nowhere </em>is there NO owner  . . . right?</p>
-<!-- /wp:paragraph -->
+**Every inch** of the world belongs to *some* country—sometimes disputed by two or more nations. But there’s nowhere unclaimed . . . right?
 
-<!-- wp:paragraph {"dropCap":true,"customBackgroundColor":"#ade6ff"} -->
-<p style="background-color:#ade6ff" class="has-background has-drop-cap"><strong>Wrong.  </strong>There is a 795 sq mi /  2,060 sq km that is open for claim. You can move there and in theory, claim it and run it as its king. But you are on your own<strong>.</strong></p>
-<!-- /wp:paragraph -->
+**Wrong.** There’s a 795-square-mile (2,060-square-kilometer) patch of land that belongs to no one: **Bir Tawil**. You could, in theory, move there, claim it, and name yourself ruler—assuming you can survive in its harsh desert climate.
 
-<!-- wp:image {"id":556,"align":"right", "width":272,"height":408} -->
-<div class="wp-block-image"><figure class="alignright is-resized"><img src="https://i0.wp.com/ybotman.com/wp-content/uploads/image-22.png?fit=683%2C1024&amp;ssl=1" alt="" class="wp-image-556" width="272" height="408"/><figcaption>Egypt Yellow, Egypt Blue, Green Dual, white - NOT-CLAIMED</figcaption></figure></div>
-<!-- /wp:image -->
+---
 
-<!-- wp:paragraph -->
-<p> Bir Tawīl is an area of the earth near lower Egypt (according to Sudan) or upper Sudan,( according to Egypt).   This discrepancy comes from a disagreement of the straight political boundary between Egypt and Sudan established in 1899, and the irregular administrative boundary established in 1902. Egypt (in yellow) asserts the political boundary , and Sudan (in blue) asserts the administrative boundary, with the result that the Hala'ib Triangle (in green) is claimed by both and Bir Tawil (in white) by neither.</p>
-<!-- /wp:paragraph -->
+## Why No One Owns Bir Tawil
+Bir Tawil lies near lower Egypt (per Sudan’s view) or upper Sudan (per Egypt’s view). The confusion goes back to two different boundaries:
+1. A **straight political boundary** (1899).
+2. An **irregular administrative boundary** (1902).
 
-<!-- wp:image {"id":555,"align":"left", "width":504,"height":228} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><img src="https://i1.wp.com/ybotman.com/wp-content/uploads/image-21.png?fit=1024%2C463&amp;ssl=1" alt="" class="wp-image-555" width="504" height="228"/><figcaption>The bounders are in read, but you can name it anything you want.</figcaption></figure></div>
-<!-- /wp:image -->
+Egypt acknowledges one set of lines; Sudan acknowledges the other. The result? **Hala’ib Triangle** is claimed by both; **Bir Tawil** is claimed by neither. It’s essentially terra nullius—“no man’s land.”
 
-<!-- wp:paragraph -->
-<p>Bir Tawil's climate is, hot and arid desert. During the spring, summer and fall months, temperatures can exceed 104 °F / 40 °C. Its peak heat three months three months  can see it as high as 113 °F / 45 °C. The mildest temperatures  79 °F / 26 °C.</p>
-<!-- /wp:paragraph -->
+---
 
-<!-- wp:paragraph -->
-<p>Really?</p>
-<!-- /wp:paragraph -->
+## A Desert Climate
+The region is scorching. Temperatures can top 104°F (40°C) for much of the year, sometimes hitting 113°F (45°C). Even the coolest months hover around 79°F (26°C). This is not exactly prime real estate—water and supplies would be a constant struggle.
 
-<!-- wp:paragraph -->
-<p>Can you move there?  Probably, and if you can surive the conditions, it's yours.  You’ll probably need a visa for Egypt or Sudan to get there though, being land locked.  Getting food there might be tough. Water - even tougher. But here, you would be king or queen.  All you have to do is just convince a fair part of the world that is is yours and you can run it. There is not form, or process. Just form a government, get recognized, and you are the ruler. Some have tried, but no-one has passed muster.</p>
-<!-- /wp:paragraph -->
+---
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+## Could You Actually Live There?
+In theory, yes—if you can handle survival in a desert with no resources. You’d also need an entry visa from either Egypt or Sudan, which ironically might not recognize your “new country.” Several explorers and would-be monarchs have tried to plant a flag, but none have gained any serious global acknowledgment.
 
-<!-- wp:gallery {"ids":[557,559,560],"align":"center"} -->
-<ul class="wp-block-gallery aligncenter columns-3 is-cropped"><li class="blocks-gallery-item"><figure><img src="https://i0.wp.com/ybotman.com/wp-content/uploads/image-23.png?fit=1024%2C576&amp;ssl=1" alt="" data-id="557" class="wp-image-557"/><figcaption>Bir Tawil. the forest.</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://ybotman.com/wp-content/uploads/image-25.png" alt="" data-id="559" data-link="https://ybotman.com/?attachment_id=559#main" class="wp-image-559"/><figcaption>Bir Tawil , the mountain view</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://ybotman.com/wp-content/uploads/image-26.png" alt="" data-id="560" data-link="https://ybotman.com/?attachment_id=560#main" class="wp-image-560"/><figcaption>The Bir Tawil Valley view.</figcaption></figure></li></ul>
-<!-- /wp:gallery -->
+---
 
-<!-- wp:paragraph -->
-<p>So, move forward 50 years. Who get it?</p>
-<!-- /wp:paragraph -->
+![Bir Tawil]("/images/blog-specific-images/bir_tawil.jpg")
+
+*Bir Tawil desert region*
+
+---
+
+## 50 Years From Now—Who Gets It?
+It’s anyone’s guess if Bir Tawil will remain unclaimed forever. Maybe climate change or future diplomatic deals could make it relevant. For now, it’s a curious anomaly: a real chunk of Earth without an official owner.
+
+As extreme as this land might be, it underscores one fascinating reality—**even in the 21st century, not every line on the map is settled.** If you’re bold (and a little crazy), perhaps you could carve out your own desert kingdom here. Just don’t expect an easy time convincing the rest of the world you’re legit. 
+
+Who knows? Give it 50 years. Maybe someone figures out how to desalinate water cheaply, or invests in solar fields, and Bir Tawil becomes the next big thing—or stays a lonely patch of scorching sands.
