@@ -2,8 +2,6 @@
 title: "Shoulders of Measurement Giants : Big"
 date: "2025-01-23"
 author: "toby balsley" 
-author: "toby balsley" 
-author: "toby balsley" 
 slug: "measurement-giants-big"
 featuredImg: "/images/measurement.jpg"
 categories: ["what-we-know", "a-good-idea", "we-know", "science", "astrophysics"]

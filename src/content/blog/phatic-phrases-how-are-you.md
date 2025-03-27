@@ -1,8 +1,7 @@
 ---
 title: "Phatic Phrases: How Are You?"
 date: "2019-08-06"
-author: "toby balsley" 
-author: "toby balsley" 
+author: "toby balsley" double entrie of author
 slug: "phatic-phrases-how-are-you"
 categories: ["we-know", "language"]
 featuredImg: "/images/button.jpg"
