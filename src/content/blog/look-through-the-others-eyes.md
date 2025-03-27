@@ -1,6 +1,7 @@
 ---
 title: "Look through the others eyes"
 date: "2025-07-27"
+author: "toby balsley" 
 slug: "look-through-the-others-eyes"
 categories: ["philosophy", "uniquely-human", "phsychology", "just-thinking", "ybot-isms"]
 featuredImg: "/images/ThinkLong.jpg"

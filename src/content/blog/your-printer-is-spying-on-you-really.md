@@ -1,6 +1,7 @@
 ---
 title: "Your Printer is SPY-ing on you – Really."
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "your-printer-is-a-spy"
 categories: ["just-thinking", "this-is-crazy"]
 featuredImg: "/images/privacy.png"

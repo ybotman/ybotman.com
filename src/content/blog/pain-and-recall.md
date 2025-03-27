@@ -1,6 +1,7 @@
 ---
 title: "Do We Suffer If We Can't Recall?"
 date: "2025-02-24"
+author: "toby balsley" 
 slug: "pain-and-recall"
 categories: ["ethics", "phsychology"]
 featuredImg: "/images/thinking.jpg"

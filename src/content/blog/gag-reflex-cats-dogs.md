@@ -1,6 +1,7 @@
 ---
 title: "Cats, Dogs, and the Gag Reflex"
 date: "2025-03-08"
+author: "toby balsley" 
 slug: "gag-reflex-cats-dogs"
 featuredImg: "/images/smell.jpg"
 status: "draft"

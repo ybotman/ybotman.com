@@ -1,6 +1,7 @@
 ---
 title: "Black hole merger questions"
 date: "2020-03-01"
+author: "toby balsley" 
 slug: "black-hope-merger-questions"
 categories: ["astrophysics", "i-have-questions", "i-want-to-know"]
 featuredImg: "/images/BlackHolesMrging.webp"

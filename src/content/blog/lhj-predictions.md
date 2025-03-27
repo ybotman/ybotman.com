@@ -1,6 +1,7 @@
 ---
 title: "Futurist: Ladies Home Journal"
 date: "2019-07-29"
+author: "toby balsley" 
 slug: "lhj-predictions"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["futurism"]

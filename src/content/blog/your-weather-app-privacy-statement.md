@@ -1,6 +1,7 @@
 ---
 title: "Your weather app Privacy Statement"
 date: "2019-08-01"
+author: "toby balsley" 
 slug: "your-weather-app-privacy-statement"
 categories: ["you-should-know", "privacy", "technology", "this-is-crazy"]
 featuredImg: "/images/Hmmm.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Who’s Really in Control: Us or the Plants?"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "whos-in-control-us-or-plants"
 categories: ["just-thinking", "nature", "evolution"]
 featuredImg: "/images/thinking.jpg"

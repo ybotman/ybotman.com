@@ -1,6 +1,7 @@
 ---
 title: "The 6 levels of car automation (0-5)."
 date: "2019-11-19"
+author: "toby balsley" 
 slug: "6-levels-of-car-automation"
 categories: ["ai", "autonomous-cars", "technology"]
 featuredImg: "/images/futureCars.jpg"

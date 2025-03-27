@@ -1,6 +1,7 @@
 ---
 title: "Futurist: Ray Kurzweil"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "ray-kurzweil-futurist"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["futurism"]

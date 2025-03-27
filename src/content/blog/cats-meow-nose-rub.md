@@ -1,6 +1,7 @@
 ---
 title: "A Meow Is for Us, the Nose-Rub Is for Them"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "cats-meow-nose-rub"
 featuredImg: "/images/dogeyes.jpg"
 categories: ["just-thinking", "evolution", "dogs", "ybot-isms"]

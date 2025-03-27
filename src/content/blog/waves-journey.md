@@ -1,6 +1,7 @@
 ---
 title: "A Wave’s Journey"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "waves-journey"
 status: "draft"
 categories: ["just-thinking", "philosophy", "quotes", "the-good-place"]

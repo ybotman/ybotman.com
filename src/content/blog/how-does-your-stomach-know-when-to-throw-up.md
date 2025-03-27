@@ -1,6 +1,7 @@
 ---
 title: "How does your stomach 'know' when to throw-up?"
 date: "2019-03-26"
+author: "toby balsley" 
 slug: "how-does-your-stomach-know-when-to-throw-up"
 categories: ["body", "food", "funny", "i-want-to-know", "disgust"]
 

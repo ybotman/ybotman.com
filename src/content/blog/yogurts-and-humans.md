@@ -1,6 +1,7 @@
 ---
 title: " Humans are weird as shirt..."
 date: "2020-08-08"
+author: "toby balsley" 
 slug: "yogurts-and-humans"
 featuredImg: "/images/humans-ice-cream-vs-yoguart-featured.png"
 categories: ["funny", "just-thinking", "pshychology", "quotes", "the-good-place"]

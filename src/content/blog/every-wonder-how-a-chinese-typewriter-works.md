@@ -1,6 +1,7 @@
 ---
 title: "Did You Ever Wonder How a Chinese Typewriter Works?"
 date: "2019-08-09"
+author: "toby balsley" 
 slug: "every-wonder-how-a-chinese-typewriter-works"
 categories: ["language", "china"]
 featuredImg: "/images/Hmmm.jpg"

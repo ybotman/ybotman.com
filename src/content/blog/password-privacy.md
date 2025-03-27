@@ -1,6 +1,7 @@
 ---
 title: "Basic Password, Privacy, Protection Best Practices"
 date: "2018-02-06"
+author: "toby balsley" 
 slug: "password-privacy"
 categories: ["a-good-idea", "we-know", "privacy", "technology", "you-should-know"]
 featuredImg : "/images/privacy.png"

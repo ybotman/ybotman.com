@@ -1,6 +1,7 @@
 ---
 title: "Parking Lots of the Near Future"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "parking-lots-of-the-near-future"
 categories: ["just-thinking", "philosophy", "autonomous-cars", "ai"]
 featuredImg: "/images/futureCars.jpg"

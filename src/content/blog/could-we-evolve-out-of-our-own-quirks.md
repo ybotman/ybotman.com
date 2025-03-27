@@ -1,6 +1,7 @@
 ---
 title: "Could We Evolve Out of Our Own Quirks?"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "could-we-evolve-out-of-our-own-quirks"
 featuredImg: "/images/Hmmm.jpg"
 categories: ["just-thinking", "psychology", "philosophy", "uniquely-human"]

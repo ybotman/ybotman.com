@@ -1,6 +1,7 @@
 ---
 title: "Shoulders of Measurement Giants : quantum"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "measurement-giants-quantum"
 featuredImg: "/images/measurement.jpg"
 categories: ["what-we-know", "a-good-idea", "we-know", "science", "quantum"]

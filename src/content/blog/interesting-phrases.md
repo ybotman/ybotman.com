@@ -1,6 +1,7 @@
 ---
 title: "a great thing"
 date: "2019-08-23"
+author: "toby balsley" 
 slug: "interesting-phrases"
 categories: ["quotes"]
 featuredImg: "/images/ThinkLong.jpg"

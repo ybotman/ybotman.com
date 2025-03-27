@@ -1,6 +1,7 @@
 ---
 title: "FaceBook: Do You Know What You Give?"
 date: "2024-07-26"
+author: "toby balsley" 
 slug: "facebook-do-you-know-what-you-give"
 categories: ["a-bad-idea", "we-know", "social-media", "you-should-know"]
 featuredImg: "/images/Giving Up Data FB.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "The Upcoming horrors of autonomous cars"
 date: "2019-10-21"
+author: "toby balsley" 
 slug: "problems-of-autodrive-cars"
 featuredImg: "/images/futureCars.jpg"
 categories: ["ai", "autonomous-cars", "futurism", "technology", "just-thinking"]

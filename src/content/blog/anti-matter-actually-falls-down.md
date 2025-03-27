@@ -1,6 +1,7 @@
 ---
 title: "Anti-Matter Actually Falls Down"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "anti-matter-actually-falls-down"
 categories: ["just-thinking", "science", "you-should-know"]
 featuredImg: "/images/Universe.jpg"

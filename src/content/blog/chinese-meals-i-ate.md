@@ -1,6 +1,7 @@
 ---
 title: "Chinese Meals I Ate on This Trip"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "chinese-meals-i-ate"
 categories: ["food", "culture", "china", "travel"]
 featuredImg: "/images/Food.jpg"

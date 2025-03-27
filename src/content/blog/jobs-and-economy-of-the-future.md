@@ -1,6 +1,7 @@
 ---
 title: "Jobs and Economy of the future"
 date: "2019-09-06"
+author: "toby balsley" 
 slug: "jobs-and-economy-of-the-future"
 categories: ["business", "futurism", "technology", "just-thinking"]
 ---

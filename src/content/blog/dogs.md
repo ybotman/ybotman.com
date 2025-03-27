@@ -1,6 +1,7 @@
 ---
 title: "Dogs are amazing"
 date: "2019-11-22"
+author: "toby balsley" 
 slug: "dogs"
 categories: ["we-know", "evolution", "just-thinking", "dogs"]
 featuredImg: "/images/HappyDogs.webp"

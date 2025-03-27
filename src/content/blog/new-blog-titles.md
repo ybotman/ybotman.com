@@ -1,6 +1,7 @@
 ---
 title: "My Blank Blog Titles"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "new-blog-titles"
 categories: ["just-thinking", "philosophy"]
 featuredImg: "/images/button.jpg"

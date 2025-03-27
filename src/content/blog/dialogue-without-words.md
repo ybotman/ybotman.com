@@ -1,6 +1,7 @@
 ---
 title: "Dialogue Without Words"
 date: "2024-02-22"
+author: "toby balsley" 
 slug: "dialogue-without-words"
 featuredImg: "/images/tango2.jpg"
 categories: ["just-thinking", "dance", "philosophy", "tango", "ybot-isms"]

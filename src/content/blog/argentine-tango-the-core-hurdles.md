@@ -1,6 +1,7 @@
 ---
 title: "Argentine tango : The lead/follow hurdles"
 date: "2019-10-10"
+author: "toby balsley" 
 slug: "argentine-tango-the-core-hurdles"
 categories: ["tango", "dancing"]
 featuredImg: "/images/tango2.jpg"

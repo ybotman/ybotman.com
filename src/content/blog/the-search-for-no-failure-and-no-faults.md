@@ -1,6 +1,7 @@
 ---
 title: "The Search for No-Failure and No-Faults"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "the-search-for-no-failure-and-no-faults"
 featuredImg: "/images/tango2.jpg"
 categories: ["dance", "philosophy", "tango", "uniquely-human"]

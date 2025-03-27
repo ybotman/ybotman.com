@@ -1,6 +1,7 @@
 ---
 title: "The human voice -"
 date: "2019-11-22"
+author: "toby balsley" 
 slug: "the-human-voice"
 categories: ["language", "singing", "voice"]
 ---

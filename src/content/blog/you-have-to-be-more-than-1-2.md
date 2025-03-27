@@ -1,6 +1,7 @@
 ---
 title: "You have to be more than 1/2"
 date: "2019-08-30"
+author: "toby balsley" 
 slug: "you-have-to-be-more-than-1-2"
 categories: ["we-know"]
 featuredImg: "/images/MoreThanHalf.webp"

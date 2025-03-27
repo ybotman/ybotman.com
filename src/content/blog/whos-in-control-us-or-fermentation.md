@@ -1,6 +1,7 @@
 ---
 title: "Who’s Really in Control: Us or Fermentation?"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "whos-in-control-us-or-fermentation"
 categories: ["just-thinking", "food", "evolution"]
 featuredImg: "/images/thinking.jpg"

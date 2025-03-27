@@ -1,6 +1,7 @@
 ---
 title: "We Don’t Deserve Dogs"
 date: "2024-09-18"
+author: "toby balsley" 
 slug: "we-dont-deserve-dogs"
 categories: ["philosophy", "just-thinking", "dogs"]
 featuredImg: "/images/Joyful_Dogs_Montage.gif"

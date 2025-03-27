@@ -1,6 +1,7 @@
 ---
 title: "From Spoiled Food to AI Sensors: The Evolving Science of Disgust"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "disgust-and-ai"
 featuredImg: "/images/thinking.jpg"
 categories: ["just-thinking", "psychology", "science", "ai", "evolution", "i-wonder"]

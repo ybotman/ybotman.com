@@ -1,6 +1,7 @@
 ---
 title: "All Greenhouse Gas source and what to do."
 date: "2019-08-16"
+author: "toby balsley" 
 slug: "all-greenhouse-gas-source-and-what-to-do."
 categories: ["just-thinking"]
 ---

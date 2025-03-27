@@ -1,6 +1,7 @@
 ---
 title: "Passwords: Best Practices"
 date: "2019-08-13"
+author: "toby balsley" 
 slug: "passwords"
 categories: ["a-good-idea", "privacy", "technology", "you-should-know"]
 featuredImg: "/images/passwords-best-practices-featured.png"

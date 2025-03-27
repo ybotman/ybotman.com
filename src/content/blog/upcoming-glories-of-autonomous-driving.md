@@ -1,6 +1,7 @@
 ---
 title: "Upcoming GLORIES of autonomous driving."
 date: "2019-11-09"
+author: "toby balsley" 
 slug: "upcoming-glories-of-autonomous-driving"
 categories: ["ai", "autonomous-cars", "futurism", "technology", "just-thinking"]
 featuredImg: "/images/futureCars.jpg"

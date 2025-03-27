@@ -1,6 +1,7 @@
 ---
 title: "Changes to Cows means Corn is the middle"
 date: "2019-10-04"
+author: "toby balsley" 
 slug: "corncowsoilland"
 categories: ["just-thinking", "food"]
 featuredImg: "images/MeatWithAnimals.webp"

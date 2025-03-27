@@ -1,6 +1,7 @@
 ---
 title: "Airplanes Are Different"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "airplanes-are-different"
 status: "draft"
 categories: ["just-thinking", "travel", "technology", "you-should-know"]

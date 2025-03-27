@@ -1,6 +1,7 @@
 ---
 title: "Different Table Manners Around the World"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "different-table-manners"
 categories: ["culture", "food", "china", "travel"]
 featuredImg: "/images/Food.jpg"

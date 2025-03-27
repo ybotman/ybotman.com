@@ -1,6 +1,7 @@
 ---
 title: "Why I Dance Tango"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "why-i-dance-tango"
 categories: ["just-thinking", "dance", "philosophy", "tango", "uniquely-human"]
 featuredImg: "/images/tango2.jpg"

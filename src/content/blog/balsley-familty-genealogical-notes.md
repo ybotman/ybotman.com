@@ -1,6 +1,7 @@
 ---
 title: "Balsley Family Genealogical Notes"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "balsley-family-genealogical-notes"
 featuredImg: "/images/Baltzli.jpg"
 categories: ["genealogy", "family-history"]

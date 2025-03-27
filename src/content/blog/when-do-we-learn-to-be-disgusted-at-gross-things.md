@@ -1,6 +1,7 @@
 ---
 title: "Discuss Disgust"
 date: "2019-12-02"
+author: "toby balsley" 
 slug: "when-do-we-learn-to-be-disgusted-at-gross-things"
 categories: ["i-have-questions", "i-want-to-know", "just-thinking", "disgust"]
 ---

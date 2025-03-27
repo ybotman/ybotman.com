@@ -1,6 +1,7 @@
 ---
 title: "Distinctly Human Traits: Beyond the Animal Continuum"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "distinctly-human-traits"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["just-thinking", "philosophy", "what-we-know", "uniquely-human"]

@@ -1,6 +1,7 @@
 ---
 title: "Coats in Hong Kong Winter"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "coats-in-hong-kong-winter"
 categories: ["culture", "travel", "china", "travel"]
 featuredImg: "/images/HongKong.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Are we on track to Star Trek?"
 date: "2019-11-09"
+author: "toby balsley" 
 slug: "are-we-on-track-to-star-trek"
 categories: ["futurism", "i-want-to-know", "just-thinking"]
 featuredImg: "/images/Speed.jpg"

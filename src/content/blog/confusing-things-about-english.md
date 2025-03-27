@@ -1,6 +1,7 @@
 ---
 title: "Confusing things about English."
 date: "2019-08-06"
+author: "toby balsley" 
 slug: "confusing-things-about-english"
 categories: ["language", "just-thinking"]
 featuredImg: "/images/types-of-humour-featured.png"

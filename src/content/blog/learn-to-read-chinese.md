@@ -1,6 +1,7 @@
 ---
 title: "Learn to Read Chinese"
 date: "2019-08-06"
+author: "toby balsley" 
 slug: "learn-to-read-chinese"
 categories: ["a-good-idea", "language", "just-thinking"]
 ---

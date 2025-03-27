@@ -1,6 +1,7 @@
 ---
 title: "I gave up on the Privacy Battle, so did you. But, we can do better."
 date: "2019-07-30"
+author: "toby balsley" 
 slug: "the-privacy-battle"
 categories: ["we-know", "privacy", "technology"]
 featuredImg: "/images/privacy.png"

@@ -1,6 +1,7 @@
 ---
 title: "Multi-sensory big-data"
 date: "2019-07-26"
+author: "toby balsley" 
 slug: "multi-sensory-big-data"
 categories: ["body", "futurism", "language", "science", "technology", "just-thinking"]
 ---

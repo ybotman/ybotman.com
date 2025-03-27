@@ -1,6 +1,7 @@
 ---
 title: "Things People Get Wrong: Speed of Electricity"
 date: "2019-08-06"
+author: "toby balsley" 
 slug: "things-people-we-get-wrong-electricity"
 featuredImg: "/images/Hmmm.jpg"
 categories: ["you-should-know", "we-know", "math", "physics", "we-get-wrong"]

@@ -1,6 +1,7 @@
 ---
 title: "Shoulders of Measurement Giants: Cosmic"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "measurement-giants-cosmic"
 featuredImg: "/images/measurement.jpg"
 status: "draft"

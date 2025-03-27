@@ -1,6 +1,7 @@
 ---
 title: "Is “it” all about to change?"
 date: "2023-02-13"
+author: "toby balsley" 
 slug: "is-it-all-about-to-change"
 categories: ["ai", "i-have-questions", "just-thinking"]
 ---

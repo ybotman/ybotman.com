@@ -1,6 +1,7 @@
 ---
 title: "1952 Robert Heilein's predictions of 2000."
 date: "2019-07-30"
+author: "toby balsley" 
 slug: "1952-robert-heileins-predictions-of-2000"
 categories: ["a-good-idea", "astrophysics", "futurism", "i-want-to-know", "science", "technology"]
 featuredImg: "/images/thinking.jpg"

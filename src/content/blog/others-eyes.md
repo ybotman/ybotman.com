@@ -1,6 +1,7 @@
 ---
 title: "Each Others Eyes"
 date: "2020-02-19"
+author: "toby balsley" 
 slug: "others-eyes"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["philosophy", "uniquely-human", "phsychology", "just-thinking", "ybot-isms"]

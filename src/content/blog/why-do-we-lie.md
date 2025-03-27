@@ -1,6 +1,7 @@
 ---
 title: "The Lie – Why?"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "why-do-we-lie"
 featuredImg: "/images/button.jpg"
 categories: ["uniquely-human", "i-want-to-know", "psychology"]

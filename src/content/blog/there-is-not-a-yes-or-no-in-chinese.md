@@ -1,6 +1,7 @@
 ---
 title: "There is not a 'Yes' or 'No' in Chinese"
 date: "2019-03-26"
+author: "toby balsley" 
 slug: "there-is-not-a-yes-or-no-in-chinese"
 featuredImg: "/images/HongKong.jpg"
 categories: ["just-thinking", "philosophy", "language"]

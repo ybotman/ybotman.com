@@ -1,6 +1,7 @@
 ---
 title: "The Last Unclaimed Part of Earth—It Could Be Yours"
 date: "2019-03-26"
+author: "toby balsley" 
 slug: "the-last-unclaimed-part-of-earth"
 featuredImg: "/images/button.jpg"
 categories: ["this-is-crazy", "travel"]

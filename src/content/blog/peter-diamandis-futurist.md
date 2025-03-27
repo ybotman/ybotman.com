@@ -1,6 +1,7 @@
 ---
 title: "Futurist: Peter Diamandis"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "peter-diamandis-futurist"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["futurism"]

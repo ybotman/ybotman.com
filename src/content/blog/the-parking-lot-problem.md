@@ -1,6 +1,7 @@
 ---
 title: "The Parking Lot Problem"
 date: "2020-01-12"
+author: "toby balsley" 
 slug: "the-parking-lot-problem"
 categories: ["just-thinking", "cars"]
 featuredImg: "/images/futureCars.jpg"

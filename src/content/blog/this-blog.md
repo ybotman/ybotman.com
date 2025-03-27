@@ -1,6 +1,7 @@
 ---
 title: "My hopes for this Blog."
 date: "2019-02-19"
+author: "toby balsley" 
 slug: "this-blog"
 categories: ["just-thinking"]
 featuredImg: "/images/thinking.jpg"

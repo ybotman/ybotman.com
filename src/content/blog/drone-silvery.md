@@ -1,6 +1,7 @@
 ---
 title: "Drone delivery - What i want, now."
 date: "2019-10-23"
+author: "toby balsley" 
 slug: "drone-silvery"
 categories: ["a-good-idea", "technology", "just-thinking"]
 featuredImg: "/images/button.jpg"

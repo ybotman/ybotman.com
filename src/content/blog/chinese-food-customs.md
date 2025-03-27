@@ -1,6 +1,7 @@
 ---
 title: "Chinese Food Customs"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "chinese-food-customs"
 categories: ["culture", "food", "china", "travel"]
 featuredImg: "/images/HongKong.jpg"

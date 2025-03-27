@@ -1,6 +1,7 @@
 ---
 title: "Everything is changing: except these things"
 date: "2019-08-30"
+author: "toby balsley" 
 slug: "its-not-changing"
 categories: ["just-thinking"]
 ---

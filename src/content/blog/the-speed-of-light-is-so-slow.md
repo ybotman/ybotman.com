@@ -1,6 +1,7 @@
 ---
 title: "The Speed of Light Is SOOO Slow"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "the-speed-of-light-is-so-slow"
 categories: ["just-thinking", "science"]
 featuredImg: "/images/Speed.jpg"

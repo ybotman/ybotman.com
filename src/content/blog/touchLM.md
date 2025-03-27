@@ -1,6 +1,7 @@
 ---
 title: "We Need TouchLM SmellLM"
 date: "2019-10-04"
+author: "toby balsley" 
 slug: "TouchLM"
 categories: ["just-thinking", "ai"]
 featuredImg: "/images/button.jpg"

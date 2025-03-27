@@ -1,6 +1,7 @@
 ---
 title: "Blame, Guilt, and Shame: Are We the Only Ones?"
 date: "2019-01-23"
+author: "toby balsley" 
 slug: "blame-guilt-shame"
 categories: ["just-thinking", "psychology", "philosophy", "i-want-to-know", "uniquely-human", "i-wonder"]
 featuredImg: "/images/thinking.jpg"

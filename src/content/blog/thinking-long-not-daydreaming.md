@@ -1,6 +1,7 @@
 ---
 title: "Thinking Long, Not Daydreaming"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "thinking-long-not-daydreaming"
 featuredImg: "/images/ThinkLong.jpg"
 status: "draft"

@@ -1,6 +1,7 @@
 ---
 title: "Do Whales Have Vowels?"
 date: "2019-08-07"
+author: "toby balsley" 
 slug: "do-whales-have-vowels"
 categories: ["language", "just-thinking", "i-want-to-know", "i-have-questions", "created-in-your-brain"]
 ---

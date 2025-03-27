@@ -1,6 +1,7 @@
 ---
 title: "Rhythm vs musical intervals."
 date: "2019-03-27"
+author: "toby balsley" 
 slug: "about-rhythm-vs-pitch"
 categories: ["music", "physics"]
 ---

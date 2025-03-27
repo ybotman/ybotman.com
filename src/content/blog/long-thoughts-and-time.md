@@ -1,6 +1,7 @@
 ---
 title: "Long thoughts, and Loneliness"
 date: "2019-08-23"
+author: "toby balsley" 
 slug: "long-thoughts-and-time"
 categories: ["a-good-idea", "phsychology", "just-thinking"]
 featuredImg: "/images/ThinkLong.jpg"

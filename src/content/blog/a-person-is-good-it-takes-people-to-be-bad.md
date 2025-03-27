@@ -1,6 +1,7 @@
 ---
 title: "A Person Is Good—It Takes People to Be Bad"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "a-person-is-good-it-takes-people-to-be-bad"
 categories: ["just-thinking", "philosophy", "phsychology", "ybot-isms"]
 featuredImg: "/images/Hmmm.jpg"

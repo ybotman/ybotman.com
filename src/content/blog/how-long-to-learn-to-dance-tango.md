@@ -1,6 +1,7 @@
 ---
 title: "How long to learn to dance Argentine Tango?"
 date: "2019-03-27"
+author: "toby balsley" 
 slug: "how-long-to-learn-to-dance-tango"
 categories: ["body", "dance", "tango"]
 ---

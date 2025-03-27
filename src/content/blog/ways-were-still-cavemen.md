@@ -1,6 +1,7 @@
 ---
 title: "Ways We’re Still Just Cavemen"
 date: "2025-01-23"
+author: "toby balsley" 
 slug: "ways-were-still-cavemen"
 featuredImg: "/images/ThinkLong.jpg"
 categories: ["just-thinking", "psychology", "philosophy", "uniquely-human"]

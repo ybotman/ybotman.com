@@ -1,6 +1,7 @@
 ---
 title: "Philosophy options of the Universe - 4 choices."
 date: "2019-08-12"
+author: "toby balsley" 
 slug: "philosophy-options-of-the-universe-4-choices"
 categories: ["astrophysics", "i-want-to-know", "we-know", "philosophy", "just-thinking"]
 ---
