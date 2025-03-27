@@ -3,7 +3,6 @@ title: "3NF is Dead - Long Live non-normalized?"
 date: "2020-03-03"
 author: "toby balsley" 
 slug: "3NF"
-author: "Toby Balsley"
 featuredImg: "/images/button.jpg"
 categories: ["just-thinking", "technology", "data-architecture"]
 ---
